@@ -1,0 +1,1540 @@
+,Instructor,Department,Rcmnd Instr,Average Grade Expected,Classes Taught
+0,"Ben-Yosef, Erez",Anthropology,100.0,3.64,1.0
+1,"D'Alpoim Guedes, Jade A",Anthropology,100.0,3.75,1.0
+2,"Marchetto, Maria Carolina",Anthropology,100.0,3.91,1.0
+3,"Non, Amy L",Anthropology,90.96666666666665,3.28,3.0
+4,"Lew, Caroline Horton",Anthropology,88.1,3.685,2.0
+5,"Goodman, Yehuda Chaim",Anthropology,75.0,3.25,1.0
+6,"Jenkins, Janis A.",Anthropology,100.0,4.0,1.0
+7,"Saravia, Paula F",Anthropology,83.80000000000001,3.7049999999999996,4.0
+8,"Olivas Hernandez, Olga Lid",Anthropology,94.25,3.8625,4.0
+9,"Hauck, Jan",Anthropology,100.0,3.69,1.0
+10,"Kang, Byung Chu",Anthropology,96.11666666666667,3.82,6.0
+11,"Pedersen, David",Anthropology,71.89999999999999,3.6833333333333336,3.0
+12,"Goldstein, Paul S",Anthropology,87.625,3.58,4.0
+13,"Semendeferi, Ekaterini",Anthropology,97.61666666666667,4.0,6.0
+14,"Rothschild, Amy C",Anthropology,87.8,3.79,2.0
+15,"Stewart, Alexander B",other,93.225,3.6725000000000003,4.0
+16,"Rivera-Collazo, Isabel C",Anthropology,100.0,3.49,1.0
+17,"Parish, Steven Martin",Anthropology,94.3,3.94,1.0
+18,"Liss, Brady James",Anthropology,100.0,3.17,1.0
+19,"Berman, Michael David",Anthropology,93.3,3.5,1.0
+20,"Wilder, Linnea Lorene",other,91.39999999999999,3.453333333333333,3.0
+21,"Hrvoj Mihic, Branka",Anthropology,100.0,3.75,1.0
+22,"Kurian, Amrita Achamma",Anthropology,100.0,3.33,1.0
+23,"Kennemore, Amy Michelle",Anthropology,100.0,3.5,1.0
+24,"Braswell, Geoffrey E.",Anthropology,100.0,3.76,2.0
+25,"Levy, Thomas E",Anthropology,88.80000000000001,3.525,2.0
+26,"Strum, Shirley C.",Anthropology,100.0,3.67,1.0
+27,"Gagneux, Pascal",Anthropology,100.0,3.5,2.0
+28,"Minsky-Rowland, Jocelyn D",Anthropology,100.0,3.5,1.0
+29,"Haviland, John B.",Anthropology,65.93333333333334,3.1566666666666667,3.0
+30,"Garth, Hanna Fitzmaurice",Anthropology,100.0,3.74,1.0
+31,"Brenner, Suzanne A",Anthropology,93.23333333333333,3.7466666666666666,3.0
+32,"Bennallack, Kathleen Celia",Anthropology,71.9,3.8,1.0
+33,"Algaze, Guillermo",Anthropology,100.0,3.57,1.0
+34,"Fortier, Jana",Anthropology,100.0,3.2,1.0
+35,"Schoeninger, Margaret J",Anthropology,83.3,4.0,1.0
+36,"Lafleur, Marni M",Anthropology,94.7,3.73,2.0
+37,"Postero, Nancy Grey",Anthropology,100.0,3.77,1.0
+38,"Bialecki, Jon Anthony",Anthropology,91.3,3.57,1.0
+39,"Duzel, Esin",other,90.25,3.605,2.0
+40,"Mc Culloch, Andrew Douglas",Bioengineering,83.03333333333333,3.5066666666666664,3.0
+41,"Valdez-Jasso, Daniela",Bioengineering,69.2,3.62,1.0
+42,"Metallo, Christian Michael",Bioengineering,90.75,3.52,2.0
+43,"Wheeler, Bruce Christopher",Bioengineering,94.04444444444444,3.82388888888889,18.0
+44,"Coleman, Todd Prentice",Bioengineering,93.8,3.19,1.0
+45,"Lal, Ratnesh",other,62.43333333333333,3.4899999999999998,3.0
+46,"Fraley, Stephanie I.",Bioengineering,90.9,3.315,2.0
+47,"Mali, Prashant Gulab Ram",Bioengineering,94.75,3.48,2.0
+48,"Sah, Robert Lie-Yuan",Bioengineering,20.0,3.22,1.0
+49,"Zhong, Sheng",Bioengineering,76.0,3.59,1.0
+50,"Abbasi, Shaghayegh",Bioengineering,66.7,1.67,1.0
+51,"Alexandrov, Ludmil B",Bioengineering,90.1,3.18,1.0
+52,"Huang, Xiaohua",Bioengineering,61.25,3.4749999999999996,2.0
+53,"Hasty, Jeff M",other,90.73333333333333,3.7133333333333334,3.0
+54,"Silva, Gabriel",Bioengineering,72.8,3.4699999999999998,2.0
+55,"Devor, Anna",Bioengineering,100.0,3.64,1.0
+56,"Zhang, Kun",Bioengineering,94.7,3.54,1.0
+57,"Cabrales, Pedro",Bioengineering,95.85,3.565,2.0
+58,"Bafna, Vineet",other,82.5,2.8200000000000003,4.0
+59,"Bansal, Vikas",other,61.13333333333333,3.223333333333333,3.0
+60,"Dequach, Jessica A",Bioengineering,64.5,3.23,1.0
+61,"Chien, Shu",Bioengineering,88.8,3.8,1.0
+62,"Subramaniam, Shankar",Bioengineering,80.0,2.88,1.0
+63,"Wang, Yingxiao",Bioengineering,82.0,3.2649999999999997,2.0
+64,"Palsson, Bernhard O.",Bioengineering,66.7,3.5,1.0
+65,"Sparks, Steven Ray",Bioengineering,33.3,3.11,1.0
+66,"Lewis, Nathan E",Bioengineering,100.0,3.17,1.0
+67,"Pevzner, Pavel Arkadjevich",other,71.7,2.643333333333333,3.0
+68,"Cauwenberghs, Gert",Bioengineering,90.9,3.17,1.0
+69,"Alvarez-Cabanillas, Miguel",Bioengineering,87.5,3.0,1.0
+70,"Huffaker, Alisa",Biology,97.35,3.73,2.0
+71,"Schmelz, Eric Alexander",Biology,85.0,3.52,2.0
+72,"Hampton, Randolph Y.",Biology,96.10000000000001,3.6333333333333333,3.0
+73,"Mohan, Swarna",Biology,90.65714285714284,3.400000000000001,7.0
+74,"Soowal, Lara",Biology,96.3,3.1799999999999997,3.0
+75,"Coleman, Aaron B.",Biology,95.4,3.338,5.0
+76,"Bozinovic, Goran",Biology,88.27142857142859,3.1457142857142855,7.0
+77,"Hui, Enfu",Biology,100.0,3.66,2.0
+78,"Reuther, Keefe",Biology,96.77499999999999,3.4687500000000004,8.0
+79,"Kiger, Amy",Biology,71.9,3.09,1.0
+80,"Grossman, Emily N",Biology,93.08333333333333,3.5316666666666663,6.0
+81,"Zuniga, Elina I",Biology,77.35,3.48,2.0
+82,"Shurin, Jonathan",Biology,88.05,3.17,2.0
+83,"Butler, Shannon Rhey",Biology,98.1,3.69,2.0
+84,"Kohn, Joshua R",Biology,87.9,3.39,1.0
+85,"Petrie, Katherine Lynn",Biology,98.8,3.66,2.0
+86,"Kryazhimskiy, Sergey A",Biology,95.85,3.38,2.0
+87,"Barton, Andrew David",other,94.55,3.285,2.0
+88,"Cleland, Elsa Eleanor",Biology,90.45,3.5700000000000003,2.0
+89,"Mel, Stephanie",Biology,96.41999999999999,3.598,5.0
+90,"Cooper, Andrew Michael",Biology,92.8,3.426666666666667,3.0
+91,"Byrne, Kathryne",Biology,32.0,3.3049999999999997,2.0
+92,"Burg, Michael",Biology,98.7,3.488571428571428,7.0
+93,"Rana, Brinda Kanti",Biology,75.26666666666667,3.0766666666666667,3.0
+94,"Stockwell, Sarah R",Biology,94.02000000000001,3.304,5.0
+95,"Broccard Bell, Heather Chr",other,93.63333333333333,3.3166666666666664,3.0
+96,"Lo, Stanley Malvin Ming-Hi",Biology,94.95,3.565,4.0
+97,"Macagno, Eduardo R.",Biology,77.80000000000001,3.875,2.0
+98,"Butler, Madeline",Biology,100.0,4.0,1.0
+99,"Lykke-Andersen, Jens",Biology,94.3,3.29,1.0
+100,"Pasquinelli, Amy",Biology,94.3,3.19,1.0
+101,"Day, Christopher D",Biology,90.21666666666668,3.57,6.0
+102,"Miller, Steven W.",Biology,91.2,3.4,2.0
+103,"Tour, Ella",Biology,95.33333333333333,3.483333333333334,3.0
+104,"Golden, Susan S.",other,87.55000000000001,3.255,2.0
+105,"Gorman, Michael R.",other,87.39999999999999,3.1316666666666664,6.0
+106,"Pirino, Giorgia",Biology,92.2,3.304,5.0
+107,"Gustafson-Brown, Cindy",Biology,94.85,3.1762500000000005,8.0
+108,"Hao, Nan",Biology,96.35,3.5,2.0
+109,"Suel, Gurol Mehmet",Biology,89.4,3.63,1.0
+110,"Grant, Barry J",Biology,98.675,3.7,4.0
+111,"Mayfield, Stephen P.",Biology,97.2,3.52,2.0
+112,"Golden, James W",Biology,100.0,4.0,1.0
+113,"Bloodgood, Brenda Laurie",Biology,92.6,3.26,1.0
+114,"Cooke, James Edward",Biology,97.3,3.4675,4.0
+115,"Reyes Gonzalez, Catalina",Biology,95.06,3.086,5.0
+116,"Fortes, P. A. George",Biology,68.40000000000002,3.455,6.0
+117,"Armour, Jon Christopher",Biology,98.725,3.2225,4.0
+118,"Spitzer, Nicholas",Biology,92.7,3.34,1.0
+119,"Su, Chih-Ying",Biology,92.7,3.31,2.0
+120,"Root, Cory Matthew",Biology,51.9,3.52,1.0
+121,"Banghart, Matthew Ryan",Biology,85.35,3.5999999999999996,2.0
+122,"Pekkurnaz Banghart, Gulcin",Biology,93.75,3.865,2.0
+123,"Pfaff, Samuel",Biology,100.0,4.0,1.0
+124,"Yelon, Deborah",Biology,100.0,3.73,2.0
+125,"Wertheim, Joel Okrent",Biology,100.0,3.9,1.0
+126,"Cook, Orna",Biology,87.5,3.65,1.0
+127,"Doblas Ibanez, Paula Adela",Biology,100.0,3.06,1.0
+128,"Painter, Chelsea Danielle",Biology,98.0,3.33,1.0
+129,"Wills, Christopher",Biology,88.9,2.82,1.0
+130,"Chu, Monica W",Biology,97.2,3.475,6.0
+131,"Vijapurkar, Ulka",Biology,93.95,3.3499999999999996,2.0
+132,"Mudla, Anusorn",Biology,100.0,3.52,1.0
+133,"Ryan, Genevieve Elaine",Biology,82.6,3.27,1.0
+134,"Rusert, Jessica Marie",Biology,81.1,3.44,1.0
+135,"Rizk, Maryan Girgis Soliman",Biology,83.3,3.35,1.0
+136,"Davis, Amanda Gabrielle",Biology,92.9,3.39,1.0
+137,"Waterton, Joseph Sebastian",Biology,91.7,3.3,1.0
+138,"Feng, Gen-Sheng",Biology,69.8,3.36,1.0
+139,"Troemel, Emily Ruth",Biology,86.9,3.61,1.0
+140,"Forbes, Douglass Jane",Biology,85.0,3.49,1.0
+141,"Lim, Byungkook",Biology,71.4,3.14,1.0
+142,"Cooper, Kimberly Lynn",Biology,94.05000000000001,3.13,2.0
+143,"Traver, David",Biology,95.9,3.24,1.0
+144,"Lu, Li-Fan",Biology,91.7,3.13,1.0
+145,"Desai, Arshad",Biology,100.0,3.88,1.0
+146,"Oegema, Karen",Biology,100.0,3.89,1.0
+147,"Goldrath, Ananda",Biology,100.0,3.93,1.0
+148,"Roy, Kaustuv",Biology,96.8,3.51,2.0
+149,"Chao, Lin",Biology,95.65,3.3499999999999996,2.0
+150,"Rifkin, Scott",Biology,100.0,3.55,1.0
+151,"Meyer, Justin Raymond",Biology,92.3,3.46,1.0
+152,"Patrick, Gentry",Biology,72.4,3.08,1.0
+153,"Strause, Linda G.",Biology,95.9,3.58,1.0
+154,"Kurle, Carolyn M.",Biology,97.25,3.435,2.0
+155,"Pruneda-Paz, Jose L.",Biology,99.3,3.685,2.0
+156,"Herndon, Jenny Dyann",Biology,92.7,3.546666666666667,3.0
+157,"Niwa, Maho",Biology,93.5,3.45,1.0
+158,"Baker, Timothy Stanley",other,100.0,3.29,2.0
+159,"Sejnowski, Terrence J",Biology,83.3,3.0,1.0
+160,"Halpain, Shelley",Biology,87.6,3.65,1.0
+161,"Malinow, Roberto",Biology,90.0,3.6,1.0
+162,"French, Kathleen Ann",Biology,92.3,3.77,1.0
+163,"Estelle, Mark",Biology,94.1,4.0,1.0
+164,"Heinrich, Erica C",Biology,100.0,4.0,1.0
+165,"Zhao, Yunde",Biology,82.8,3.17,1.0
+166,"Wilhelm, James E.",Biology,100.0,3.27,1.0
+167,"Villa Rodriguez, Elizabeth",Biology,81.4,3.32,1.0
+168,"Murre, Cornelis",Biology,90.9,3.8,2.0
+169,"Xu, Yang",Biology,69.2,3.62,2.0
+170,"Holway, David A.",Biology,94.6,3.45,1.0
+171,"Nieh, James Charles",Biology,100.0,3.38,1.0
+172,"Komiyama, Takaki",Biology,92.9,3.27,1.0
+173,"Schroeder, Julian I",Biology,88.8,3.39,1.0
+174,"Lauberth, Shannon Marie",Biology,86.4,3.36,1.0
+175,"McDonnell, Lisa Marie",Biology,93.5,3.32,1.0
+176,"Zhang, Dong-Er",Biology,97.4,3.46,1.0
+177,"Kadonaga, James T",Biology,96.7,3.64,1.0
+178,"David, Michael",Biology,100.0,3.66,1.0
+179,"Allen, Eric",other,95.35,3.5549999999999997,2.0
+180,"Bennett, Eric J",Biology,95.8,3.22,1.0
+181,"Wang, Jing",Biology,88.2,3.18,1.0
+182,"Ackerman, Susan",Biology,83.3,3.91,1.0
+183,"Newsam, John",other,100.0,3.96,2.0
+184,"Muotri, Alysson",Biology,83.3,3.91,1.0
+185,"Bigham, David Joseph",Sixith College,94.96,3.5060000000000002,5.0
+186,"Bronstein, Phoebe Malan",Sixith College,94.2,3.645,4.0
+187,"Glaser, Amelia",other,92.63333333333333,3.6500000000000004,6.0
+188,"Ano, Michael Shigeya",Sixith College,74.1,3.18,1.0
+189,"Pantoja, Jennifer Metten",Sixith College,95.76666666666665,3.6333333333333333,3.0
+190,"Smith, Ashley Elizabeth",other,92.08000000000001,3.7159999999999997,5.0
+191,"Zhang, Kefei Kevin",other,95.0,3.665,2.0
+192,"Sartor, Alexandra",Sixith College,95.4,3.7199999999999998,2.0
+193,"Godino, Job Gideon",Sixith College,100.0,4.0,1.0
+194,"Trigilio, Michael",other,91.88,3.554,5.0
+195,"Whitley, Leila Marie",Critical Gender Studies,90.9,3.65,2.0
+196,"Icreverzi, Kimberly Heathe",Critical Gender Studies,79.35,3.3200000000000003,2.0
+197,"Kaplan, Sara Clarke",Critical Gender Studies,100.0,3.67,1.0
+198,"Abusneineh, Bayan Abdelmajid",Critical Gender Studies,100.0,3.88,1.0
+199,"Martin Sandino, Amanda Maria Yoland",Critical Gender Studies,100.0,3.88,1.0
+200,"Kheshti, Roshanak",other,80.0,3.745,2.0
+201,"Celleri, Maria",other,100.0,3.7099999999999995,3.0
+202,"Nguyen, Ly Thuy",other,94.2,3.4033333333333338,3.0
+203,"Gore, Dayo F.",other,72.1,3.545,2.0
+204,"Zarate, Salvador Elias",other,99.14,3.8,5.0
+205,"Dorr, Kirstie A.",other,100.0,3.716666666666667,3.0
+206,"Taylor-Garcia, Daphne",other,100.0,3.745,4.0
+207,"Hernandez, Jillian",other,100.0,3.8666666666666667,3.0
+208,"Leigh, Brian",Chemistry,93.1,3.14,1.0
+209,"Crowell, John E",Chemistry,74.1,3.2162499999999996,8.0
+210,"Ghosh, Gourisankar",Chemistry,86.96666666666665,3.6366666666666667,3.0
+211,"Mrse, Anthony Adrian",Chemistry,91.9,3.2,1.0
+212,"Toor, Navtej",Chemistry,70.9,3.16,1.0
+213,"Galperin, Michael",Chemistry,44.4,2.76,1.0
+214,"Sinha, Amitabha",Chemistry,78.35,2.96,2.0
+215,"Esko, Jeffrey D.",Chemistry,100.0,3.065,2.0
+216,"Godula, Kamil",Chemistry,95.8,3.046666666666667,3.0
+217,"Ternansky, Robert J.",Chemistry,86.775,3.10125,8.0
+218,"Weizman, Haim",Chemistry,91.10000000000001,3.132857142857143,7.0
+219,"Theodorakis, Emmanuel",Chemistry,92.55,2.91,2.0
+220,"Tor, Yitzhak",Chemistry,98.5,3.415,2.0
+221,"Grassian, Vicki Helene",Chemistry,89.7,3.31,1.0
+222,"Sullivan, Michael N",Chemistry,82.1,3.32,1.0
+223,"Hoeger, Carl",Chemistry,79.775,2.8387500000000006,8.0
+224,"Oconnor, Joseph M.",Chemistry,73.6,2.98,1.0
+225,"Hirschauer, Sonia S",Chemistry,97.35,2.9450000000000003,2.0
+226,"Klosterman, Jeremy K",Chemistry,70.7375,3.0700000000000003,8.0
+227,"Perrin, Charles L.",Chemistry,72.8,2.98,1.0
+228,"Albizati, Kim F.",Chemistry,90.575,3.115,4.0
+229,"Zid, Brian M",Chemistry,92.30000000000001,3.125,2.0
+230,"Brydges, Stacey",Chemistry,90.5,3.1,1.0
+231,"Lam, Tin Yiu",Chemistry,94.075,3.265,4.0
+232,"Bussey, Thomas J",Chemistry,98.89,3.5159999999999996,10.0
+233,"Swift, Robert Vernon",Chemistry,89.2,3.17,1.0
+234,"Tauber, Michael",Chemistry,73.96666666666667,3.0966666666666662,3.0
+235,"Young, Mark",Chemistry,77.9,2.83,1.0
+236,"Kim, Judy E.",Chemistry,80.01666666666667,3.0383333333333336,6.0
+237,"Lacoske, Michelle Hill",Chemistry,95.5,3.09,1.0
+238,"Johnson, Christina A",Chemistry,94.48333333333333,3.1133333333333333,6.0
+239,"Katz, Faith Erin Heffernan",Chemistry,87.5,3.04,1.0
+240,"Pomeroy, Robert S.",other,92.02000000000001,3.25,5.0
+241,"Jennings, Patricia A.",Chemistry,37.65,3.725,2.0
+242,"Wang, Wei",Chemistry,88.8,3.27,1.0
+243,"Debelouchina, Galia T",Chemistry,99.05,3.555,2.0
+244,"Komives, Elizabeth A",Chemistry,98.1,3.6100000000000003,2.0
+245,"Joseph, Simpson",Chemistry,75.0,3.22,1.0
+246,"Amaro, Rommie E",Chemistry,84.4,3.5149999999999997,2.0
+247,"Sailor, Michael Joseph",Chemistry,99.0,3.505,2.0
+248,"Yuen Zhou, Joel",Chemistry,94.3,3.11,1.0
+249,"Opella, Stanley J",Chemistry,66.7,2.8,1.0
+250,"Xiong, Wei",Chemistry,98.1,2.9699999999999998,2.0
+251,"Burkart, Michael D",Chemistry,87.5,2.95,1.0
+252,"Kristensen, Louise J",Chemistry,68.8,3.0,1.0
+253,"Dickson, Andrew Gilmore",other,58.35,3.29,2.0
+254,"Gilson, Michael K.",Chemistry,100.0,3.29,1.0
+255,"Molinski, Tadeusz",Chemistry,30.0,2.28,1.0
+256,"Deshmukh, Lalit",Chemistry,90.3,2.98,1.0
+257,"Kubiak, Clifford Paul",Chemistry,80.6,3.49,1.0
+258,"Pena, Ignacio Lopez",Chemistry,24.5,3.2,1.0
+259,"McHugh, Colleen A",Chemistry,100.0,3.22,1.0
+260,"Thiemens, Mark H",Chemistry,81.0,3.45,1.0
+261,"Muller, Ulrich K.",Chemistry,87.5,3.41,1.0
+262,"Huang, Xuemei",Chemistry,84.8,3.11,1.0
+263,"Tezcan, Faik",Chemistry,94.3,2.755,2.0
+264,"Paesani, Francesco",Chemistry,99.25,3.115,2.0
+265,"Weare, John H.",Chemistry,25.7,2.97,1.0
+266,"Yang, Jerry",Chemistry,100.0,3.6,1.0
+267,"Devaraj, Neal Krishna",Chemistry,82.9,3.45,1.0
+268,"Bertrand, Guy",Chemistry,98.4,3.39,1.0
+269,"Schmidt, Valerie A",Chemistry,95.7,3.08,1.0
+270,"Schimpf, Alina M",Chemistry,91.7,3.12,1.0
+271,"Komor, Alexis C",Chemistry,71.3,2.91,1.0
+272,"Kummel, Andrew C",Chemistry,79.2,3.11,1.0
+273,"Ghosh, Partho",Chemistry,65.3,2.92,1.0
+274,"Cohen, Seth M",Chemistry,91.9,3.29,2.0
+275,"Anderson, Qin-Hong",Chinese Studies,99.55,3.6787500000000004,8.0
+276,"Xu, Li",Chinese Studies,95.4125,3.8275,8.0
+277,"Chen, Pei-Chia",Chinese Studies,100.0,3.78,6.0
+278,"Cha, Samuel",Chinese Studies,99.225,3.6212500000000003,8.0
+279,"Wang, Xiao",Chinese Studies,87.175,3.83,8.0
+280,"Boyle, Mary E. T.",Cognitive Science,91.16363636363636,3.5736363636363637,11.0
+281,"Scott, Taylor Jackson",Cognitive Science,95.46666666666665,3.581666666666667,6.0
+282,"Kirsh, David Joel",Cognitive Science,85.56666666666666,3.563333333333333,3.0
+283,"Momma, Shota",other,93.6,3.5650000000000004,4.0
+284,"Rangel, Lara M",Cognitive Science,99.75,3.655,4.0
+285,"Mukamel, Eran A",Cognitive Science,93.9,3.29,2.0
+286,"Tu, Zhuowen",Cognitive Science,84.53333333333335,3.626666666666667,3.0
+287,"De Sa, Virginia",Cognitive Science,89.65,3.6100000000000003,2.0
+288,"Saygin, Ayse P",Cognitive Science,72.5,3.395,2.0
+289,"Guo, Philip J",other,99.575,3.775,4.0
+290,"Sanchez Amaro, Alejandro",Cognitive Science,90.0,3.55,1.0
+291,"Kim, Seung Kyung",Cognitive Science,74.1,3.3200000000000003,2.0
+292,"Bergen, Benjamin",Cognitive Science,100.0,3.63,1.0
+293,"Johnson, Christine M.",Cognitive Science,86.97142857142856,3.1671428571428573,7.0
+294,"Donoghue, Thomas",Cognitive Science,98.0,3.62,1.0
+295,"Miller, Carson Grant",Cognitive Science,88.3,3.78,1.0
+296,"Voytek, Bradley Thomas",Cognitive Science,96.25,3.745,2.0
+297,"Meyer, Michael Wayne",Cognitive Science,89.80000000000001,3.485,2.0
+298,"Hollan, James D.",Cognitive Science,93.525,3.59,4.0
+299,"Davis, Joshua Daniel",Cognitive Science,96.85,3.5300000000000002,2.0
+300,"Semenuks, Arturs",Cognitive Science,94.7,3.47,1.0
+301,"Pineda, Jaime A",Cognitive Science,90.17500000000001,3.495,4.0
+302,"Gupta, Anjum",other,85.95,3.4000000000000004,2.0
+303,"Coulson, Seana M",Cognitive Science,88.60000000000001,3.466666666666667,3.0
+304,"Bardolph, Megan Dalene",Cognitive Science,96.2,3.73,1.0
+305,"Barrera, Steven James",Cognitive Science,100.0,3.48,2.0
+306,"Gougelet, Robert Joseph",Cognitive Science,43.650000000000006,3.395,2.0
+307,"Yang, Dorothy Daw-Shin",other,96.15,3.3499999999999996,4.0
+308,"Hoffman, Drew Ellen",Cognitive Science,90.06666666666666,3.3233333333333337,3.0
+309,"Chiba, Andrea",Cognitive Science,96.1,3.715,2.0
+310,"Boroditsky, Lera",Cognitive Science,94.16666666666667,3.526666666666667,3.0
+311,"Dow, Steven P",Cognitive Science,87.59999999999998,3.6833333333333336,3.0
+312,"Rossano, Federico",Cognitive Science,92.73333333333333,3.3433333333333337,3.0
+313,"Nunez, Rafael E",Cognitive Science,95.45,3.135,2.0
+314,"Creel, Sarah",Cognitive Science,100.0,3.5,2.0
+315,"Jernigan, Terry Lynne",Cognitive Science,80.0,3.85,1.0
+316,"Irani, Lilly C",other,89.6,3.13,2.0
+317,"Nitz, Douglas A.",Cognitive Science,95.76666666666667,3.526666666666667,3.0
+318,"Yu, Angela J.",Cognitive Science,55.6,3.29,1.0
+319,"Boateng, Boatema",Communication,78.8,3.296666666666667,3.0
+320,"Booker, Angela N",Communication,96.3,3.61,2.0
+321,"Martinico, Daniel J",Communication,99.0,3.83,4.0
+322,"Davis, Zeinabu I.",Communication,100.0,3.8324999999999996,4.0
+323,"Campion, Camille E",Communication,94.43333333333334,3.7966666666666664,3.0
+324,"Muria, Magali",Communication,88.89999999999999,3.6233333333333335,3.0
+325,"Kovacs, Andras Balint",Communication,61.0,3.34,2.0
+326,"Hallin, Daniel C",other,96.11999999999999,3.3299999999999996,5.0
+327,"Ridlen, Timothy Michael",other,80.85,3.4749999999999996,4.0
+328,"Whitworth-Smith, Andrew C",Communication,98.96666666666665,3.4949999999999997,6.0
+329,"Kidman, Shawna F",Communication,98.5,3.6933333333333334,3.0
+330,"Iatarola, Briana Marie",Communication,93.75,3.745,2.0
+331,"Dubee, Alex William",Communication,98.0,3.63,2.0
+332,"Pezzoli, Keith",other,88.44999999999999,3.5924999999999994,4.0
+333,"Simmons, Candice G",Communication,91.65,4.0,2.0
+334,"Hickman, Louise",Communication,100.0,3.7,2.0
+335,"Fields, Gary",Communication,94.43333333333334,3.5199999999999996,3.0
+336,"Cortes, Diego M",Communication,90.975,3.7675,4.0
+337,"Anderson, Patrick W.",Communication,95.98,3.822,5.0
+338,"Guarrasi, Ivana",Communication,98.76,3.746,5.0
+339,"Alac, Morana",Communication,100.0,3.6199999999999997,3.0
+340,"Hartouni, Valerie A",Communication,94.45,3.525,2.0
+341,"Sims, Christopher O",Communication,94.43333333333334,3.686666666666667,3.0
+342,"Bush, Barbara Ann",other,79.9,3.3899999999999997,2.0
+343,"Collins, Caroline Imani",Communication,100.0,3.83,1.0
+344,"Gluzman, Ellen Yelena",Communication,100.0,3.545,2.0
+345,"Dewey, Matthew D",Communication,100.0,3.0,1.0
+346,"Walton, Jonathan Douglas",Communication,100.0,3.8,1.0
+347,"McKenna, Denise",Communication,77.8,3.4,1.0
+348,"Gates, Kelly",Communication,76.55,3.38,2.0
+349,"Halm, Gavin Patrick",Communication,100.0,3.93,1.0
+350,"Ahn, Patricia Jeehyun",Communication,100.0,3.88,2.0
+351,"Simon Salazar, Harry Love",Communication,66.65,3.885,2.0
+352,"Tanaka, Stefan A.",Communication,50.633333333333326,2.953333333333333,3.0
+353,"Vasquez, Olga A.",Communication,68.425,3.8825,4.0
+354,"Lee, Nancy Stark",Communication,81.3,3.47,1.0
+355,"Burg, Suzanne M.M.",other,82.2,3.3625000000000003,4.0
+356,"Horwitz, Robert B",Communication,92.85,3.325,2.0
+357,"Zilberg, Elana",Communication,53.55,3.2,2.0
+358,"Dominguez Rubio, Fernando",Communication,94.1,3.47,1.0
+359,"Serlin, David",Communication,74.6,3.2249999999999996,2.0
+360,"Randolph, Edward Gordon",Communication,75.0,3.33,1.0
+361,"Cordoba Azcarate, Matilde",Communication,91.9,3.615,2.0
+362,"Conner, Thomas Hartnell",Communication,100.0,3.45,1.0
+363,"Porter, Leonard Emerson",Computer Science,96.75,3.2924999999999995,4.0
+364,"Sahoo, Debashis",Computer Science,74.1,3.27,1.0
+365,"Ochoa, Benjamin Lawrence",Computer Science,84.76666666666667,3.33,3.0
+366,"Freund, Yoav",Computer Science,49.1,3.26,1.0
+367,"Jones, Miles E",Computer Science,88.02857142857144,3.235714285714286,7.0
+368,"Bellare, Mihir",Computer Science,74.85,2.615,2.0
+369,"Ord, Richard",Computer Science,85.41666666666664,3.358333333333334,6.0
+370,"Weibel, Nadir",Computer Science,85.7,3.29,1.0
+371,"Allos, Haytham Issa",Computer Science,83.2,3.27,2.0
+372,"Zaitsev, Anna L",Computer Science,82.8,3.395,2.0
+373,"Zhou, Yuan-Yuan",Computer Science,88.5,3.3449999999999998,2.0
+374,"Snoeren, Alex C.",Computer Science,94.6,3.14,1.0
+375,"Savage, Stefan",Computer Science,95.85,3.265,2.0
+376,"Lerner, Sorin",Computer Science,99.4,3.59,1.0
+377,"Jhala, Ranjit",Computer Science,98.4,3.505,2.0
+378,"Vianu, Victor Dan",Computer Science,77.05,3.13,2.0
+379,"Powell, Thomas Allan",Computer Science,89.85,3.17,4.0
+380,"Chin, Bryan W.",Computer Science,86.2,3.19,1.0
+381,"Eldon, John",other,89.56000000000002,3.5050000000000003,10.0
+382,"Swanson, Steven James",Computer Science,89.45,3.6725000000000003,4.0
+383,"Alvarado, Christine J.",Computer Science,98.62,3.622,5.0
+384,"Su, Hao",Computer Science,81.3,3.38,1.0
+385,"McAuley, Julian John",Computer Science,82.3,3.36,1.0
+386,"Schulze, Jurgen P.",Computer Science,97.43333333333334,3.89,3.0
+387,"Paturi, Ramamohan",Computer Science,83.3,3.82,1.0
+388,"Bandeira, Nuno Filipe Cabrita",Computer Science,100.0,3.25,1.0
+389,"Kumar, Rakesh",other,97.17142857142856,3.7157142857142853,7.0
+390,"Cosman, Benjamin Leverett",Computer Science,87.1,3.29,1.0
+391,"Bach, Quang Tran",other,94.53333333333332,3.2983333333333333,6.0
+392,"Cao, Yingjun",Computer Science,94.2909090909091,3.3145454545454545,11.0
+393,"Miranda, Gregory Joseph",Computer Science,94.75,3.5700000000000003,2.0
+394,"Politz, Joseph Gibbs",Computer Science,96.37142857142855,3.567142857142857,7.0
+395,"Fraenkel, Aaron Mcmillan",Computer Science,100.0,4.0,1.0
+396,"Braun, Oliver",Computer Science,93.9,3.42,2.0
+397,"Cyranka, Jacek",Computer Science,100.0,3.82,1.0
+398,"Marx, Susan S",Computer Science,56.699999999999996,3.353333333333333,6.0
+399,"Pasquale, Joseph",Computer Science,99.475,3.5975,4.0
+400,"Nguyen, Hau Cao",Computer Science,40.95,3.3075,4.0
+401,"Papadopoulos, Philip Micha",Computer Science,82.1,3.04,2.0
+402,"Voelker, Geoffrey M.",Computer Science,98.45,3.7199999999999998,2.0
+403,"Porter, George M",Computer Science,86.3,3.38,1.0
+404,"Gantman, Alexander",Computer Science,80.0,3.0,1.0
+405,"Polikarpova, Nadezhda",Computer Science,73.6,3.02,1.0
+406,"Deutsch, Alin Bernard",Computer Science,59.1,3.33,1.0
+407,"Cheng, Chung Kuan",Computer Science,81.85,3.585,2.0
+408,"Chu, Isaac Y",Computer Science,76.46666666666667,3.633333333333333,3.0
+409,"Orailoglu, Alex",Computer Science,43.5,2.96,1.0
+410,"Tullsen, Dean Michael",Computer Science,100.0,3.67,1.0
+411,"Saul, Lawrence",Computer Science,100.0,3.38,1.0
+412,"Chaudhuri, Kamalika",Computer Science,96.1,3.44,1.0
+413,"Altintas De Callaf, Ilkay",Computer Science,89.7,3.4333333333333336,3.0
+414,"Ramamoorthi, Ravi",Computer Science,96.2,3.56,1.0
+415,"Riek, Laurel D",Computer Science,100.0,4.0,1.0
+416,"Gymrek, Melissa Ann",Computer Science,94.1,3.47,1.0
+417,"Kumar, Arun Kumar",Computer Science,100.0,3.29,1.0
+418,"Tiefenbruck, Janine LoBue",Computer Science,100.0,3.45,2.0
+419,"Chandraker, Manmohan Krishna",Computer Science,33.3,3.5,1.0
+420,"Barr, Iris",Computer Science,76.3,3.76,1.0
+421,"Micciancio, Daniele",Computer Science,78.15,3.315,2.0
+422,"Kahng, Andrew Byun",Computer Science,67.9,2.83,1.0
+423,"Griswold, William G.",Computer Science,81.0,3.5,1.0
+424,"Shacham, Hovav",Computer Science,95.7,3.0,1.0
+425,"Stefan, Deian",Computer Science,82.5,2.99,1.0
+426,"Rosing, Tajana Simunic",Computer Science,94.7,3.5,1.0
+427,"Zhao, Jishen",Computer Science,80.4,3.31,1.0
+428,"Kastner, Ryan Charles",Computer Science,100.0,3.75,1.0
+429,"Gao, Sicun",Computer Science,96.3,3.56,1.0
+430,"Rotenberg, Steven Paul",Computer Science,100.0,3.69,1.0
+431,"Nakashole, Ndapandula",Computer Science,62.5,3.71,1.0
+432,"Vardy, Alexander",other,84.80000000000001,3.0199999999999996,3.0
+433,"Papakonstantinou, Yannis",Computer Science,100.0,4.0,1.0
+434,"Solomon, Amanda Lee Albaniel",other,96.32499999999999,3.4725,4.0
+435,"Strom, Megan C.",Dimensions of Culture,86.95,3.3225000000000002,4.0
+436,"Johnston, Emily Ronay",Dimensions of Culture,95.9,3.29,1.0
+437,"Pass, Natalye Joann",Dimensions of Culture,90.85714285714286,3.707142857142857,7.0
+438,"Ho, Lisa",other,91.1,3.505714285714286,7.0
+439,"Sievenpiper, Daniel F.",Electrical & Computer Eng.,98.0,3.115,2.0
+440,"Siegel, Paul H.",Electrical & Computer Eng.,95.1,3.17,1.0
+441,"Hall, Drew A.",Electrical & Computer Eng.,95.3,3.536,5.0
+442,"Ng, Tse Nga",Electrical & Computer Eng.,81.6,3.365,2.0
+443,"Lomakin, Vitaliy",Electrical & Computer Eng.,86.73333333333333,3.3433333333333337,3.0
+444,"Zeger, Kenneth A.",Electrical & Computer Eng.,88.95,3.02,2.0
+445,"Koushanfar, Farinaz",Electrical & Computer Eng.,54.3,3.4,1.0
+446,"Esmaili, Gholamreza",Electrical & Computer Eng.,94.05000000000001,3.29,4.0
+447,"Kuzum, Duygu",Electrical & Computer Eng.,100.0,3.3733333333333335,3.0
+448,"Unpingco, Jose H.",Electrical & Computer Eng.,85.63333333333333,3.73,3.0
+449,"Phan, Alex Minh Giang",Electrical & Computer Eng.,100.0,3.4433333333333334,3.0
+450,"Hildebrand, John A",other,95.1,3.6399999999999997,2.0
+451,"Javidi, Tara",Electrical & Computer Eng.,86.03333333333335,3.0666666666666664,3.0
+452,"Milstein, Laurence B.",Electrical & Computer Eng.,100.0,3.375,2.0
+453,"Franceschetti, Massimo",Electrical & Computer Eng.,90.65,3.46,2.0
+454,"Khoshabeh, Ramsin",Electrical & Computer Eng.,95.775,3.39,4.0
+455,"Rao, Bhaskar D.",Electrical & Computer Eng.,90.0,2.63,1.0
+456,"Rebeiz, Gabriel",Electrical & Computer Eng.,100.0,3.57,1.0
+457,"Sworder, David D.",Electrical & Computer Eng.,86.9,3.38,2.0
+458,"Pal, Piya",Electrical & Computer Eng.,44.0,2.32,1.0
+459,"Abi Samra, Nicholas Camill",Electrical & Computer Eng.,95.11999999999999,3.8019999999999996,5.0
+460,"Liu, Zhaowei",Electrical & Computer Eng.,96.9,3.3449999999999998,2.0
+461,"Cosman, Pamela C.",Electrical & Computer Eng.,87.5,3.375,2.0
+462,"Quest, Kevin B",Electrical & Computer Eng.,97.35,3.4,2.0
+463,"Taur, Yuan",Electrical & Computer Eng.,75.55,3.45,2.0
+464,"Schurgers, Curt",Electrical & Computer Eng.,94.4,2.86,1.0
+465,"Lugannani, Robert",Electrical & Computer Eng.,82.26666666666667,3.5666666666666664,3.0
+466,"Gilja, Vikash",Electrical & Computer Eng.,95.9,3.69,1.0
+467,"Nguyen, Truong Quang",other,98.58333333333333,3.7716666666666665,6.0
+468,"Baghdadchi, Saharnaz",Electrical & Computer Eng.,91.24,3.246,5.0
+469,"Shevchenko, Valentin I",Electrical & Computer Eng.,76.65,3.035,2.0
+470,"Silberman, Jack",other,100.0,3.872,5.0
+471,"Morris, Karcher William",Electrical & Computer Eng.,100.0,3.9,1.0
+472,"Touri, Behrouz",Electrical & Computer Eng.,86.9,3.18,1.0
+473,"Lin, Bill",Electrical & Computer Eng.,97.925,3.7024999999999997,4.0
+474,"Yip, Michael",Electrical & Computer Eng.,100.0,3.47,1.0
+475,"Dayeh, Shadi Ahmad",Electrical & Computer Eng.,87.5,3.5,2.0
+476,"Gessner, Richard K.",Electrical & Computer Eng.,96.42500000000001,3.4325,4.0
+477,"Zhang, Xinyu",Electrical & Computer Eng.,100.0,4.0,1.0
+478,"Harris, Frederick Joel",Electrical & Computer Eng.,76.9,3.15,1.0
+479,"Levy, Cooper Sinclair",Electrical & Computer Eng.,87.0,2.87,1.0
+480,"Kreutz-Delgado, Kenneth",Electrical & Computer Eng.,100.0,3.75,1.0
+481,"Ford, Joseph Earl",Electrical & Computer Eng.,96.95,3.395,2.0
+482,"Das, Pankaj K",Electrical & Computer Eng.,66.7,3.8,1.0
+483,"Tu, Charles",Electrical & Computer Eng.,50.0,3.8,1.0
+484,"Mir Arabbaygi, Siavash",Electrical & Computer Eng.,91.8,3.31,1.0
+485,"Radic, Stojan",Electrical & Computer Eng.,71.4,2.71,1.0
+486,"Kante, Boubacar",Electrical & Computer Eng.,91.1,3.07,2.0
+487,"Das, Nikhil Ranjan",Electrical & Computer Eng.,87.5,3.5,1.0
+488,"Ling, Patrick L",Electrical & Computer Eng.,100.0,4.0,1.0
+489,"Mercier, Patrick Philip",Electrical & Computer Eng.,100.0,3.14,1.0
+490,"Trivedi, Mohan M.",Electrical & Computer Eng.,83.9,3.24,1.0
+491,"Vasconcelos, Nuno",Electrical & Computer Eng.,76.7,3.07,1.0
+492,"Mookherjea, Shayan",Electrical & Computer Eng.,83.3,2.83,1.0
+493,"Fainman, Yeshaiahu",Electrical & Computer Eng.,100.0,3.17,1.0
+494,"Dey, Sujit",Electrical & Computer Eng.,90.0,3.24,1.0
+495,"Tocoian, Oana",Economics,78.85,3.26,2.0
+496,"Nieto-Barthaburu, Augusto",Economics,84.4,3.575,4.0
+497,"Famulari, Melissa",Economics,91.61666666666666,3.296666666666667,6.0
+498,"Machina, Mark Joseph",Economics,100.0,4.0,2.0
+499,"Levkoff, Steven B.",other,91.95714285714287,3.1464285714285714,14.0
+500,"Sinitsyn, Maxim",Economics,86.19000000000001,3.2779999999999996,10.0
+501,"Andreoni, James",Economics,85.2,3.8833333333333333,3.0
+502,"Bloom, Patrick Roll",Economics,59.4,3.3,2.0
+503,"Muendler, Marc",Economics,71.23333333333333,3.34,3.0
+504,"Watson, Joel Christopher",Economics,90.95,3.185,2.0
+505,"Candido, Maria Teresa",Economics,93.9875,3.4474999999999993,8.0
+506,"Rondina, Giacomo",Economics,96.55,3.3683333333333327,6.0
+507,"Lagakos, David P.",Economics,100.0,3.58,1.0
+508,"Foster, Carroll Baldwin",Economics,73.51666666666667,3.3049999999999997,6.0
+509,"O, Mun Pyung",Economics,83.9,3.435,10.0
+510,"Beare, Brendan",Economics,100.0,3.57,1.0
+511,"Tang, Yuan Emily",Economics,100.0,3.56,1.0
+512,"Jacobsen, Mark",Economics,89.9,3.39,1.0
+513,"Clemens, Jeffrey",other,100.0,3.6550000000000002,2.0
+514,"Betts, Julian",Economics,96.1,3.43,1.0
+515,"Newhouse, Herbert S",Economics,88.55555555555556,3.43,9.0
+516,"Ramey, Garey",Economics,82.89999999999999,3.5666666666666664,3.0
+517,"Yu, Chu",Economics,95.15,3.7249999999999996,2.0
+518,"Wuthrich, Kaspar",Economics,93.96666666666665,3.3233333333333337,3.0
+519,"Blumkin, Tomer",Economics,95.0,3.2,2.0
+520,"Ray, Kevin Daniel",Economics,100.0,3.43,1.0
+521,"Squires, Dale E",Economics,97.7,3.49,2.0
+522,"Santamaria, Martin I",Economics,92.89999999999999,3.5500000000000003,6.0
+523,"Anderson, John Charles",other,95.13749999999999,3.4724999999999997,8.0
+524,"Hovander, Elisa Wynne Kirsten",Economics,81.8,3.335,2.0
+525,"Noel, Michael",Economics,95.45,3.165,2.0
+526,"Hilmer, Christiana",Economics,97.6,3.4400000000000004,2.0
+527,"Hilmer, Michael",Economics,100.0,3.44,2.0
+528,"Fairchild, Stephanie Kate",Economics,66.7,3.5,1.0
+529,"Lu, Runjing",other,91.2,3.465,2.0
+530,"Mateer, George Dirk",Economics,95.5,3.48,3.0
+531,"Boomhower, Judson P",Economics,85.0,3.37,1.0
+532,"Bowen, T. Renee",Economics,100.0,3.29,1.0
+533,"Wieland, Johannes Friedrich",Economics,95.85,3.54,2.0
+534,"Tayman, Jeff",Economics,86.7,3.19,1.0
+535,"Antonovics, Kate L.",Economics,95.25,3.415,2.0
+536,"Bharadwaj, Prashant",other,90.3,3.44,3.0
+537,"Naughton, Barry J",Economics,84.0,3.38,1.0
+538,"Kaushik, Arushi",other,78.55,3.35,2.0
+539,"Brown, Alyssa Ashleigh",other,92.85,3.05,2.0
+540,"Goodman, Zachary Aaron",other,100.0,3.5,2.0
+541,"Suong, Clara Haeseung",Economics,100.0,4.0,1.0
+542,"Navajas Ahumada, Camila Eugen",other,80.0,3.125,2.0
+543,"Rhee, Dennis",other,87.5,3.5,2.0
+544,"Oklobdzija, Stan",other,100.0,3.71,2.0
+545,"Vanvuren, Mitchell Scott",Economics,100.0,3.33,1.0
+546,"Somers, Jackson Chandler",Economics,100.0,3.86,1.0
+547,"Rauch, James E",Economics,77.94999999999999,3.245,2.0
+548,"Trevino, Isabel",Economics,100.0,4.0,1.0
+549,"Porzio, Tommaso",Economics,86.26666666666667,3.5533333333333332,3.0
+550,"Hamilton, James D.",Economics,92.4,3.38,2.0
+551,"Dahl, Gordon B.",Economics,83.96666666666667,3.48,3.0
+552,"Carson, Richard T",Economics,78.9,3.36,1.0
+553,"Cohen, Darrel Steven",Economics,95.7,3.23,1.0
+554,"Fadlon, Yizhak",Economics,100.0,3.46,1.0
+555,"Muralidharan, Karthik",Economics,100.0,3.58,1.0
+556,"Cullen, Julie",Economics,100.0,4.0,1.0
+557,"Ramey, Valerie A",Economics,78.5,3.42,2.0
+558,"Xu, Yiqing",other,87.5,3.385,2.0
+559,"Dean, Dallawrence Edward",Education Studies,93.04285714285713,3.757142857142857,7.0
+560,"Gallagher-Geurtsen, Tricia Meghan",other,100.0,3.783333333333333,3.0
+561,"Chung, Luz Marina",other,99.25,3.8225000000000002,4.0
+562,"Rodriguez, Victoria Calip",other,92.25,3.765,2.0
+563,"Jones, Makeba",other,98.46000000000001,3.7760000000000007,5.0
+564,"Simon, Elizabeth A",Education Studies,99.0,3.8939999999999997,5.0
+565,"Allen, Bobbie M",Education Studies,97.9,3.98,1.0
+566,"Binder, Amy",other,100.0,3.1100000000000003,2.0
+567,"Millstone, Rachel Diana",Education Studies,100.0,3.86,1.0
+568,"Holtzman, Caren Lynn",Education Studies,100.0,3.815,2.0
+569,"Wishard Guerra, Alison G.",Education Studies,94.7,3.81,1.0
+570,"Drake, Kristy Nicole",Education Studies,97.9,3.7350000000000003,2.0
+571,"Hofstetter, Carolyn",Education Studies,98.30000000000001,3.9575,8.0
+572,"Heinzman, Erica M.",Education Studies,100.0,3.893333333333333,3.0
+573,"Cohen, Shana R",Education Studies,87.85,3.77,2.0
+574,"Lockton, Marie",Education Studies,100.0,3.94,1.0
+575,"Hopkins, Megan Beth",Education Studies,100.0,3.88,1.0
+576,"Van Steenbergen, Suzanne Michele",other,95.57499999999999,3.79,4.0
+577,"Pappas, Elizabeth",Education Studies,93.3,4.0,1.0
+578,"Scharton, Susan Michelle",Education Studies,100.0,3.9,1.0
+579,"Whiteside, Linda Sue",Education Studies,100.0,3.875,2.0
+580,"Mamas, Christoforos",Education Studies,100.0,4.0,1.0
+581,"Chapman, Thandeka K",Education Studies,100.0,3.82,1.0
+582,"Contreras, Frances E.",Education Studies,95.5,3.7,1.0
+583,"Orozco, Agustin",Education Studies,100.0,4.0,1.0
+584,"Munoz Sanchez, Alicia",other,98.64000000000001,3.6159999999999997,5.0
+585,"Forbes, Cheryl A",Education Studies,94.4,3.94,1.0
+586,"Bresser, Bernard George",Education Studies,100.0,3.91,1.0
+587,"Black, Alison Michelle",Education Studies,100.0,4.0,1.0
+588,"Lu, Charles",Education Studies,91.6,3.25,2.0
+589,"Harel, Guershon",other,79.56666666666666,3.1155555555555554,9.0
+590,"Henter, Heather J.",Environmental Studies,91.65,3.515,2.0
+591,"Shaheen, Robina",Environmental Studies,40.9,3.42,1.0
+592,"Talley, Theresa S.",Environmental Studies,100.0,3.67,1.0
+593,"Herbst, Matthew",other,97.8,3.755,10.0
+594,"Ochoa, Edward Henry",Environmental Studies,94.4,3.23,1.0
+595,"Taylor, Jennifer Rebecca",other,95.45,3.535,2.0
+596,"Teranes, Jane",other,98.32857142857144,3.617142857142857,7.0
+597,"Minster, Jean Bernard H.",other,90.15,3.49,2.0
+598,"Russell, Lynn M.",Environmental Systems,88.6,3.31,1.0
+599,"Espiritu, Yen",Ethnic Studies,87.55000000000001,3.3899999999999997,2.0
+600,"Kharputly, Nadeen Sh B",Ethnic Studies,100.0,3.7483333333333335,6.0
+601,"Montesinos, Jorge Roberto",other,82.85,3.5999999999999996,2.0
+602,"Patel, Shaista",Ethnic Studies,100.0,3.6,1.0
+603,"Nicolazzo, Sarah E.",other,100.0,3.482,5.0
+604,"Daly, Heather Marie",Ethnic Studies,75.0,3.67,1.0
+605,"Blaise, Jean G",other,98.33,3.7309999999999994,10.0
+606,"Kozen, Cathleen Kiyomi",Ethnic Studies,55.0,3.53,1.0
+607,"Garcia Hernandez, Yessica",Ethnic Studies,100.0,3.83,1.0
+608,"Quintanilla, Leslie Jocelyn",Ethnic Studies,94.7,3.56,1.0
+609,"Hidalgo, Melissa Martha",other,82.67999999999999,3.3400000000000007,5.0
+610,"Padilla, Omar",Ethnic Studies,100.0,3.76,1.0
+611,"Yang, K. Wayne",other,98.05,3.885,2.0
+612,"Marez, Curtis F.",Ethnic Studies,83.35,3.755,2.0
+613,"De Leon, Justin",Ethnic Studies,99.05,3.82,4.0
+614,"Blanco, John D",other,77.66666666666667,3.4966666666666666,3.0
+615,"Williams, Robert Zachary",other,100.0,3.785,2.0
+616,"Suzuki, Erin M.",other,100.0,3.6283333333333334,6.0
+617,"Davis, Anthony Curtis",other,56.25,3.23,2.0
+618,"Alomar, Maisam",Ethnic Studies,100.0,3.29,1.0
+619,"Burelle, Julie Sara Veronique",other,96.48571428571428,3.481428571428571,7.0
+620,"Nordeson, Kjell Gunnar",other,84.15,3.695,2.0
+621,"Streeby, Shelley",Ethnic Studies,63.6,3.89,1.0
+622,"Reese, Clarissa Jane",Human Development Program,86.0,3.225,6.0
+623,"Ark, Wendy S",Human Development Program,61.2,2.82,5.0
+624,"Prestholdt, Jeremy",History,99.26666666666667,3.5966666666666662,3.0
+625,"Lu, Weijing",History,75.0,3.18,1.0
+626,"Henry, Todd A.",History,91.4,3.13,1.0
+627,"Watts, Edward J.",other,90.9,3.165,2.0
+628,"Mylonakis, Leonidas",History,92.3,3.3,1.0
+629,"Edelman, Robert S.",History,73.6,3.515,2.0
+630,"Stout, James E",History,83.3,3.27,1.0
+631,"Devereux, Andrew W",History,95.2,3.43,1.0
+632,"Neuheiser, Joerg",other,97.55999999999999,3.53,5.0
+633,"Petkas, Alexander J",History,85.7,3.38,1.0
+634,"Morales Fontanilla, Manuel Antonio",History,98.03333333333335,3.6733333333333333,3.0
+635,"Cowan, Benjamin A",History,97.625,3.4225,4.0
+636,"Schneewind, Sarah",History,73.8,2.94,1.0
+637,"Wishon, Mark T",History,96.5,3.32,1.0
+638,"Graham, Jessica Lynn",other,97.83333333333333,3.436666666666666,3.0
+639,"Kayali, Hasan",History,96.95,3.42,2.0
+640,"Provence, Michael",History,100.0,3.5,1.0
+641,"Golan, Tal",other,91.5,3.5525,4.0
+642,"Gere, Catherina M.",History,98.75,3.645,2.0
+643,"Hertz, Deborah",other,69.55,3.495,2.0
+644,"Newton, Joshua Dean",other,78.9,3.535,2.0
+645,"Hendrickson, Gerald M.",History,98.33333333333333,3.52,3.0
+646,"Vandevelde, Kenneth Joseph",History,100.0,3.75,1.0
+647,"Dunai, Suzanne Elizabeth",History,100.0,3.9,1.0
+648,"Vitz, Matthew",other,91.1,3.29,2.0
+649,"Silverman, Reuben William",History,75.0,3.33,1.0
+650,"Man, Simeon S",History,97.3,3.533333333333333,3.0
+651,"Jiao, Yupeng",History,90.0,3.5,1.0
+652,"Merrill O'Keefe, Amy Roxanne",History,76.2,3.236666666666667,3.0
+653,"Gallant, Thomas W.",other,98.8,3.7375,4.0
+654,"Parrish, Michael E.",other,96.3,3.4899999999999998,3.0
+655,"Hall, Matthew Aaron",History,100.0,3.33,1.0
+656,"Kokinis, Troy Andreas",History,80.0,3.0,1.0
+657,"Mack, Graeme",History,100.0,3.5,1.0
+658,"Hineline, Mark Lawrence",History,100.0,3.89,1.0
+659,"Molina, Natalia",History,88.2,3.53,1.0
+660,"Braden, Peter Watson",History,86.7,3.15,1.0
+661,"Demetriou, Denise",History,93.2,3.48,2.0
+662,"Strasser, Ulrike",History,100.0,3.815,2.0
+663,"Hunefeldt, Christine",History,71.9,3.35,2.0
+664,"Gutierrez, David G",History,60.8,3.29,1.0
+665,"Tasyakan, Baris",other,93.85,3.21,2.0
+666,"Peterson, Johanna Lee",History,81.3,3.73,1.0
+667,"Gheissari, Ali",History,100.0,3.6,1.0
+668,"Westman, Robert S",History,78.0,3.315,2.0
+669,"Edington, Claire Ellen",History,92.625,3.6475,4.0
+670,"Hanna, Mark G.",History,98.7,3.795,2.0
+671,"Klein, Rachel",History,94.86666666666667,3.533333333333333,3.0
+672,"Alvarez, Luis A",History,83.3,4.0,1.0
+673,"Pickowicz, Paul G.",History,96.4,3.77,1.0
+674,"Kim, Hyung-Wook",History,92.9,3.44,1.0
+675,"Radcliff, Pamela B.",other,93.65,3.38,2.0
+676,"Murillo, Dana V.",other,93.25,3.7350000000000003,2.0
+677,"Klann, Mary Cameron",History,100.0,3.51,1.0
+678,"Plant, Rebecca Jo",History,100.0,3.69,1.0
+679,"Lyon, Antony J.",Humanitites,97.00000000000001,2.9825,4.0
+680,"Markman, Kristina",Humanitites,94.3,2.91,1.0
+681,"Henderson, David Kenneth",Humanitites,83.5,2.9050000000000002,2.0
+682,"Caldwell, Michael Alan",Humanitites,95.85,2.99,2.0
+683,"Zroka, Amy Liane",other,87.525,3.5525,4.0
+684,"Cassedy, Steven Dennis",other,87.825,3.295,4.0
+685,"Caciola, Nancy A",Humanitites,94.8,3.11,1.0
+686,"Smarr, Janet L.",other,76.53333333333333,3.1666666666666665,3.0
+687,"Chodorow, Stanley A.",Humanitites,79.35,3.035,2.0
+688,"O'Brien, William Arctander",other,97.2,3.3025,4.0
+689,"Cox, Stephen D.",Humanitites,93.6,3.15,1.0
+690,"Johnson, Monte",other,85.7,3.533333333333333,3.0
+691,"Watkins, Eric",other,96.85,3.1100000000000003,2.0
+692,"Yoldas, Pinar",other,97.66,3.684,5.0
+693,"Brown, Sheldon Glenn",other,72.3,3.8333333333333335,3.0
+694,"Erbe, Tom",other,100.0,3.6274999999999995,4.0
+695,"Yadegari, Shahrokh D",other,98.63333333333333,3.9133333333333336,3.0
+696,"Dubnov, Shlomo",other,95.85,3.955,2.0
+697,"Vargas, Manuel Rogelio",other,94.75,3.165,4.0
+698,"Walter, Barbara Florence",International Studies,94.9,3.25,1.0
+699,"Adida, Claire",other,98.63333333333333,3.65,3.0
+700,"Samstad, James G.",International Studies,87.5,3.25,2.0
+701,"Auerbach, Bradford C",International Studies,97.35,3.495,2.0
+702,"Nadkarni, Vidya",International Studies,100.0,3.29,1.0
+703,"Samphantharak, Krislert",International Studies,100.0,3.38,1.0
+704,"Kshatriya, Krista C",International Studies,100.0,3.4166666666666665,3.0
+705,"Shafir, Gershon",other,71.88,3.336,5.0
+706,"Gilson, Nancy",International Studies,94.3,3.323333333333333,3.0
+707,"Gagnon, Jeffrey C",other,84.8875,3.1312500000000005,8.0
+708,"Niehaus, Paul",International Studies,80.0,2.9,1.0
+709,"Coyle, James J.",International Studies,100.0,3.11,1.0
+710,"Major, Ivan",International Studies,100.0,3.6,1.0
+711,"Statler, Kathryn",International Studies,100.0,3.38,1.0
+712,"Lettieri, Michael Joseph",International Studies,93.8,3.0,1.0
+713,"Vera Cossio, Diego Alejandro",International Studies,100.0,3.5,1.0
+714,"Haggard, Stephan M.",International Studies,95.8,3.35,1.0
+715,"Feeley, Maureen Catherine",other,93.675,3.5324999999999998,4.0
+716,"Herberg, Mikkal E.",International Studies,100.0,3.63,1.0
+717,"Fisk, David Lee",other,95.67142857142858,3.537142857142857,7.0
+718,"Simpson, Junko Tokuda",Japanese Studies,97.62857142857142,3.814285714285714,7.0
+719,"Inada, Minori",Japanese Studies,99.1125,3.80875,8.0
+720,"Maruyama, Rie",Japanese Studies,95.5375,3.6275000000000004,8.0
+721,"Takeda, Izumi",Japanese Studies,97.07499999999999,3.7399999999999993,8.0
+722,"Tipton, Yuko",Japanese Studies,100.0,3.7960000000000003,5.0
+723,"Kamioka, Sachiko",Japanese Studies,98.225,3.84,4.0
+724,"Ross, Kayoko F",Japanese Studies,98.1875,3.82375,8.0
+725,"Iwamoto, Naoki",Japanese Studies,100.0,3.80875,8.0
+726,"Sato, Kyoko",Japanese Studies,98.6125,3.78,8.0
+727,"McKee, Mayumi Mochizuki",Japanese Studies,100.0,3.7024999999999997,8.0
+728,"Turner, Christena L.",other,100.0,3.778,5.0
+729,"Shuster, Alana",Judaic Studies,100.0,3.825,4.0
+730,"Martin-Cabrera, Luis",other,95.625,3.6575,4.0
+731,"Janusz, Andrew James",Latin American Studies,94.0,3.16,1.0
+732,"Ng, Kwai",other,90.55,3.4350000000000005,4.0
+733,"Styler, William Francis",Linguistics,100.0,3.67,2.0
+734,"Garellek, Marc",Linguistics,99.25,3.4699999999999998,4.0
+735,"Lott, Margaret S.",Linguistics,89.5,3.6,2.0
+736,"Bergen, Leon",Linguistics,91.5,3.495,4.0
+737,"Kluender, Robert",Linguistics,95.22500000000001,3.085,8.0
+738,"Goodall, Grant Todd",other,98.5,3.6566666666666667,3.0
+739,"Biswas, Priyanka",Linguistics,87.93333333333334,3.476666666666667,6.0
+740,"Alicio, Atilio",Linguistics,100.0,3.4683333333333324,12.0
+741,"Hill, Kimloan T.V.",Linguistics,98.75,3.7874999999999996,16.0
+742,"Sadegholvad, Elham",Linguistics,100.0,3.8400000000000003,18.0
+743,"McCollum, Adam Gatlin",Linguistics,100.0,3.67,2.0
+744,"Aguilar, Andres Ehecatl",Linguistics,94.0,3.645,4.0
+745,"El Cheddadi, Youniss",Linguistics,100.0,4.0,2.0
+746,"Matchin, William Gerald",Linguistics,100.0,3.57,2.0
+747,"Caballero, Gabriela Hernandez",Linguistics,93.5,3.63,2.0
+748,"Caponigro, Ivano",Linguistics,93.75,3.155,4.0
+749,"McIntosh, Justin Daniel",Linguistics,97.6,3.71,4.0
+750,"Wittenberg, Eva H",Linguistics,90.9,3.5,2.0
+751,"Bakovic, Eric John",Linguistics,95.95,3.4299999999999997,4.0
+752,"Ilkbasaran, Deniz",Linguistics,95.1,3.22,2.0
+753,"Kehler, Andrew Scott",Linguistics,100.0,3.41,2.0
+754,"Micklos, Ashley M.",other,100.0,3.543333333333333,3.0
+755,"Mayberry, Rachel",Linguistics,85.4,3.28,2.0
+756,"Sarkar, Sutanu",Mechanical & Aerospace Eng.,58.6,3.0,1.0
+757,"Chen, Renkun",Mechanical & Aerospace Eng.,93.8,3.44,1.0
+758,"Wang, Qingyang",Mechanical & Aerospace Eng.,100.0,3.44,1.0
+759,"Lasheras, Juan C.",Mechanical & Aerospace Eng.,93.9,3.24,1.0
+760,"Saintillan, David",Mechanical & Aerospace Eng.,93.2,2.88,1.0
+761,"McEneaney, William Michael",Mechanical & Aerospace Eng.,91.1,3.62,1.0
+762,"Nomura, Keiko K.",Mechanical & Aerospace Eng.,85.56666666666666,3.266666666666667,3.0
+763,"Pawlak, Geno Ronald",Mechanical & Aerospace Eng.,77.65,3.415,2.0
+764,"Loh, Chin Hsiung",other,4.7,2.4966666666666666,3.0
+765,"Amaddeo, Carmen N.",other,90.06666666666666,3.1266666666666665,3.0
+766,"Zhu, Qiang",other,97.03333333333335,3.1966666666666668,3.0
+767,"Bahadori, Mohammad Yousef",Mechanical & Aerospace Eng.,87.97500000000001,3.02,8.0
+768,"Bewley, Thomas R",Mechanical & Aerospace Eng.,44.0,2.78,1.0
+769,"Talke, Frank E",Mechanical & Aerospace Eng.,70.2,3.26,1.0
+770,"Friend, James Robert",other,82.7,3.1933333333333334,3.0
+771,"Delson, Nathan Joseph",Mechanical & Aerospace Eng.,80.75999999999999,3.556,5.0
+772,"Xu, Sheng",other,94.35,3.7025,4.0
+773,"Anderson, Mark Ronald",Mechanical & Aerospace Eng.,100.0,3.8019999999999996,5.0
+774,"McKittrick, Joanna M",Mechanical & Aerospace Eng.,79.6,3.59,1.0
+775,"Cai, Shengqiang",Mechanical & Aerospace Eng.,79.6,3.785,2.0
+776,"Lucas, Andrew J.",other,99.4,3.425,2.0
+777,"Tolley, Michael Thomas",Mechanical & Aerospace Eng.,98.0,3.61,2.0
+778,"Gibson, Carl H.",Mechanical & Aerospace Eng.,84.3,3.8200000000000003,3.0
+779,"Pham, Hieu Tan",Mechanical & Aerospace Eng.,93.53333333333335,3.4333333333333336,3.0
+780,"Coimbra, Carlos F.",Mechanical & Aerospace Eng.,100.0,4.0,2.0
+781,"Abi Ghanem, Maroun",Mechanical & Aerospace Eng.,100.0,3.43,1.0
+782,"Lubarda, Marko",other,98.225,3.5112499999999995,8.0
+783,"Bandaru, Prabhakar",Mechanical & Aerospace Eng.,83.0,3.25,2.0
+784,"Ezunkpe, Yawo Semanu",Mechanical & Aerospace Eng.,84.2,3.21,1.0
+785,"Eliasson, Veronica",other,92.30000000000001,2.8616666666666664,6.0
+786,"Evdokimenko, Ekaterina",other,87.13333333333333,3.8633333333333333,3.0
+787,"Li, Mengying",Mechanical & Aerospace Eng.,97.3,3.43,1.0
+788,"Carreira Pedro, Hugo T",Mechanical & Aerospace Eng.,100.0,3.25,1.0
+789,"Becker, Janet Maria",other,88.5,3.3575,4.0
+790,"Anderegg, Francois",other,100.0,3.675,2.0
+791,"Arefiev, Alexey",Mechanical & Aerospace Eng.,90.6,3.16,1.0
+792,"Nemat-Nasser, Siavouche",other,91.26666666666667,3.4499999999999997,3.0
+793,"Harrington, Steven Merrill",Mechanical & Aerospace Eng.,100.0,3.4,1.0
+794,"Tustaniwskyj, Jerry I",Mechanical & Aerospace Eng.,70.86666666666666,3.44,3.0
+795,"Gillett, David S",Mechanical & Aerospace Eng.,100.0,3.58,1.0
+796,"Beg, Farhat N.",Mechanical & Aerospace Eng.,79.2,3.24,1.0
+797,"Boechler,nicholas Sebastia",Mechanical & Aerospace Eng.,95.4,3.285,2.0
+798,"Garay, Javier",Mechanical & Aerospace Eng.,88.0,3.36,1.0
+799,"Miller, David R.",other,69.5,3.2199999999999998,2.0
+800,"Rangamani, Padmini",Mechanical & Aerospace Eng.,94.9,3.18,1.0
+801,"Sanchez, Antonio Luis",Mechanical & Aerospace Eng.,89.3,3.34,1.0
+802,"Krasheninnikov, Sergei",Mechanical & Aerospace Eng.,53.6,3.12,1.0
+803,"Tynan, George Robert",Mechanical & Aerospace Eng.,82.0,3.29,1.0
+804,"Nesterenko, Vitali F",Mechanical & Aerospace Eng.,62.5,2.82,1.0
+805,"Cortes, Jorge",Mechanical & Aerospace Eng.,95.6,3.48,1.0
+806,"de Callafon, Raymond A",Mechanical & Aerospace Eng.,62.45,3.225,2.0
+807,"Martinez, Sonia",Mechanical & Aerospace Eng.,94.4,3.25,1.0
+808,"Gravish, Nicholas G",Mechanical & Aerospace Eng.,100.0,3.38,1.0
+809,"Graeve, Olivia A",Mechanical & Aerospace Eng.,64.3,3.64,1.0
+810,"Seshadri, Kalyanasundaram",Mechanical & Aerospace Eng.,56.3,3.5,1.0
+811,"Popescu, Cristian D.",Mathematics,93.43333333333334,3.0833333333333335,3.0
+812,"Varma, Ila K",Mathematics,80.0,2.75,1.0
+813,"Green, Nathan E",Mathematics,95.5,3.38,1.0
+814,"Au, Benson C",Mathematics,62.55,2.98,2.0
+815,"Pelayo, Alvaro",Mathematics,97.33333333333333,2.983333333333333,3.0
+816,"Zelmanov, Efim I",Mathematics,74.5,2.925,2.0
+817,"Mohammadi, Amir",Mathematics,77.25,3.2350000000000003,2.0
+818,"Sorensen, Claus M",Mathematics,80.89999999999999,3.066666666666667,3.0
+819,"Swanson, Joshua P",Mathematics,80.5,3.1,1.0
+820,"Knop, Aleksandr",Mathematics,72.82,3.132,5.0
+821,"Anzaldo, Leesa B",Mathematics,96.45,3.275,2.0
+822,"Novak, Jonathan I",Mathematics,90.53333333333335,3.3666666666666667,3.0
+823,"Bowers, Adam R.",Mathematics,91.725,3.12,4.0
+824,"Savvas, Michail",Mathematics,89.7,3.28,1.0
+825,"Deotte, Christopher George",Mathematics,75.15,3.255,2.0
+826,"De Vleming, Kristin Elizab",Mathematics,87.8,2.99,1.0
+827,"Tucker, Henry Jackson",Mathematics,67.8,3.1366666666666667,3.0
+828,"Um, Ko Woon",Mathematics,77.57142857142857,2.9557142857142855,7.0
+829,"Quarfoot, David James",Mathematics,90.10000000000001,2.978571428571428,7.0
+830,"Elgindi, Tarek M",Mathematics,85.0,3.025,2.0
+831,"McKernan, James",Mathematics,80.96666666666667,3.4933333333333336,3.0
+832,"Meyer, David A.",Mathematics,87.55000000000001,3.3150000000000004,4.0
+833,"Driver, Bruce K",Mathematics,94.06666666666666,3.5,3.0
+834,"Bejenaru, Ioan",Mathematics,90.5,2.95,1.0
+835,"Zlatos, Andrej",Mathematics,96.15,3.21,2.0
+836,"Wenzl, Hans G",Mathematics,67.1,3.215,2.0
+837,"Buskin, Nikolay",Mathematics,62.224999999999994,3.0575,4.0
+838,"Sterbenz, Jacob",Mathematics,81.06666666666666,3.033333333333333,3.0
+839,"Rabin, Jeffrey Mark",Mathematics,98.475,3.29,4.0
+840,"Wear, Peter Joseph",Mathematics,51.2,3.2,1.0
+841,"Cloninger, Alexander",Mathematics,92.75,3.0774999999999997,4.0
+842,"Behzadan, Ali",Mathematics,98.8,3.7433333333333336,3.0
+843,"Saab, Rayan",Mathematics,92.56666666666666,3.33,3.0
+844,"Cheng, Hsiao-Bing",Mathematics,78.15,2.995,2.0
+845,"Eggers, John Dietrich",Mathematics,77.0,2.9920000000000004,5.0
+846,"Tamam, Nattalie",Mathematics,35.0,3.19,1.0
+847,"Zheng, Tianyi",Mathematics,47.25,3.17,2.0
+848,"Zhang, Danna",Mathematics,98.05,3.545,2.0
+849,"Sam, Steven V",Mathematics,82.4,2.95,1.0
+850,"Rhoades, Brendon Patrick",Mathematics,99.05,3.2800000000000002,2.0
+851,"Xu, Lingling",Mathematics,40.3,3.08,1.0
+852,"Stapleton, David John",Mathematics,91.35,3.16,2.0
+853,"Ciotti, Benjamin",Mathematics,79.89999999999999,2.85,3.0
+854,"Ferrara, Joseph William",Mathematics,54.9,3.19,1.0
+855,"Ben-Ezra, David El-Chai",Mathematics,90.16666666666667,3.5400000000000005,3.0
+856,"Tesler, Glenn",Mathematics,85.06666666666666,3.4433333333333334,3.0
+857,"Strahl, Perry Robert",Mathematics,76.83333333333334,3.1544444444444446,9.0
+858,"Dewey, Edward Harold",Mathematics,67.89999999999999,3.0866666666666664,3.0
+859,"Wang, Lujia",Mathematics,45.8,3.38,2.0
+860,"Hammock, Frances H",Mathematics,94.1,3.65,1.0
+861,"Kitsela, Roman",Mathematics,88.4,3.3499999999999996,2.0
+862,"Lu, Shaoying",Mathematics,54.4,3.2,1.0
+863,"Agler, Jim",Mathematics,80.0,3.44,1.0
+864,"Tu, Yucheng",Mathematics,57.6,3.11,1.0
+865,"Mirzaei, Mozhgan",Mathematics,88.2,3.6,2.0
+866,"Conder, Jonathan Edward",Mathematics,17.2,2.42,1.0
+867,"Zhang, Yongjia",Mathematics,62.0,2.98,1.0
+868,"Malvenuto, Claudia",Mathematics,63.0,3.48,2.0
+869,"Rotar, Vladimir",Mathematics,87.175,3.2125,4.0
+870,"Haff, Leonard R.",Mathematics,100.0,3.33,1.0
+871,"Chow, Bennett",Mathematics,58.416666666666664,3.293333333333333,6.0
+872,"Carter, Anne Toulson",Mathematics,89.89999999999999,3.53,3.0
+873,"Thilmany, Francois Etienne Ch",Mathematics,100.0,3.83,1.0
+874,"Ceccherini-Silberstein, Tullio",Mathematics,83.19999999999999,2.5700000000000003,2.0
+875,"Verstraete, Jacques Allan",Mathematics,97.5,3.56,1.0
+876,"Mohanty, Sara",Mathematics,78.75,3.25,2.0
+877,"Kedlaya, Kiran S.",Mathematics,76.10000000000001,3.39,3.0
+878,"Salehi Golsefidy, Alireza",Mathematics,79.2,2.84,1.0
+879,"Curry, Sean N",Mathematics,95.675,3.1525,4.0
+880,"Snellman Jr., Robert Allen",Mathematics,98.375,3.54,4.0
+881,"Petkov, Vladislav V",Mathematics,65.75,3.16,4.0
+882,"Licht, Martin W",Mathematics,56.06666666666666,3.153333333333333,3.0
+883,"Aghajani, Mohammadreza",Mathematics,88.0,3.4066666666666667,3.0
+884,"Huynh, Thang L",Mathematics,75.06666666666666,3.2300000000000004,3.0
+885,"Buss, Samuel R",Mathematics,92.05,3.45,2.0
+886,"Li, Bo",Mathematics,100.0,3.69,1.0
+887,"Nie, Jiawang",Mathematics,79.4,3.325,2.0
+888,"Cheng, Li-Tien",Mathematics,86.25,3.1550000000000002,2.0
+889,"Szypowski, Ryan S.",Mathematics,97.75000000000001,3.4475000000000002,4.0
+890,"Fitzsimmons, Patrick J",Mathematics,65.0,3.02,1.0
+891,"Zhou, Wenxin",Mathematics,47.36666666666667,3.3966666666666665,3.0
+892,"Bradic, Jelena",Mathematics,75.83333333333333,3.6033333333333335,3.0
+893,"Aamari, Eddie",Mathematics,68.26666666666667,3.2733333333333334,3.0
+894,"Arias-Castro, Ery",Mathematics,81.3,3.62,1.0
+895,"Bucur, Alina Ioana",Mathematics,80.44999999999999,3.705,2.0
+896,"Charlesworth, Ian L",Mathematics,42.9,2.7800000000000002,2.0
+897,"Allen, Grant Warren",Mathematics,90.45,3.35,2.0
+898,"Dilts, James Paul",Mathematics,81.6,3.1399999999999997,2.0
+899,"Rogalski, Daniel",Mathematics,96.9,3.855,2.0
+900,"Ioana, Adrian",Mathematics,100.0,3.62,1.0
+901,"Lamel, Bernhard R",Mathematics,72.8,3.46,1.0
+902,"Suk, Andrew Hoon",Mathematics,90.2,3.3,1.0
+903,"Kemp, Todd Aahron",Mathematics,95.1,3.13,2.0
+904,"Kolesnikov, Pavel",Mathematics,75.95,3.275,2.0
+905,"Schweinsberg, Jason",Mathematics,96.6,3.49,1.0
+906,"Politis, Dimitris",Mathematics,52.2,3.38,1.0
+907,"duBois, Page Ann",other,94.26666666666667,3.6666666666666665,3.0
+908,"Chang, Edmond Yi-Teh",Making of the Modern World,93.78571428571429,3.2071428571428577,7.0
+909,"Myerston Santana, Jacobo",other,91.8,3.752,5.0
+910,"Keller-Lapp, Heidi M.",Making of the Modern World,87.4,3.3,1.0
+911,"Palhegyi, Joel David",Making of the Modern World,85.5,3.35,1.0
+912,"Cohen, Richard S.",other,94.75,3.5949999999999998,2.0
+913,"Frank, Ross H.",Making of the Modern World,100.0,3.75,1.0
+914,"Wastal, Carrie King",Muir College,96.45,3.9,2.0
+915,"Karis, Aleck",Music,76.15,3.165,2.0
+916,"Murphy-Mancini, Justin Joseph",Music,70.0,3.5,1.0
+917,"Rubio, Juan David",Music,94.60000000000001,3.5833333333333335,3.0
+918,"Ohnishi, Takae",Music,100.0,3.9225000000000003,8.0
+919,"Kenyatta, Kamau",Music,99.8125,3.95625,8.0
+920,"Nussman, Jonathan Banks",Music,96.96666666666665,3.6799999999999997,3.0
+921,"Hochman, Joshua David",Music,81.56666666666666,3.4766666666666666,3.0
+922,"Burr, Anthony I",Music,96.625,3.6475,4.0
+923,"Puckette, Miller S.",Music,72.33333333333333,3.466666666666667,3.0
+924,"Hsu, Jennifer Shanchen",Music,100.0,3.88,1.0
+925,"Clarino, Christopher Richard",Music,67.9,3.47,1.0
+926,"Miller, Caroline Louise",Music,75.83333333333334,3.7066666666666666,3.0
+927,"Carlson, Erik Norman",Music,100.0,3.8850000000000002,6.0
+928,"Liang, Lei",Music,94.45,3.9450000000000003,2.0
+929,"Digney, Fiona Ruth",Music,68.2,3.575,2.0
+930,"Diels, Natacha D.",Music,89.3,3.56,1.0
+931,"Larson, Philip Clarion",Music,99.21111111111111,3.94,9.0
+932,"Schick, Steven",Music,94.9,3.9699999999999998,4.0
+933,"Kline, Matthew John",Music,97.63333333333333,4.0,3.0
+934,"Anderson, Kenneth",Music,99.53333333333335,3.975,6.0
+935,"Beauton, James Alan",Music,100.0,3.983333333333333,3.0
+936,"Seshadri, Kartik",Music,94.03333333333335,3.985,6.0
+937,"Curbelo Gonzalez, Elisabet",Music,100.0,3.67,1.0
+938,"Aoki Navarro, Fernanda",Music,66.65,3.585,2.0
+939,"Abbasi Hafshejani, Anahita",Music,100.0,3.93,1.0
+940,"Garcia-Munoz, Issac",Music,100.0,4.0,1.0
+941,"Charney, Joshua Jamsheed",Music,97.7,3.895,2.0
+942,"Chodos, Asher Tobin",Music,71.9,3.6,2.0
+943,"Lytle, Cecil William",Music,100.0,3.73,2.0
+944,"Terrazas Perez, Wilfrido D",Music,98.95,3.925,2.0
+945,"Cimini, Amy Marie",Music,73.6,3.49,2.0
+946,"Haywood, Kevin Matthew",Music,100.0,3.31,1.0
+947,"Zyskowski, Colin A",Music,85.7,3.83,1.0
+948,"Smyth, Tamara R.",Music,80.0,3.25,1.0
+949,"Moellenberg, Todd Michael",Music,97.55,3.7199999999999998,2.0
+950,"Guy, Nancy",Music,91.65,3.87,2.0
+951,"Steiger, Rand",Music,100.0,3.67,1.0
+952,"Stevens, Jane",Music,60.0,3.67,1.0
+953,"Nestor, Ryan Douglas",Music,97.7,3.57,1.0
+954,"Thorpe, Suzanne",Music,76.1,3.65,1.0
+955,"Chen, Zheng",NanoEngineering,84.0,3.5300000000000002,2.0
+956,"Powell, Alyssa",NanoEngineering,100.0,3.645,2.0
+957,"Russ, Benjamin Edward",NanoEngineering,79.96666666666665,3.4933333333333336,3.0
+958,"Zhang, Liangfang",NanoEngineering,82.8,3.4050000000000002,2.0
+959,"Lubarda, Vlado",other,85.82857142857142,3.579999999999999,7.0
+960,"Drews, Aaron",other,98.73333333333333,3.461111111111111,9.0
+961,"Chen, Yi",Anthropology,80.36666666666666,3.2899999999999996,3.0
+962,"Horvath, Stephen",Anthropology,87.8,3.02,1.0
+963,"Pascal, Tod A",Anthropology,75.0,3.29,1.0
+964,"Opatkiewicz, Justin Paul",NanoEngineering,97.0,3.3274999999999997,4.0
+965,"Herz, Richard K",other,100.0,3.76,2.0
+966,"Safari, Iman",NanoEngineering,76.65,3.165,2.0
+967,"Talbot, Jan B",NanoEngineering,55.400000000000006,3.6,2.0
+968,"Lipomi, Darren John",other,99.03333333333335,3.39,3.0
+969,"Ong, Shyue Ping",other,83.3,3.233333333333333,3.0
+970,"Chen, Shaochen",Anthropology,87.5,3.81,1.0
+971,"Tao, Andrea Rae",Anthropology,71.4,3.38,1.0
+972,"Sirbuly, Donald",Anthropology,100.0,3.6,1.0
+973,"Meng, Y.Shirley",Anthropology,100.0,3.5,1.0
+974,"Liu, Ping",NanoEngineering,85.4,3.19,1.0
+975,"Yang, Kesong",other,89.95,3.735,2.0
+976,"Luo, Jian",Anthropology,85.4,3.75,2.0
+977,"Cubukcu, Ertugrul",Anthropology,95.0,3.4850000000000003,2.0
+978,"Fenning, David",Anthropology,77.8,3.06,1.0
+979,"Meyers, Marc",Anthropology,62.5,3.13,1.0
+980,"Sher, Gila",History,87.5,3.505,2.0
+981,"Grush, Rick Scott",History,96.55000000000001,3.2825,4.0
+982,"Anagnostopoulos, G. H.",History,91.39999999999999,3.3666666666666667,3.0
+983,"McKenzie, Kerry V.",History,95.55,3.325,2.0
+984,"Lamey, Andy M.",History,98.15714285714286,3.2457142857142856,7.0
+985,"Carr, Jennifer Rose",History,93.25,3.36,2.0
+986,"Fulkerson, Matthew Todd",History,90.89999999999999,3.4466666666666668,3.0
+987,"Nelkin, Dana Kay",History,94.60000000000001,3.3166666666666664,3.0
+988,"Callender, Craig Adam",History,92.85,3.255,2.0
+989,"Arneson, Richard J.",History,67.93333333333334,2.8966666666666665,3.0
+990,"Wonderly, Monique L.",History,100.0,3.6,1.0
+991,"Speitel, Sebastian Georg Wern",History,100.0,3.67,1.0
+992,"Joyce, Kathryn Elizabeth",History,100.0,2.8,1.0
+993,"Martin, Noel B",History,100.0,3.4,1.0
+994,"Bazargan-Forward, Saba",History,96.5,3.215,4.0
+995,"Winning, Richard Jason",History,75.0,3.57,1.0
+996,"Tracz, Robert Brian",History,100.0,3.0,1.0
+997,"Knutzen, Jonathan",History,100.0,3.14,1.0
+998,"Stringer, Ryan Matthew",History,100.0,3.24,1.0
+999,"Rutherford, Donald Paul",History,100.0,3.1733333333333333,3.0
+1000,"Hardimon, Michael O.",History,85.10000000000001,3.236666666666667,3.0
+1001,"Cohen, Jonathan David",History,77.44999999999999,3.465,2.0
+1002,"Brandt, Reuven A",History,96.35,3.295,2.0
+1003,"Allais, Lucy L.",History,100.0,3.33,1.0
+1004,"Greene, Blythe Anastasia",History,92.3,3.55,1.0
+1005,"Dougherty II, John Edward",History,87.1,3.6,1.0
+1006,"Santorio, Paolo",History,96.0,3.38,1.0
+1007,"Brink, David O.",History,100.0,3.67,1.0
+1008,"Cartwright, Nancy D.",History,68.4,3.61,1.0
+1009,"Doppelt, Gerald D.",History,45.8,3.16,1.0
+1010,"Lin, Tongyan",Physics,80.6,2.73,2.0
+1011,"Chivukula, Raja S",Physics,90.0,3.4,1.0
+1012,"Green, Daniel Richard",Physics,76.9,2.64,1.0
+1013,"Tytler, David Robert",Physics,57.800000000000004,3.353333333333333,3.0
+1014,"Averitt, Richard Douglas",Physics,98.35,3.425,2.0
+1015,"Arnold, Kam S",Physics,100.0,3.15,2.0
+1016,"Konopacky, Quinn Morgan",Physics,99.1,3.38,1.0
+1017,"Surko, Clifford M",Physics,89.3,2.995,2.0
+1018,"Kuti, Julius",Physics,100.0,3.6666666666666665,3.0
+1019,"Palacci, Jeremie",Physics,64.0,2.39,1.0
+1020,"Wright, Shelley Adams",Physics,93.65,3.2199999999999998,2.0
+1021,"Dudko, Olga",Physics,87.5,3.33,1.0
+1022,"Paddock, Mark",Physics,76.525,3.3074999999999997,4.0
+1023,"Burgasser, Adam Jonathan",Physics,86.96666666666665,3.17,3.0
+1024,"Tsai, Philbert S",Physics,97.025,3.2975000000000003,4.0
+1025,"Yagil, Avi",Physics,64.04444444444444,3.305555555555556,9.0
+1026,"Ni, Kaixuan",Physics,89.73333333333333,3.186666666666666,3.0
+1027,"Keres, Dusan",Physics,90.35,3.175,2.0
+1028,"Groisman, Alexander",Physics,60.23333333333333,3.0866666666666664,3.0
+1029,"Shpyrko, Oleg",Physics,97.09999999999998,3.19,3.0
+1030,"Branson, James G",Physics,50.199999999999996,3.25,3.0
+1031,"Butov, Leonid",Physics,78.96666666666667,3.6033333333333335,3.0
+1032,"Shotwell, Brian",Physics,92.1,3.01,4.0
+1033,"Coil, Alison",Physics,89.19999999999999,3.42,2.0
+1034,"Lubin, Dan",Physics,70.85,3.4749999999999996,2.0
+1035,"Yang, Yi",Physics,70.8,3.48,6.0
+1036,"Bibby, Yu",Physics,61.5,3.17,1.0
+1037,"Sheldon, Forrest Crawford",Physics,95.8,3.37,2.0
+1038,"Rozenberg, Marcelo Javier",Physics,36.25,2.935,2.0
+1039,"Chakraborty, Subrata",Physics,74.05,3.125,2.0
+1040,"Meill, Alexander Warren",Physics,100.0,3.3600000000000003,2.0
+1041,"Malkov, Mikhail Alexandr",Physics,7.1,2.67,1.0
+1042,"Ben-Zion, Daniel",Physics,80.0,3.08,1.0
+1043,"Fang, Zheng",Physics,80.0,2.9,1.0
+1044,"Michelsen, Eric Leonard",Physics,100.0,2.67,1.0
+1045,"Dubin, Daniel Herschel",Physics,94.45,2.63,2.0
+1046,"Kleinfeld, David",Physics,87.0,3.21,1.0
+1047,"Maple, M. Brian",Physics,100.0,3.73,2.0
+1048,"Intriligator, Kenneth Arthur",Physics,100.0,2.8,1.0
+1049,"Friedman, Andrew Samuel",Physics,86.7,3.57,1.0
+1050,"Bott-Suzuki, Simon Charles",Physics,70.4,3.13,1.0
+1051,"Popmintchev, Tenio",Physics,86.25,3.31,2.0
+1052,"Barreiro Guerrero, Julio",Physics,80.3,3.21,1.0
+1053,"Wuerthwein, Frank",Physics,75.3,3.29,1.0
+1054,"Frano Pereira, Alex M",Physics,95.5,3.44,2.0
+1055,"Hirsch, Jorge Eduardo",Physics,43.2,2.715,2.0
+1056,"Manohar, Aneesh Vasant",Physics,100.0,3.11,2.0
+1057,"Jenkins, Elizabeth",Physics,74.2,2.77,1.0
+1058,"Wu, Congjun",Physics,70.0,2.5,1.0
+1059,"Salmon, Richard L.",other,100.0,3.625,2.0
+1060,"Smith, Douglas E",Physics,100.0,3.85,1.0
+1061,"Grover, Tarun",Physics,100.0,3.55,1.0
+1062,"Sharpee, Tatyana",Physics,75.0,3.67,1.0
+1063,"Kritsuk, Alexei",Physics,72.3,3.19,1.0
+1064,"Rappel, Wouter Jan",Physics,93.2,3.33,1.0
+1065,"Sandstrom, Karin Marie",Physics,90.4,3.38,1.0
+1066,"Ban, Pamela M",Linguistics,95.0,3.69,1.0
+1067,"Fletcher, Nathan",other,97.425,3.3925,4.0
+1068,"Gause, LaGina",Linguistics,96.15,3.1550000000000002,2.0
+1069,"Smith, Glenn Chatmas",Linguistics,98.88571428571427,3.6799999999999997,7.0
+1070,"Bergman, Matthew Edward",other,80.20000000000002,3.482857142857143,7.0
+1071,"Abrajano, Marisa",Linguistics,88.1,3.67,1.0
+1072,"Goldman, Harvey Stern",other,94.10000000000001,3.563333333333333,3.0
+1073,"Magagna, Victor Valentine",Linguistics,99.2625,3.935,8.0
+1074,"Ferree, Karen E",Linguistics,94.19999999999999,3.575,2.0
+1075,"Nichter, Simeon C",Linguistics,97.25,3.585,2.0
+1076,"Saiegh, Sebastian",Linguistics,91.65,3.325,2.0
+1077,"Feinberg, Richard Edward",Linguistics,85.7,3.67,1.0
+1078,"Nellis, Gareth Hb",Linguistics,85.7,3.25,1.0
+1079,"Sharpless, Isaac Walling",Linguistics,94.66666666666667,3.456666666666667,3.0
+1080,"Merrell, Brandon",Linguistics,92.9,3.705,2.0
+1081,"Vaughn, Abigail Leigh",Linguistics,92.7,3.436666666666667,3.0
+1082,"Hajnal, Zoltan Lloyd",other,84.5,2.955,2.0
+1083,"Butler, Daniel",Linguistics,93.325,3.5524999999999998,4.0
+1084,"Wiens, David Abram",Linguistics,97.8,3.635,2.0
+1085,"Mackie, Gerald",Linguistics,67.7,3.44,1.0
+1086,"Bonett, Derek John",Linguistics,100.0,4.0,1.0
+1087,"Roth, Skyler Elijah Maclean",Linguistics,100.0,3.79,2.0
+1088,"Liu, Huchen",Linguistics,70.0,3.185,2.0
+1089,"Spangler, Liesel Ingrid",Linguistics,100.0,3.78,1.0
+1090,"Strom, Kaare",Linguistics,100.0,4.0,1.0
+1091,"Morgan, Sean Thomas",Linguistics,84.36666666666667,3.42,3.0
+1092,"Bredell, Garrett Bailey",Linguistics,100.0,3.5,1.0
+1093,"Gartzke, Erik",Linguistics,89.26666666666667,3.6966666666666668,3.0
+1094,"Lee, Lauren Elizabeth",Linguistics,100.0,3.63,1.0
+1095,"Carlson, Taylor Nicole",Linguistics,100.0,3.75,1.0
+1096,"Zhang, Jiakun Jack",Linguistics,100.0,3.57,1.0
+1097,"McClean, Charles Thurman",Linguistics,100.0,3.58,1.0
+1098,"Porten, John Joseph",Linguistics,100.0,3.5,1.0
+1099,"Macmanus, Maureen Danielle",Linguistics,100.0,4.0,1.0
+1100,"Stephens, Mattheus E",Linguistics,78.8,3.66,1.0
+1101,"Orfield, Michael Bennett",Linguistics,100.0,3.87,1.0
+1102,"Ingham, Sean",Linguistics,89.9,3.6100000000000003,2.0
+1103,"Hoston, Germaine",Linguistics,83.36666666666666,3.5933333333333333,3.0
+1104,"Sells, Cameron James",Linguistics,90.8,3.59,2.0
+1105,"Willoughby, Randy K",Linguistics,90.9,3.42,1.0
+1106,"Broz, James Lawrence",Linguistics,100.0,3.25,1.0
+1107,"Wachob, William",Linguistics,63.2,3.69,1.0
+1108,"Fowler, James",Linguistics,100.0,3.88,1.0
+1109,"Erie, Steven P",other,100.0,3.355,2.0
+1110,"Litman, Harry P",Linguistics,92.9,3.29,1.0
+1111,"Forman, Fonna",other,95.63333333333333,3.676666666666667,3.0
+1112,"Ramanathan, Veerabhadran",other,86.75,3.6950000000000003,2.0
+1113,"Chandler, William M.",Linguistics,90.0,3.62,1.0
+1114,"Naoi, Megumi",Linguistics,94.25,3.615,2.0
+1115,"Gibson, Clark C",Linguistics,82.1,3.71,1.0
+1116,"Mares, David R",Linguistics,81.35,3.465,2.0
+1117,"Slantchev, Branislav",Linguistics,92.6,3.375,2.0
+1118,"Schneider, Christina",Linguistics,100.0,3.62,1.0
+1119,"Hanes, Esther",Psychology,99.75,3.6900000000000004,4.0
+1120,"Rose, Fred E.",Psychology,96.2,3.31,3.0
+1121,"Heyman, Gail D.",Psychology,96.43333333333334,3.766666666666666,6.0
+1122,"Serences, John Thomas",Psychology,99.3,3.5,1.0
+1123,"Frederick, David A",Psychology,97.05999999999999,3.3560000000000003,5.0
+1124,"Geller, Emma Harlan",Psychology,99.58749999999999,3.4975,8.0
+1125,"Winkielman, Piotr",Psychology,92.85,3.4575,4.0
+1126,"Lang, Ariel",Psychology,97.2,3.855,2.0
+1127,"Winward, Jennifer Laven",Psychology,98.925,3.755,4.0
+1128,"Lacefield, Katharine I",Psychology,96.64,3.566,5.0
+1129,"Kaye, Walter H.",Psychology,89.65,3.61,2.0
+1130,"Breit, Kristen Rian",Psychology,100.0,3.7249999999999996,2.0
+1131,"Willis, Jarryd Thomas",Psychology,95.37142857142858,3.6185714285714288,7.0
+1132,"Geiss, Elisa G",Psychology,76.7,3.29,1.0
+1133,"Wixted, John T",Psychology,97.6,3.195,4.0
+1134,"Erdener, Eda",Psychology,63.3,3.325,2.0
+1135,"Fletcher, Laura Michelle",Psychology,99.32000000000001,3.7640000000000002,5.0
+1136,"Glaser, Dale",Psychology,94.45,3.395,2.0
+1137,"George, Olivier",Psychology,93.38,3.3299999999999996,5.0
+1138,"Anagnostaras, Stephan",Psychology,95.22,3.4519999999999995,5.0
+1139,"Schurgin, Mark W",Psychology,98.1,3.66,1.0
+1140,"Lowe, Angela Beth",Psychology,96.76,3.1859999999999995,5.0
+1141,"Rickard, Timothy C.",Psychology,90.14,3.2700000000000005,5.0
+1142,"Miller, Cory T.",Psychology,94.73333333333333,3.466666666666667,3.0
+1143,"Christenfeld, Nicholas",Psychology,80.8,3.468,5.0
+1144,"Arnold, Andrew Joseph",Psychology,91.7,3.03,1.0
+1145,"Albright, Thomas D",Psychology,100.0,3.53,1.0
+1146,"Sousa, Margarette Pamela-Burd",Psychology,89.69999999999999,3.41,2.0
+1147,"Aramovich, Nicholas P",Psychology,97.1,3.4,1.0
+1148,"Moranton, Nirelia Melbina-",Psychology,85.2,3.5,2.0
+1149,"Morgan, Adam Milton",Psychology,100.0,3.25,1.0
+1150,"Root, Nicholas Bernard",Psychology,100.0,3.5,1.0
+1151,"Ramachandran, Vilayanur S",Psychology,83.13333333333334,3.5766666666666667,3.0
+1152,"Kennelly, Arthur Edwin",Psychology,100.0,3.38,1.0
+1153,"Brady, Adena Schachner",Psychology,97.7,3.33,1.0
+1154,"Gremel, Christina M",Psychology,87.0,3.19,1.0
+1155,"Bajic, Daniel Andrew",Psychology,95.0,4.0,2.0
+1156,"Aron, Adam",Psychology,91.85,3.62,2.0
+1157,"Accomando, Alyssa Wheeler",Psychology,97.0,3.25,1.0
+1158,"Gasperi, Marianna",Psychology,98.0,3.515,2.0
+1159,"Brady, Timothy Francis",Psychology,99.1,3.605,2.0
+1160,"Howland, Alex C",Psychology,69.7,3.22,1.0
+1161,"Barner, David A.",Psychology,95.6,3.67,1.0
+1162,"Ahn, Young-Ju",Psychology,100.0,4.0,1.0
+1163,"Stoermer, Viola Sophie",Psychology,91.5,3.22,1.0
+1164,"Steiner, Eric Tomas",Psychology,94.43333333333332,3.15,3.0
+1165,"Yerushalmian, Sara",Psychology,96.6,3.49,1.0
+1166,"Walker, Caren Michelle",Psychology,98.2,3.47,1.0
+1167,"Gentner, Tim",Psychology,92.0,3.27,1.0
+1168,"Hunt, Matthew James",Psychology,71.4,3.2,1.0
+1169,"St John, Mark F.",Psychology,61.5,3.47,1.0
+1170,"Mc Kenzie, Craig R.M.",Psychology,90.0,3.41,1.0
+1171,"Dobkins, Karen R.",other,100.0,3.9333333333333336,3.0
+1172,"Lau, Sin-Heng",Psychology,83.3,3.5,1.0
+1173,"Kalleres, Dayna",other,95.54,3.718,5.0
+1174,"Torrance, Justina",Linguistics,94.1,3.65,1.0
+1175,"Amironesei, Razvan",Linguistics,70.0,3.75,1.0
+1176,"Eberhard, Craig A",Rady School of Management,96.12,3.4080000000000004,10.0
+1177,"Ehrich, Kristine R",Rady School of Management,94.6,3.26,9.0
+1178,"Demill, Burritt",Rady School of Management,100.0,3.44,1.0
+1179,"Bates, Kenneth Walter",Rady School of Management,92.95,3.3150000000000004,4.0
+1180,"Campbell, Robert Harold",Rady School of Management,97.7,3.7390000000000008,10.0
+1181,"Fuller, Robert L.",Rady School of Management,82.84,3.716,10.0
+1182,"Kim, Nancy Sun Kyung",Rady School of Management,92.3,3.6449999999999996,2.0
+1183,"Lindenberger, Wade Douglas",Rady School of Management,98.13636363636364,3.681818181818181,11.0
+1184,"Klaas, Jeffrey David",Rady School of Management,96.15,3.76,2.0
+1185,"Greco, Frank James",Rady School of Management,100.0,3.56,1.0
+1186,"Houskeeper, Robert",Rady School of Management,86.93636363636364,3.523636363636364,11.0
+1187,"Blakley, Bruce",Rady School of Management,76.73333333333333,3.1633333333333336,3.0
+1188,"Pecore, Joseph P.",Rady School of Management,97.17777777777778,3.4966666666666666,9.0
+1189,"Perols, Johan Lars",Rady School of Management,99.35,3.595,4.0
+1190,"Buchanan, Harold G",Rady School of Management,92.71428571428571,3.34,7.0
+1191,"McKay, Mary A",Rady School of Management,88.66363636363637,3.266363636363636,11.0
+1192,"Zimmermann, Carsten",Rady School of Management,91.21666666666668,3.5466666666666664,6.0
+1193,"Moran, Cathleen L.",Rady School of Management,83.67777777777778,3.261111111111111,9.0
+1194,"Shaffer, Lisa Robock",Rady School of Management,97.8,3.58,1.0
+1195,"Jacob, Jo Dee C",Rady School of Management,91.8,3.67,1.0
+1196,"Gopal, Christopher S.",Rady School of Management,92.86666666666667,3.3033333333333332,3.0
+1197,"Hedges, Kathleen",Rady School of Management,98.1,3.6228571428571428,7.0
+1198,"Royal, Rebecca",Rady School of Management,92.2,3.606666666666667,3.0
+1199,"Hayes, Sherry Lorine",Rady School of Management,97.0,3.52,1.0
+1200,"McKay, Michael J",Rady School of Management,95.0181818181818,3.347272727272728,11.0
+1201,"Bliss, Barbara Ann",Rady School of Management,97.7,3.3333333333333335,3.0
+1202,"Parashar, Sat P",Rady School of Management,92.3,3.54,1.0
+1203,"Dunn, Louis Jean",Rady School of Management,83.51428571428572,3.4571428571428564,7.0
+1204,"Wagner, Timothy Ryan",Rady School of Management,100.0,3.42,1.0
+1205,"Connell, Joanie B.",Rady School of Management,92.3,3.62,1.0
+1206,"Baltes, Guido H",Rady School of Management,100.0,3.94,1.0
+1207,"Maki, Kanetaka",Rady School of Management,96.3,3.67,1.0
+1208,"Somasundaram, Tyagarajan",Rady School of Management,88.825,3.1799999999999997,4.0
+1209,"Davis, Kathleen Ann",Rady School of Management,100.0,4.0,1.0
+1210,"Rutherford, Lamar",Rady School of Management,85.45,3.54,2.0
+1211,"Krishnan, Viswanathan",Rady School of Management,94.1,3.64,1.0
+1212,"Sullivan, Robert S.",Rady School of Management,90.9,3.41,1.0
+1213,"Greenspan, Bernard J",Rady School of Management,100.0,3.64,1.0
+1214,"Weil, Roman",Rady School of Management,100.0,4.0,1.0
+1215,"Smith, Pamela Karen",Rady School of Management,95.6,3.46,1.0
+1216,"Katzenstein, Gary Jay",Rady School of Management,98.4,3.31,1.0
+1217,"Dos Santos, Jose Ricardo",Rady School of Management,77.4,3.77,1.0
+1218,"Willoughby, Michael Gene",Rady School of Management,81.6,3.71,1.0
+1219,"Callen, Michael J",Rady School of Management,80.0,2.8,1.0
+1220,"Dechner, Gilad",Rady School of Management,62.1,3.09,1.0
+1221,"Prosser, Elise K",Rady School of Management,91.5,3.64,1.0
+1222,"Zhu, Kevin Xiaoguo",Rady School of Management,82.2,3.81,1.0
+1223,"Meyer, Alison Bloomfield",Rady School of Management,92.3,3.73,1.0
+1224,"Doran, Martha S",Rady School of Management,95.5,3.56,1.0
+1225,"Baca, Katherine Marie",Rady School of Management,100.0,3.83,1.0
+1226,"Van Den Einde, Yael Dahlia",Structural Engineering,80.80000000000001,3.365,2.0
+1227,"Asaro, Robert J",Structural Engineering,15.2,3.18,1.0
+1228,"Conte, Joel P",Structural Engineering,95.0,2.83,1.0
+1229,"Kosmatka, John B",Structural Engineering,87.275,3.445,4.0
+1230,"Elgamal, Ahmed",Structural Engineering,100.0,3.29,1.0
+1231,"Hutchinson, Tara",Structural Engineering,63.15,2.75,2.0
+1232,"Ngo, Mimi",Structural Engineering,75.0,3.67,1.0
+1233,"Wei, Haoyan",Structural Engineering,100.0,3.0,1.0
+1234,"Adams, Dave Kenneth",Structural Engineering,100.0,3.33,1.0
+1235,"McCartney, John Scott",Structural Engineering,75.0,3.0,1.0
+1236,"Oberrecht, Stephen Patrick",Structural Engineering,100.0,3.25,1.0
+1237,"Qiao, Yu",Structural Engineering,75.66666666666667,3.4066666666666667,3.0
+1238,"Chen, Jiun-Shyan",Structural Engineering,88.9,3.22,1.0
+1239,"Saritas, Afsin",Structural Engineering,71.4,2.86,1.0
+1240,"Mosqueda, Gilberto",Structural Engineering,100.0,3.22,1.0
+1241,"Oded, Amir",Structural Engineering,90.0,3.2,1.0
+1242,"Krysl, Petr",Structural Engineering,80.3,3.21,2.0
+1243,"Restrepo, Jose",Structural Engineering,41.4,2.97,1.0
+1244,"Kim, Hyonny",Structural Engineering,100.0,3.4333333333333336,3.0
+1245,"Uang, Chia-Ming",Structural Engineering,95.06666666666666,3.19,3.0
+1246,"Megally, Sami Hanna",Structural Engineering,94.1,3.23,2.0
+1247,"Kim, Hyunsun Alicia",Structural Engineering,54.3,3.04,1.0
+1248,"Lanza Di Scalea, Francesco",Structural Engineering,98.85,3.285,2.0
+1249,"Farrar, Charles R.",Structural Engineering,66.7,3.33,1.0
+1250,"Kuester, Falko",Structural Engineering,83.3,3.17,1.0
+1251,"Loh, Kenneth J. H.",Structural Engineering,87.5,2.81,1.0
+1252,"McDonald, James Alan",Structural Engineering,79.8,2.99,1.0
+1253,"Tomac, Ingrid",Structural Engineering,26.3,3.28,1.0
+1254,"Gee, Jeffrey S",SIO,98.5,3.345,2.0
+1255,"Norris, Richard D.",SIO,100.0,3.335,2.0
+1256,"Aluwihare, Lihini",SIO,85.7,3.29,1.0
+1257,"Landry, Michael Raymond",SIO,85.9,3.26,2.0
+1258,"Brown, Kevin Michael",SIO,77.8,3.415,2.0
+1259,"Willenbring, Jane Kathryn",SIO,85.93333333333334,3.22,3.0
+1260,"Clemesha, Rachel Schwartz",SIO,62.5,3.56,1.0
+1261,"Keeling, Ralph F.",SIO,100.0,3.56,1.0
+1262,"Peach, Cheryl",SIO,98.1,3.85,1.0
+1263,"Bowman, Jeff Shovlowsky",SIO,92.82499999999999,3.4075,4.0
+1264,"Allen, Andrew Ellis",SIO,95.7,3.69,1.0
+1265,"Burton, Ronald S.",SIO,97.6,3.24,2.0
+1266,"Hechinger, Ryan F.",SIO,83.30000000000001,2.7199999999999998,2.0
+1267,"Baumann-Pickering , Simone",SIO,96.6,3.37,2.0
+1268,"Semmens, Brice Xavier",SIO,94.25,3.37,2.0
+1269,"Wegner, Nicholas Craig",SIO,100.0,3.3,1.0
+1270,"Laske, Gabi",SIO,96.0,3.68,1.0
+1271,"Rudnick, Daniel Lars",SIO,100.0,3.38,1.0
+1272,"Merrifield, Mark A",SIO,100.0,3.57,1.0
+1273,"Charles, Christopher D.",SIO,84.85,3.325,2.0
+1274,"Holland, Nicholas D.",SIO,80.7,3.27,1.0
+1275,"Send, Uwe",SIO,78.3,3.27,1.0
+1276,"Barbeau, Katherine",SIO,96.9,3.52,1.0
+1277,"Ricke, Katharine L",SIO,86.7,3.27,1.0
+1278,"Norris, Joel Roland",SIO,95.55,3.44,2.0
+1279,"Gerwick, William Henry",SIO,100.0,4.0,1.0
+1280,"Courtney, Travis Alexander",SIO,100.0,3.75,1.0
+1281,"Doran, Adrian Kristeller",SIO,100.0,4.0,1.0
+1282,"Durkin, Kathryn Elaine",SIO,100.0,3.07,1.0
+1283,"Joyce, Trevor William",SIO,100.0,3.43,1.0
+1284,"Krause, Douglas John",SIO,100.0,3.43,1.0
+1285,"Borsa, Adrian Antal",SIO,98.7,3.34,1.0
+1286,"Driscoll, Neal W.",SIO,97.35,3.705,2.0
+1287,"Lyons, Deirdre Colleen",SIO,100.0,3.88,1.0
+1288,"Jensen, Paul R.",SIO,100.0,2.89,1.0
+1289,"Bartlett, Douglas H",SIO,97.4,3.34,1.0
+1290,"Ballance, Lisa Taylor",SIO,85.4,3.61,1.0
+1291,"Leichter, James J.",SIO,83.3,3.38,1.0
+1292,"Smith, Jennifer",SIO,100.0,3.37,2.0
+1293,"Day, James M.D.",SIO,97.2,3.205,2.0
+1294,"Fialko, Yuri A.",SIO,83.3,3.36,1.0
+1295,"Severinghaus, Jeffrey P.",SIO,100.0,3.67,1.0
+1296,"Tresguerres, Martin",SIO,100.0,3.2,1.0
+1297,"Constable, Steven C",SIO,90.0,3.15,2.0
+1298,"Gaasterland, Theresa",SIO,100.0,4.0,1.0
+1299,"Seltzer, Alan Myland",SIO,100.0,4.0,1.0
+1300,"Pommier, Anne A.",SIO,90.2,3.3,1.0
+1301,"Masters, Thomas G",SIO,100.0,3.5,1.0
+1302,"Tauxe, Lisa",SIO,100.0,3.78,1.0
+1303,"Benmarhnia, Tarik",SIO,100.0,3.9,1.0
+1304,"Andersson, Andreas Jerry",SIO,98.1,3.14,1.0
+1305,"Gille, Sarah T",SIO,98.1,3.14,1.0
+1306,"Palenik, Brian",SIO,80.55,3.12,2.0
+1307,"Rouse, Gregory W.",SIO,100.0,3.38,1.0
+1308,"Evan, Amato Tomas",SIO,0.0,3.0,1.0
+1309,"Paulenich, Cari Lynn",SIO,100.0,4.0,1.0
+1310,"Brahamsha, Bianca M.",SIO,100.0,3.25,1.0
+1311,"Sandin, Stuart Adrian",SIO,77.4,3.17,1.0
+1312,"Hastings, Philip A.",SIO,100.0,3.32,1.0
+1313,"Xie, Shang-Ping",SIO,49.1,2.88,1.0
+1314,"Aburto Oropeza, Marco Octavio",SIO,90.6,3.66,1.0
+1315,"Guazzo, Regina Anne",SIO,100.0,3.67,1.0
+1316,"Skrentny, John David",Sociology,99.6,3.4850000000000003,2.0
+1317,"Medvetz, Thomas Matthew",Sociology,89.4,3.23,1.0
+1318,"Ribas Norris, Janet Vanesa",Sociology,90.98333333333333,3.5500000000000003,6.0
+1319,"Rogers, Julia Ellen",Sociology,81.3,3.495,2.0
+1320,"Lampland, Martha",Sociology,87.5,3.29,2.0
+1321,"Tirshfield, Jeffrey T",Sociology,89.3,3.472,5.0
+1322,"Hercowitz-Amir, Adi",Sociology,100.0,3.793333333333333,3.0
+1323,"Sanchez-Lopez, Luis Eduardo",Sociology,53.8,3.43,1.0
+1324,"Blair-Loy, Mary",Sociology,80.9,3.6799999999999997,3.0
+1325,"Fitzgerald, David S",Sociology,100.0,3.6,1.0
+1326,"Summers, Valerie R.",Sociology,95.80000000000001,3.455,2.0
+1327,"Biernacki, Richard",Sociology,100.0,3.525,2.0
+1328,"Rona-Tas, Akos",Sociology,90.60000000000001,3.7466666666666666,3.0
+1329,"Calderon-Zaks, Michael Aar",Sociology,63.36,3.432,5.0
+1330,"Livingstone, Stacey Bryley",Sociology,100.0,3.71,2.0
+1331,"Kenworthy, Lane A.",Sociology,85.1,3.3825,4.0
+1332,"Pardo Guerra, Juan Pablo",Sociology,88.09999999999998,3.64,3.0
+1333,"Thorpe, Charles Robert",Sociology,85.45,3.46,2.0
+1334,"Jules-Rosette, Bennetta W.",Sociology,97.63333333333333,3.7066666666666666,3.0
+1335,"Carter, Harrison Blaine",Sociology,95.45,3.1950000000000003,2.0
+1336,"Payne, Christine Anna",Sociology,100.0,3.71,1.0
+1337,"Schneider, Heidi L.",Sociology,94.75,3.485,4.0
+1338,"Navon, Daniel",Sociology,100.0,3.635,2.0
+1339,"Troutman, Philip P",Sociology,55.6,3.38,1.0
+1340,"McVey, Cristin M",Sociology,100.0,3.7249999999999996,2.0
+1341,"Madsen, Richard P.",Sociology,100.0,4.0,1.0
+1342,"Raudenbush, Danielle",Sociology,94.73333333333333,3.5566666666666666,3.0
+1343,"Sutton, April Marie",Sociology,97.6,3.54,1.0
+1344,"Scull, Andrew",Sociology,77.80000000000001,3.19,2.0
+1345,"Haydu, Jeffrey Miles",Sociology,100.0,3.77,1.0
+1346,"Davis, Daniel Brent",Sociology,100.0,4.0,1.0
+1347,"Zamosc, Leon",Sociology,70.0,3.4,1.0
+1348,"Vargas Consuelos, Carlos Ingram",Jacobs School of Engineering,40.8,3.783333333333333,3.0
+1349,"Choi, Seongcheol",Jacobs School of Engineering,78.86666666666667,3.9333333333333336,3.0
+1350,"Bratton, Maryann",Jacobs School of Engineering,92.97999999999999,3.7760000000000007,5.0
+1351,"Schamberg, Gabriel Eli",Jacobs School of Engineering,100.0,3.96,1.0
+1352,"Warchall, Julian Alexander",Jacobs School of Engineering,87.0,3.96,1.0
+1353,"Reynante, Brandon Marcellino",Jacobs School of Engineering,97.8,3.615,6.0
+1354,"Goldberg, Charles G.",Jacobs School of Engineering,100.0,4.0,1.0
+1355,"Larson, David Philip",Jacobs School of Engineering,100.0,3.88,1.0
+1356,"Williams, Ebonee P.",Jacobs School of Engineering,100.0,4.0,1.0
+1357,"Chilukuri, Lakshmi N",Sixth College,100.0,4.0,1.0
+1358,"Walsh, Kim C.",Theatre & Dance,96.60400000000001,3.8724000000000003,25.0
+1359,"Harting, Carla Kelso",Theatre & Dance,96.66499999999999,3.8634999999999997,20.0
+1360,"Robichaux, Natalie Griffith",Theatre & Dance,94.60714285714286,3.842142857142857,14.0
+1361,"Castro, Robert Jess",Theatre & Dance,100.0,3.823333333333333,3.0
+1362,"Barricelli, Marc Alexander",Theatre & Dance,100.0,3.67,1.0
+1363,"Dolan, Judith A.",Theatre & Dance,100.0,4.0,1.0
+1364,"Smith, Alison D",Theatre & Dance,98.0,3.9490000000000003,10.0
+1365,"Porter, Lisa",Theatre & Dance,100.0,3.29,1.0
+1366,"Salovey, Todd",Theatre & Dance,97.0625,3.8699999999999997,8.0
+1367,"Teshome, Tezeru",Theatre & Dance,79.0,3.75,1.0
+1368,"Rincon, Patricia A.",Theatre & Dance,92.86363636363636,3.9936363636363637,11.0
+1369,"Tregar, Kristen Lauren",Theatre & Dance,100.0,3.54,1.0
+1370,"Woods, Wind Dell",Theatre & Dance,82.4,3.5,1.0
+1371,"White, Bryan Curtiss",Theatre & Dance,100.0,3.7533333333333334,3.0
+1372,"Caligagan, Maria T.",Theatre & Dance,97.82000000000001,3.9239999999999995,5.0
+1373,"Wilson, Terry A.",Theatre & Dance,100.0,3.8200000000000003,4.0
+1374,"Geiger, Eric",Theatre & Dance,100.0,3.9466666666666668,6.0
+1375,"Jun, Grace Shin Hae",Theatre & Dance,94.45,3.835,4.0
+1376,"Caligagan, Tony",Theatre & Dance,95.82857142857142,3.911428571428572,7.0
+1377,"Valero, Oscar",Theatre & Dance,89.2,3.8,2.0
+1378,"Foster-King, Sandra",Theatre & Dance,82.5,3.99,3.0
+1379,"Sammartano, Tonnie",Theatre & Dance,98.81666666666666,3.9416666666666664,6.0
+1380,"Snaith, Yolande",Theatre & Dance,85.35000000000001,3.98,6.0
+1381,"Rincon, Alicia",Theatre & Dance,95.95714285714287,3.962857142857143,7.0
+1382,"Arcidiacono, Kristin",Theatre & Dance,96.25714285714285,3.9285714285714284,7.0
+1383,"Padilla, Liliana Camille",Theatre & Dance,94.16,3.872,5.0
+1384,"Stokes, Cynthia Sue",Theatre & Dance,100.0,3.8475,4.0
+1385,"Schwartz, Michael",Theatre & Dance,100.0,4.0,1.0
+1386,"Reimer, Jonathan Charles",Theatre & Dance,99.13333333333333,3.8000000000000003,3.0
+1387,"Dallas, Deleon Demetrius",Theatre & Dance,100.0,4.0,1.0
+1388,"Fulton, Julia",Theatre & Dance,93.76666666666667,3.893333333333333,3.0
+1389,"Weinberg, Sadie",Theatre & Dance,100.0,3.902,5.0
+1390,"Hale, Debra",Theatre & Dance,100.0,4.0,1.0
+1391,"Vickerman, Linda Joanne",Theatre & Dance,100.0,4.0,1.0
+1392,"Osmanski, Joy K",Theatre & Dance,100.0,3.67,1.0
+1393,"Benzoni, Elisa",Theatre & Dance,100.0,3.67,1.0
+1394,"Means, Charles E.",Theatre & Dance,86.93333333333332,3.8366666666666664,3.0
+1395,"Stalling, Vanessa",Theatre & Dance,100.0,3.82,1.0
+1396,"McCleary, Keith Long",other,98.6625,3.3225000000000002,8.0
+1397,"Raphaeli, Karen Adee",Theatre & Dance,74.94999999999999,3.6100000000000003,2.0
+1398,"Brill, Robert L.",Theatre & Dance,100.0,4.0,1.0
+1399,"Oates, Charles Bruce",Theatre & Dance,100.0,4.0,1.0
+1400,"George, Nadine",Theatre & Dance,100.0,4.0,2.0
+1401,"Glabe, Heather G.",Theatre & Dance,100.0,3.795,2.0
+1402,"Devaguptapu, Divya",Theatre & Dance,94.1,4.0,1.0
+1403,"Iizuka, Naomi Hisako",Theatre & Dance,95.83333333333333,3.9450000000000003,6.0
+1404,"Stein, Deborah Isobel",Theatre & Dance,100.0,3.88,1.0
+1405,"Myers, David William",Theatre & Dance,100.0,3.63,1.0
+1406,"Rubinstein, Kim",Theatre & Dance,85.7,4.0,1.0
+1407,"Burrett, Alan",Theatre & Dance,100.0,3.75,1.0
+1408,"Cole, Melanie Chen",Theatre & Dance,100.0,3.89,1.0
+1409,"Petrovich, Victoria A.",Theatre & Dance,100.0,3.67,1.0
+1410,"Adler, Steven",Theatre & Dance,85.2,3.59,1.0
+1411,"Carmody, James",Theatre & Dance,100.0,3.825,2.0
+1412,"Clancy, Liam",Theatre & Dance,94.1,3.94,1.0
+1413,"Sinay, Patricia",Thurgood Marshall College,31.25,3.75,2.0
+1414,"Zhiri, Oumelbanine",other,89.66666666666667,3.6666666666666665,3.0
+1415,"Vijay, Ameeth Varma",other,92.7,3.3939999999999997,5.0
+1416,"Bussell, Mirle Rabinowitz",Urban Studies and Planning,98.225,3.725,4.0
+1417,"Lewis, Leslie R",Urban Studies and Planning,98.78,3.4599999999999995,5.0
+1418,"Edwards, Gregory S",Urban Studies and Planning,98.55,3.665,2.0
+1419,"Garcia, Kathleen",Urban Studies and Planning,100.0,3.54,1.0
+1420,"Peerson, Susan",Urban Studies and Planning,97.33333333333333,3.741666666666667,6.0
+1421,"Wartell, Julie Dara",Urban Studies and Planning,92.25,3.8449999999999998,4.0
+1422,"Hajrasouliha, Amir Hossein",Urban Studies and Planning,100.0,3.38,1.0
+1423,"Hinds, Juli Beth",Urban Studies and Planning,100.0,3.365,2.0
+1424,"Norr, Alex Vaughn",Urban Studies and Planning,94.7,3.39,1.0
+1425,"Moeder, Nathan L",Urban Studies and Planning,100.0,3.51,2.0
+1426,"Chavez, Richard Gerard",Urban Studies and Planning,100.0,3.8,1.0
+1427,"McGrory, Jack",Urban Studies and Planning,100.0,4.0,1.0
+1428,"Calavita, Nico",Urban Studies and Planning,71.4,2.57,1.0
+1429,"Yetwin, Richard Mark",Urban Studies and Planning,90.0,3.3,1.0
+1430,"Curcio, Paul David",Urban Studies and Planning,100.0,3.71,1.0
+1431,"Johnson, Kristyn L",Visual Arts,43.0,3.6,1.0
+1432,"Cruz, Edwin Teddy",Visual Arts,99.3,3.733333333333333,3.0
+1433,"Humphrey, Malisa N.",Visual Arts,100.0,3.75,1.0
+1434,"Ortiz-Torres, Ruben",Visual Arts,90.0,3.5700000000000003,3.0
+1435,"Walsh, Zoe C",Visual Arts,90.9,3.9,1.0
+1436,"Lajarin-Encina, Aitor",Visual Arts,96.96666666666665,3.8699999999999997,3.0
+1437,"Herc-Balaszek, Malgorzata",Visual Arts,100.0,4.0,1.0
+1438,"Tonies, Joshua Vanjaymes",Visual Arts,98.12857142857142,3.7585714285714285,7.0
+1439,"Gallaccio, Anya",Visual Arts,86.6,3.815,2.0
+1440,"Nodelman, Sheldon A.",Visual Arts,56.2,2.8200000000000003,2.0
+1441,"Rose, Jordan M",Visual Arts,96.66666666666667,3.3633333333333333,3.0
+1442,"Bryson, William N",Visual Arts,95.875,3.635,4.0
+1443,"Shen, Kuiyi",Visual Arts,90.0,3.75,3.0
+1444,"Stalbaum, Brett",Visual Arts,98.67999999999999,3.8019999999999996,5.0
+1445,"Dominguez, Ricardo",Visual Arts,79.85,3.795,2.0
+1446,"Bratton, Benjamin H.",Visual Arts,67.06666666666668,3.436666666666667,3.0
+1447,"Cartwright, Lisa",Visual Arts,87.97500000000001,3.8825,4.0
+1448,"Kester, Grant",Visual Arts,98.36666666666667,3.643333333333333,3.0
+1449,"Wallen, Ruth",Visual Arts,87.5,3.86,1.0
+1450,"Porter, Ava Hermine",Visual Arts,94.6,3.73,2.0
+1451,"Mangolte, Babette",Visual Arts,40.7,3.34,3.0
+1452,"Miller, Nicole L",Visual Arts,84.4,3.2125000000000004,4.0
+1453,"Wetzler, Graydon K.",Visual Arts,95.0,3.7,1.0
+1454,"Woods, Ann",Visual Arts,99.35,3.59,2.0
+1455,"Jessica, D'Elena-Tweed Eri",Visual Arts,80.8,3.45,1.0
+1456,"Cross, Brian R",Visual Arts,91.76,3.5420000000000003,5.0
+1457,"Li, Huai",Visual Arts,100.0,3.9166666666666665,3.0
+1458,"Paden, Jonathon Dean",Visual Arts,75.0,3.75,1.0
+1459,"Anderson, Shane Nicholas",Visual Arts,100.0,3.6550000000000002,2.0
+1460,"Bateman, Vanessa Mae",Visual Arts,100.0,3.65,1.0
+1461,"Park, Kyong Dong",Visual Arts,78.39999999999999,3.8000000000000003,3.0
+1462,"Rigg, Brianna D",Visual Arts,100.0,3.9050000000000002,2.0
+1463,"Boadwee, Keith",Visual Arts,83.75,3.675,2.0
+1464,"Guerrero, Raul M.",Visual Arts,84.65,3.77,2.0
+1465,"Vangenderen, Monique Luise",Visual Arts,100.0,3.7866666666666666,3.0
+1466,"Welchman, John C.",Visual Arts,95.23333333333333,3.6199999999999997,3.0
+1467,"Greenstein, Jack M",Visual Arts,78.3,3.19,1.0
+1468,"Newsome, Elizabeth Ann",Visual Arts,83.76666666666667,3.76,3.0
+1469,"Wardwell, Mariana Razo",Visual Arts,71.10000000000001,3.89,3.0
+1470,"Byrd, Stefani Michele",Visual Arts,100.0,3.71,1.0
+1471,"Grenader, Emily Ruth",Visual Arts,100.0,4.0,1.0
+1472,"Williams, Alena J",Visual Arts,100.0,3.61,1.0
+1473,"Gomez Mostajo, Maria Loren",Visual Arts,81.7,3.74,4.0
+1474,"O'Callaghan, Deirdre M",Visual Arts,62.5,3.4,2.0
+1475,"Jacobs, Bryan C",Visual Arts,100.0,3.57,1.0
+1476,"Pesch, Katrin",other,96.45,3.32,2.0
+1477,"Sowell, Teri Lynne",Visual Arts,100.0,3.56,1.0
+1478,"Gregoire, Mathieu",Visual Arts,89.1,3.56,1.0
+1479,"Dinco, Dino",Visual Arts,100.0,3.89,1.0
+1480,"Tronzo, William",Visual Arts,87.5,3.62,1.0
+1481,"Cho, Erica",Visual Arts,100.0,3.67,1.0
+1482,"Alexander, Amy J",Visual Arts,93.0,3.64,1.0
+1483,"Stone, Patricia",Visual Arts,83.3,3.83,1.0
+1484,"Crandall, Jordan",Visual Arts,64.75,3.65,2.0
+1485,"Kelley, Jeff J",Visual Arts,96.3,3.88,1.0
+1486,"Chou, Yeongchau D",Visual Arts,70.8,3.69,1.0
+1487,"Almeida, Jane",Visual Arts,46.3,3.6,1.0
+1488,"Roxworthy, Emily",Warren College,100.0,4.0,1.0
+1489,"Debnath, Anjan",Warren College,88.9,4.0,1.0
+1490,"Blomstedt, Elizabeth Ann",Warren College Writing Program,100.0,3.59,4.0
+1491,"Young, Mark T",Warren College Writing Program,96.825,3.3237500000000004,8.0
+1492,"Pedler, John Christopher",Warren College Writing Program,100.0,2.75,1.0
+1493,"Veal, Adam",Warren College Writing Program,92.3,3.69,1.0
+1494,"Griffin, Stephen Edward",Warren College Writing Program,100.0,3.17,1.0
+1495,"Zhang, Yingjin",Literature,83.7,3.71,1.0
+1496,"Miyao, Daisuke",Literature,98.16666666666667,3.85,3.0
+1497,"Vitkus, Daniel J.",Literature,88.575,3.3175,4.0
+1498,"Tonkovich, Nicole",Literature,91.65,3.75,2.0
+1499,"Walkiewicz, Kathryn A",Literature,100.0,3.7659999999999996,5.0
+1500,"Ploye, Catherine",Literature,97.14285714285714,3.3685714285714283,7.0
+1501,"Kontje, Todd Curtis",Literature,100.0,3.5,1.0
+1502,"Fischer-Grunski, Eva K",Literature,100.0,3.795,2.0
+1503,"De Marchi Gherini, Adriana",Literature,98.89999999999999,3.9071428571428575,7.0
+1504,"Lee, Jeyseon",Literature,81.525,3.3075,8.0
+1505,"Wirshbo, Eliot",Literature,94.43333333333334,3.231666666666667,6.0
+1506,"Murray, Kourtney Kristine",Literature,94.4,3.25,1.0
+1507,"Wells, Patricia Rebecca",Literature,99.1625,3.81375,8.0
+1508,"Chacon, Gloria Elizabeth",Literature,100.0,3.5366666666666666,3.0
+1509,"Pita, Beatrice M",Literature,92.64000000000001,3.436,5.0
+1510,"Lerer, Seth",Literature,95.25,3.8183333333333334,6.0
+1511,"Jed, Stephanie H",Literature,95.8,3.92,1.0
+1512,"Forbes, Camille",Literature,92.2,3.4433333333333334,3.0
+1513,"Banales, Melissa",Literature,94.92,3.91,5.0
+1514,"Springer, Anna Joy",Literature,79.67999999999999,3.5780000000000003,5.0
+1515,"Hoang, Lily Kim",Literature,92.53999999999999,3.752,5.0
+1516,"Som, Brandon D",Literature,100.0,3.85,1.0
+1517,"Cancel, Robert",Literature,87.5,3.435,2.0
+1518,"Giordano, Kailey Nicole",Literature,100.0,3.64,1.0
+1519,"Driscoll Salemi, Shelby London",Literature,91.7,3.45,1.0
+1520,"di Grazia, Gina Marie",Literature,83.3,3.4,1.0
+1521,"Vippermancohen, Melissa Rache",Literature,100.0,3.75,1.0
+1522,"Bottcher, Carolin",Literature,100.0,3.45,1.0
+1523,"Zavodny, Tatiana Sophia",Literature,91.7,3.83,1.0
+1524,"Liao, Ping H",Literature,89.3,3.8499999999999996,4.0
+1525,"Davidson, R. Michael",Literature,100.0,3.75,1.0
+1526,"Woodhull, Winifred Johanna",Literature,100.0,4.0,1.0
+1527,"Heinrich, Larissa",Literature,89.25,3.82,2.0
+1528,"Berthelier, Benoit P",Literature,98.45,3.715,2.0
+1529,"Loose, Margaret",Literature,100.0,3.723333333333333,3.0
+1530,"Odom, Mychal Matsemelaali",Literature,74.3,3.77,1.0
+1531,"Mebane, Julia",Literature,97.78,3.564,5.0
+1532,"Sanchez, Rosaura",Literature,85.65,3.5700000000000003,2.0
+1533,"Cohen, Alain J. J.",Literature,100.0,3.615,2.0
+1534,"Pafunda, Danielle",Literature,98.075,3.8075,4.0
+1535,"Johnson, Sara E.",Literature,97.2,3.69,1.0
+1536,"Morse, Ainsley",Literature,100.0,3.7,2.0
+1537,"Kokotovic, Milos",Literature,100.0,3.755,2.0
+1538,"Doller, Ben",Literature,91.7,3.87,1.0
