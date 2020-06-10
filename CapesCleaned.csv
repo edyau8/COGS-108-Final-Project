@@ -2,18 +2,18 @@
 0,"Ben-Yosef, Erez",Anthropology,False,True,100.0,3.64,1.0,19.0,4.14
 1,"D'Alpoim Guedes, Jade A",Anthropology,False,True,100.0,3.75,1.0,39.0,5.91
 2,"Marchetto, Maria Carolina",Anthropology,False,True,100.0,3.91,1.0,25.0,4.24
-3,"Non, Amy L",Anthropology,False,False,90.96666666666665,3.28,3.0,91.0,4.5
+3,"Non, Amy L",Anthropology,False,True,90.96666666666665,3.28,3.0,91.0,4.5
 4,"Lew, Caroline Horton",Anthropology,False,True,88.1,3.685,2.0,72.0,3.72
 5,"Goodman, Yehuda Chaim",Anthropology,False,True,75.0,3.25,1.0,12.0,3.5
 6,"Jenkins, Janis A.",Anthropology,False,True,100.0,4.0,1.0,11.0,5.0
 7,"Saravia, Paula F",Anthropology,False,True,83.80000000000001,3.7049999999999996,4.0,174.0,4.91
-8,"Olivas Hernandez, Olga Lid",Anthropology,False,False,94.25,3.8625,4.0,176.0,3.71
+8,"Olivas Hernandez, Olga Lid",Anthropology,False,True,94.25,3.8625,4.0,176.0,3.71
 9,"Hauck, Jan",Anthropology,False,True,100.0,3.69,1.0,21.0,6.35
-10,"Kang, Byung Chu",Anthropology,False,False,96.11666666666667,3.82,6.0,475.0,3.9083333333333328
+10,"Kang, Byung Chu",Anthropology,False,True,96.11666666666667,3.82,6.0,475.0,3.9083333333333328
 11,"Pedersen, David",Anthropology,False,True,71.89999999999999,3.6833333333333336,3.0,73.0,3.2033333333333336
 12,"Goldstein, Paul S",Anthropology,False,True,87.625,3.58,4.0,212.0,3.8175
-13,"Semendeferi, Ekaterini",Anthropology,False,False,97.61666666666667,4.0,6.0,67.0,4.291666666666667
-14,"Rothschild, Amy C",Anthropology,False,False,87.8,3.79,2.0,236.0,3.09
+13,"Semendeferi, Ekaterini",Anthropology,False,True,97.61666666666667,4.0,6.0,67.0,4.291666666666667
+14,"Rothschild, Amy C",Anthropology,False,True,87.8,3.79,2.0,236.0,3.09
 15,"Rivera-Collazo, Isabel C",Anthropology,False,False,100.0,3.49,1.0,66.0,3.14
 16,"Parish, Steven Martin",Anthropology,False,True,94.3,3.94,1.0,110.0,4.16
 17,"Liss, Brady James",Anthropology,False,True,100.0,3.17,1.0,21.0,3.83
@@ -22,7 +22,7 @@
 20,"Kurian, Amrita Achamma",Anthropology,False,False,100.0,3.33,1.0,28.0,8.21
 21,"Kennemore, Amy Michelle",Anthropology,False,False,100.0,3.5,1.0,25.0,5.83
 22,"Braswell, Geoffrey E.",Anthropology,False,True,100.0,3.76,2.0,55.0,5.37
-23,"Levy, Thomas E",Anthropology,False,False,88.80000000000001,3.525,2.0,87.0,3.825
+23,"Levy, Thomas E",Anthropology,False,True,88.80000000000001,3.525,2.0,87.0,3.825
 24,"Strum, Shirley C.",Anthropology,False,True,100.0,3.67,1.0,15.0,4.5
 25,"Gagneux, Pascal",Anthropology,False,True,100.0,3.5,2.0,84.0,3.8099999999999996
 26,"Minsky-Rowland, Jocelyn D",Anthropology,False,True,100.0,3.5,1.0,21.0,7.05
@@ -36,10 +36,10 @@
 34,"Lafleur, Marni M",Anthropology,False,True,94.7,3.73,2.0,166.0,3.32
 35,"Postero, Nancy Grey",Anthropology,False,True,100.0,3.77,1.0,33.0,4.81
 36,"Bialecki, Jon Anthony",Anthropology,False,False,91.3,3.57,1.0,52.0,3.37
-37,"Mc Culloch, Andrew Douglas",Bioengineering,True,False,83.03333333333333,3.5066666666666664,3.0,141.0,3.8533333333333335
+37,"Mc Culloch, Andrew Douglas",Bioengineering,True,True,83.03333333333333,3.5066666666666664,3.0,141.0,3.8533333333333335
 38,"Valdez-Jasso, Daniela",Bioengineering,True,True,69.2,3.62,1.0,47.0,8.04
 39,"Metallo, Christian Michael",Bioengineering,True,True,90.75,3.52,2.0,106.0,6.975
-40,"Wheeler, Bruce Christopher",Bioengineering,True,False,94.04444444444444,3.82388888888889,18.0,890.0,6.578333333333333
+40,"Wheeler, Bruce Christopher",Bioengineering,True,True,94.04444444444444,3.82388888888889,18.0,890.0,6.578333333333333
 41,"Coleman, Todd Prentice",Bioengineering,True,True,93.8,3.19,1.0,32.0,17.25
 42,"Fraley, Stephanie I.",Bioengineering,True,True,90.9,3.315,2.0,186.0,9.129999999999999
 43,"Mali, Prashant Gulab Ram",Bioengineering,True,True,94.75,3.48,2.0,89.0,7.675
@@ -63,8 +63,8 @@
 61,"Alvarez-Cabanillas, Miguel",Bioengineering,True,True,87.5,3.0,1.0,20.0,10.75
 62,"Huffaker, Alisa",Biology,True,True,97.35,3.73,2.0,327.0,7.625
 63,"Schmelz, Eric Alexander",Biology,True,True,85.0,3.52,2.0,59.0,8.375
-64,"Hampton, Randolph Y.",Biology,True,False,96.10000000000001,3.6333333333333333,3.0,820.0,4.366666666666667
-65,"Mohan, Swarna",Biology,True,False,90.65714285714284,3.400000000000001,7.0,365.0,6.341428571428572
+64,"Hampton, Randolph Y.",Biology,True,True,96.10000000000001,3.6333333333333333,3.0,820.0,4.366666666666667
+65,"Mohan, Swarna",Biology,True,True,90.65714285714284,3.400000000000001,7.0,365.0,6.341428571428572
 66,"Soowal, Lara",Biology,True,True,96.3,3.1799999999999997,3.0,98.0,5.6433333333333335
 67,"Coleman, Aaron B.",Biology,True,True,95.4,3.338,5.0,1120.0,6.05
 68,"Bozinovic, Goran",Biology,True,True,88.27142857142859,3.1457142857142855,7.0,831.0,7.071428571428572
@@ -80,12 +80,12 @@
 78,"Kryazhimskiy, Sergey A",Biology,True,True,95.85,3.38,2.0,23.0,6.54
 79,"Cleland, Elsa Eleanor",Biology,True,True,90.45,3.5700000000000003,2.0,174.0,5.725
 80,"Mel, Stephanie",Biology,True,False,96.41999999999999,3.598,5.0,878.0,3.444
-81,"Cooper, Andrew Michael",Biology,True,False,92.8,3.426666666666667,3.0,372.0,6.963333333333334
-82,"Byrne, Kathryne",Biology,True,False,32.0,3.3049999999999997,2.0,196.0,6.74
+81,"Cooper, Andrew Michael",Biology,True,True,92.8,3.426666666666667,3.0,372.0,6.963333333333334
+82,"Byrne, Kathryne",Biology,True,True,32.0,3.3049999999999997,2.0,196.0,6.74
 83,"Burg, Michael",Biology,True,False,98.7,3.488571428571428,7.0,1845.0,5.462857142857144
 84,"Rana, Brinda Kanti",Biology,True,False,75.26666666666667,3.0766666666666667,3.0,216.0,5.326666666666667
 85,"Stockwell, Sarah R",Biology,True,False,94.02000000000001,3.304,5.0,1194.0,5.56
-86,"Lo, Stanley Malvin Ming-Hi",Biology,True,False,94.95,3.565,4.0,566.0,3.5075000000000003
+86,"Lo, Stanley Malvin Ming-Hi",Biology,True,True,94.95,3.565,4.0,566.0,3.5075000000000003
 87,"Macagno, Eduardo R.",Biology,True,False,77.80000000000001,3.875,2.0,89.0,3.145
 88,"Butler, Madeline",Biology,True,False,100.0,4.0,1.0,22.0,0.6
 89,"Lykke-Andersen, Jens",Biology,True,True,94.3,3.29,1.0,272.0,6.77
@@ -94,7 +94,7 @@
 92,"Miller, Steven W.",Biology,True,True,91.2,3.4,2.0,65.0,6.15
 93,"Tour, Ella",Biology,True,True,95.33333333333333,3.483333333333334,3.0,178.0,6.760000000000001
 94,"Pirino, Giorgia",Biology,True,True,92.2,3.304,5.0,438.0,7.382
-95,"Gustafson-Brown, Cindy",Biology,True,False,94.85,3.1762500000000005,8.0,631.0,9.5575
+95,"Gustafson-Brown, Cindy",Biology,True,True,94.85,3.1762500000000005,8.0,631.0,9.5575
 96,"Hao, Nan",Biology,True,True,96.35,3.5,2.0,491.0,5.57
 97,"Suel, Gurol Mehmet",Biology,True,True,89.4,3.63,1.0,95.0,4.47
 98,"Grant, Barry J",Biology,True,True,98.675,3.7,4.0,90.0,4.275
@@ -117,8 +117,8 @@
 115,"Doblas Ibanez, Paula Adela",Biology,True,True,100.0,3.06,1.0,34.0,9.44
 116,"Painter, Chelsea Danielle",Biology,True,True,98.0,3.33,1.0,72.0,7.36
 117,"Wills, Christopher",Biology,True,True,88.9,2.82,1.0,43.0,5.83
-118,"Chu, Monica W",Biology,True,False,97.2,3.475,6.0,628.0,6.0
-119,"Vijapurkar, Ulka",Biology,True,False,93.95,3.3499999999999996,2.0,234.0,7.365
+118,"Chu, Monica W",Biology,True,True,97.2,3.475,6.0,628.0,6.0
+119,"Vijapurkar, Ulka",Biology,True,True,93.95,3.3499999999999996,2.0,234.0,7.365
 120,"Mudla, Anusorn",Biology,True,True,100.0,3.52,1.0,84.0,6.81
 121,"Ryan, Genevieve Elaine",Biology,True,True,82.6,3.27,1.0,58.0,5.98
 122,"Rusert, Jessica Marie",Biology,True,True,81.1,3.44,1.0,41.0,8.5
@@ -141,7 +141,7 @@
 139,"Meyer, Justin Raymond",Biology,True,True,92.3,3.46,1.0,278.0,5.58
 140,"Patrick, Gentry",Biology,True,False,72.4,3.08,1.0,243.0,5.85
 141,"Strause, Linda G.",Biology,True,False,95.9,3.58,1.0,403.0,3.24
-142,"Kurle, Carolyn M.",Biology,True,False,97.25,3.435,2.0,587.0,4.0649999999999995
+142,"Kurle, Carolyn M.",Biology,True,True,97.25,3.435,2.0,587.0,4.0649999999999995
 143,"Pruneda-Paz, Jose L.",Biology,True,True,99.3,3.685,2.0,346.0,4.92
 144,"Herndon, Jenny Dyann",Biology,True,True,92.7,3.546666666666667,3.0,331.0,6.3
 145,"Niwa, Maho",Biology,True,True,93.5,3.45,1.0,182.0,5.66
@@ -169,14 +169,14 @@
 167,"Wang, Jing",Biology,True,True,88.2,3.18,1.0,77.0,7.26
 168,"Ackerman, Susan",Biology,True,True,83.3,3.91,1.0,20.0,5.05
 169,"Muotri, Alysson",Biology,True,True,83.3,3.91,1.0,34.0,4.67
-170,"Bigham, David Joseph",Sixth College,False,False,94.96,3.5060000000000002,5.0,766.0,3.9260000000000006
+170,"Bigham, David Joseph",Sixth College,False,True,94.96,3.5060000000000002,5.0,766.0,3.9260000000000006
 171,"Bronstein, Phoebe Malan",Sixth College,False,False,94.2,3.645,4.0,635.0,3.81
 172,"Ano, Michael Shigeya",Sixth College,False,False,74.1,3.18,1.0,152.0,3.71
-173,"Pantoja, Jennifer Metten",Sixth College,False,False,95.76666666666665,3.6333333333333333,3.0,556.0,4.103333333333333
+173,"Pantoja, Jennifer Metten",Sixth College,False,True,95.76666666666665,3.6333333333333333,3.0,556.0,4.103333333333333
 174,"Sartor, Alexandra",Sixth College,False,True,95.4,3.7199999999999998,2.0,380.0,3.7649999999999997
 175,"Godino, Job Gideon",Sixth College,False,True,100.0,4.0,1.0,8.0,3.0
 176,"Whitley, Leila Marie",Critical Gender Studies,False,True,90.9,3.65,2.0,55.0,4.904999999999999
-177,"Icreverzi, Kimberly Heathe",Critical Gender Studies,False,False,79.35,3.3200000000000003,2.0,110.0,4.66
+177,"Icreverzi, Kimberly Heathe",Critical Gender Studies,False,True,79.35,3.3200000000000003,2.0,110.0,4.66
 178,"Kaplan, Sara Clarke",Critical Gender Studies,False,True,100.0,3.67,1.0,4.0,16.5
 179,"Abusneineh, Bayan Abdelmajid",Critical Gender Studies,False,True,100.0,3.88,1.0,9.0,6.06
 180,"Martin Sandino, Amanda Maria Yoland",Critical Gender Studies,False,False,100.0,3.88,1.0,30.0,2.3
@@ -204,7 +204,7 @@
 202,"Zid, Brian M",Chemistry,True,False,92.30000000000001,3.125,2.0,513.0,5.84
 203,"Brydges, Stacey",Chemistry,True,False,90.5,3.1,1.0,416.0,6.95
 204,"Lam, Tin Yiu",Chemistry,True,False,94.075,3.265,4.0,1531.0,5.9975000000000005
-205,"Bussey, Thomas J",Chemistry,True,False,98.89,3.5159999999999996,10.0,1352.0,5.185
+205,"Bussey, Thomas J",Chemistry,True,True,98.89,3.5159999999999996,10.0,1352.0,5.185
 206,"Swift, Robert Vernon",Chemistry,True,False,89.2,3.17,1.0,140.0,5.11
 207,"Tauber, Michael",Chemistry,True,False,73.96666666666667,3.0966666666666662,3.0,245.0,9.020000000000001
 208,"Young, Mark",Chemistry,True,False,77.9,2.83,1.0,228.0,6.8
@@ -245,13 +245,13 @@
 243,"Kummel, Andrew C",Chemistry,True,False,79.2,3.11,1.0,142.0,7.11
 244,"Ghosh, Partho",Chemistry,True,False,65.3,2.92,1.0,182.0,7.07
 245,"Cohen, Seth M",Chemistry,True,False,91.9,3.29,2.0,592.0,6.365
-246,"Anderson, Qin-Hong",Chinese Studies,False,False,99.55,3.6787500000000004,8.0,152.0,4.43375
-247,"Xu, Li",Chinese Studies,False,False,95.4125,3.8275,8.0,144.0,4.96375
+246,"Anderson, Qin-Hong",Chinese Studies,False,True,99.55,3.6787500000000004,8.0,152.0,4.43375
+247,"Xu, Li",Chinese Studies,False,True,95.4125,3.8275,8.0,144.0,4.96375
 248,"Chen, Pei-Chia",Chinese Studies,False,False,100.0,3.78,6.0,126.0,4.47
 249,"Cha, Samuel",Chinese Studies,False,False,99.225,3.6212500000000003,8.0,226.0,6.710000000000001
-250,"Wang, Xiao",Chinese Studies,False,False,87.175,3.83,8.0,160.0,3.95
+250,"Wang, Xiao",Chinese Studies,False,True,87.175,3.83,8.0,160.0,3.95
 251,"Boyle, Mary E. T.",Cognitive Science,True,False,91.16363636363636,3.5736363636363637,11.0,1609.0,5.825454545454547
-252,"Scott, Taylor Jackson",Cognitive Science,True,False,95.46666666666665,3.581666666666667,6.0,956.0,5.343333333333334
+252,"Scott, Taylor Jackson",Cognitive Science,True,True,95.46666666666665,3.581666666666667,6.0,956.0,5.343333333333334
 253,"Kirsh, David Joel",Cognitive Science,True,True,85.56666666666666,3.563333333333333,3.0,274.0,5.473333333333334
 254,"Rangel, Lara M",Cognitive Science,True,True,99.75,3.655,4.0,414.0,4.967499999999999
 255,"Mukamel, Eran A",Cognitive Science,True,True,93.9,3.29,2.0,176.0,8.024999999999999
@@ -261,15 +261,15 @@
 259,"Sanchez Amaro, Alejandro",Cognitive Science,True,True,90.0,3.55,1.0,42.0,3.9
 260,"Kim, Seung Kyung",Cognitive Science,True,False,74.1,3.3200000000000003,2.0,226.0,3.8449999999999998
 261,"Bergen, Benjamin",Cognitive Science,True,False,100.0,3.63,1.0,115.0,2.29
-262,"Johnson, Christine M.",Cognitive Science,True,False,86.97142857142856,3.1671428571428573,7.0,1139.0,6.208571428571429
+262,"Johnson, Christine M.",Cognitive Science,True,True,86.97142857142856,3.1671428571428573,7.0,1139.0,6.208571428571429
 263,"Donoghue, Thomas",Cognitive Science,True,False,98.0,3.62,1.0,208.0,5.95
 264,"Miller, Carson Grant",Cognitive Science,True,False,88.3,3.78,1.0,163.0,3.02
-265,"Voytek, Bradley Thomas",Cognitive Science,True,False,96.25,3.745,2.0,830.0,4.115
+265,"Voytek, Bradley Thomas",Cognitive Science,True,True,96.25,3.745,2.0,830.0,4.115
 266,"Meyer, Michael Wayne",Cognitive Science,True,False,89.80000000000001,3.485,2.0,330.0,6.445
 267,"Hollan, James D.",Cognitive Science,True,False,93.525,3.59,4.0,296.0,2.0225
 268,"Davis, Joshua Daniel",Cognitive Science,True,True,96.85,3.5300000000000002,2.0,178.0,5.4
 269,"Semenuks, Arturs",Cognitive Science,True,True,94.7,3.47,1.0,22.0,6.5
-270,"Pineda, Jaime A",Cognitive Science,True,False,90.17500000000001,3.495,4.0,736.0,4.9575000000000005
+270,"Pineda, Jaime A",Cognitive Science,True,True,90.17500000000001,3.495,4.0,736.0,4.9575000000000005
 271,"Coulson, Seana M",Cognitive Science,True,True,88.60000000000001,3.466666666666667,3.0,299.0,4.723333333333334
 272,"Bardolph, Megan Dalene",Cognitive Science,True,True,96.2,3.73,1.0,65.0,5.65
 273,"Barrera, Steven James",Cognitive Science,True,False,100.0,3.48,2.0,254.0,4.665
@@ -294,12 +294,12 @@
 292,"Whitworth-Smith, Andrew C",Communication,False,True,98.96666666666665,3.4949999999999997,6.0,268.0,4.286666666666666
 293,"Kidman, Shawna F",Communication,False,True,98.5,3.6933333333333334,3.0,139.0,3.9033333333333338
 294,"Iatarola, Briana Marie",Communication,False,True,93.75,3.745,2.0,51.0,6.7
-295,"Dubee, Alex William",Communication,False,False,98.0,3.63,2.0,127.0,5.41
+295,"Dubee, Alex William",Communication,False,True,98.0,3.63,2.0,127.0,5.41
 296,"Simmons, Candice G",Communication,False,True,91.65,4.0,2.0,44.0,2.915
 297,"Hickman, Louise",Communication,False,True,100.0,3.7,2.0,32.0,5.18
 298,"Fields, Gary",Communication,False,True,94.43333333333334,3.5199999999999996,3.0,101.0,5.863333333333333
 299,"Cortes, Diego M",Communication,False,True,90.975,3.7675,4.0,165.0,4.234999999999999
-300,"Anderson, Patrick W.",Communication,False,False,95.98,3.822,5.0,459.0,4.576
+300,"Anderson, Patrick W.",Communication,False,True,95.98,3.822,5.0,459.0,4.576
 301,"Guarrasi, Ivana",Communication,False,True,98.76,3.746,5.0,162.0,4.728
 302,"Alac, Morana",Communication,False,True,100.0,3.6199999999999997,3.0,106.0,5.156666666666666
 303,"Hartouni, Valerie A",Communication,False,True,94.45,3.525,2.0,43.0,3.8100000000000005
@@ -327,7 +327,7 @@
 325,"Sahoo, Debashis",Computer Science,True,True,74.1,3.27,1.0,129.0,11.29
 326,"Ochoa, Benjamin Lawrence",Computer Science,True,True,84.76666666666667,3.33,3.0,433.0,10.956666666666665
 327,"Freund, Yoav",Computer Science,True,True,49.1,3.26,1.0,144.0,6.84
-328,"Jones, Miles E",Computer Science,True,False,88.02857142857144,3.235714285714286,7.0,1068.0,7.707142857142857
+328,"Jones, Miles E",Computer Science,True,True,88.02857142857144,3.235714285714286,7.0,1068.0,7.707142857142857
 329,"Bellare, Mihir",Computer Science,True,True,74.85,2.615,2.0,101.0,7.975
 330,"Ord, Richard",Computer Science,True,False,85.41666666666664,3.358333333333334,6.0,1171.0,13.459999999999999
 331,"Weibel, Nadir",Computer Science,True,True,85.7,3.29,1.0,15.0,7.07
@@ -341,7 +341,7 @@
 339,"Vianu, Victor Dan",Computer Science,True,True,77.05,3.13,2.0,316.0,6.074999999999999
 340,"Powell, Thomas Allan",Computer Science,True,True,89.85,3.17,4.0,369.0,9.935
 341,"Chin, Bryan W.",Computer Science,True,True,86.2,3.19,1.0,134.0,7.1
-342,"Swanson, Steven James",Computer Science,True,False,89.45,3.6725000000000003,4.0,168.0,5.449999999999999
+342,"Swanson, Steven James",Computer Science,True,True,89.45,3.6725000000000003,4.0,168.0,5.449999999999999
 343,"Alvarado, Christine J.",Computer Science,True,False,98.62,3.622,5.0,657.0,7.978
 344,"Su, Hao",Computer Science,True,True,81.3,3.38,1.0,56.0,10.86
 345,"McAuley, Julian John",Computer Science,True,True,82.3,3.36,1.0,357.0,9.47
@@ -356,9 +356,9 @@
 354,"Braun, Oliver",Computer Science,True,False,93.9,3.42,2.0,77.0,6.395
 355,"Cyranka, Jacek",Computer Science,True,True,100.0,3.82,1.0,31.0,7.05
 356,"Marx, Susan S",Computer Science,True,False,56.699999999999996,3.353333333333333,6.0,634.0,5.718333333333334
-357,"Pasquale, Joseph",Computer Science,True,False,99.475,3.5975,4.0,383.0,6.3725
+357,"Pasquale, Joseph",Computer Science,True,True,99.475,3.5975,4.0,383.0,6.3725
 358,"Nguyen, Hau Cao",Computer Science,True,False,40.95,3.3075,4.0,764.0,10.1575
-359,"Papadopoulos, Philip Micha",Computer Science,True,False,82.1,3.04,2.0,312.0,12.82
+359,"Papadopoulos, Philip Micha",Computer Science,True,True,82.1,3.04,2.0,312.0,12.82
 360,"Voelker, Geoffrey M.",Computer Science,True,True,98.45,3.7199999999999998,2.0,222.0,12.27
 361,"Porter, George M",Computer Science,True,True,86.3,3.38,1.0,175.0,7.72
 362,"Gantman, Alexander",Computer Science,True,True,80.0,3.0,1.0,45.0,8.7
@@ -415,7 +415,7 @@
 413,"Abi Samra, Nicholas Camill",Electrical & Computer Eng.,True,True,95.11999999999999,3.8019999999999996,5.0,196.0,5.789999999999999
 414,"Liu, Zhaowei",Electrical & Computer Eng.,True,False,96.9,3.3449999999999998,2.0,83.0,6.525
 415,"Cosman, Pamela C.",Electrical & Computer Eng.,True,True,87.5,3.375,2.0,54.0,11.9
-416,"Quest, Kevin B",Electrical & Computer Eng.,True,False,97.35,3.4,2.0,148.0,4.52
+416,"Quest, Kevin B",Electrical & Computer Eng.,True,True,97.35,3.4,2.0,148.0,4.52
 417,"Taur, Yuan",Electrical & Computer Eng.,True,False,75.55,3.45,2.0,147.0,7.2
 418,"Schurgers, Curt",Electrical & Computer Eng.,True,False,94.4,2.86,1.0,146.0,10.59
 419,"Lugannani, Robert",Electrical & Computer Eng.,True,False,82.26666666666667,3.5666666666666664,3.0,557.0,6.216666666666666
@@ -447,7 +447,7 @@
 445,"Fainman, Yeshaiahu",Electrical & Computer Eng.,True,True,100.0,3.17,1.0,11.0,12.17
 446,"Dey, Sujit",Electrical & Computer Eng.,True,False,90.0,3.24,1.0,134.0,7.3
 447,"Tocoian, Oana",Economics,True,False,78.85,3.26,2.0,495.0,4.85
-448,"Nieto-Barthaburu, Augusto",Economics,True,False,84.4,3.575,4.0,563.0,5.13
+448,"Nieto-Barthaburu, Augusto",Economics,True,True,84.4,3.575,4.0,563.0,5.13
 449,"Famulari, Melissa",Economics,True,True,91.61666666666666,3.296666666666667,6.0,901.0,7.843333333333334
 450,"Machina, Mark Joseph",Economics,True,True,100.0,4.0,2.0,24.0,2.17
 451,"Sinitsyn, Maxim",Economics,True,True,86.19000000000001,3.2779999999999996,10.0,971.0,6.1659999999999995
@@ -471,7 +471,7 @@
 469,"Blumkin, Tomer",Economics,True,True,95.0,3.2,2.0,47.0,6.279999999999999
 470,"Ray, Kevin Daniel",Economics,True,True,100.0,3.43,1.0,75.0,5.26
 471,"Squires, Dale E",Economics,True,True,97.7,3.49,2.0,341.0,5.15
-472,"Santamaria, Martin I",Economics,True,False,92.89999999999999,3.5500000000000003,6.0,1125.0,5.993333333333333
+472,"Santamaria, Martin I",Economics,True,True,92.89999999999999,3.5500000000000003,6.0,1125.0,5.993333333333333
 473,"Hovander, Elisa Wynne Kirsten",Economics,True,False,81.8,3.335,2.0,90.0,4.59
 474,"Noel, Michael",Economics,True,True,95.45,3.165,2.0,48.0,7.705
 475,"Hilmer, Christiana",Economics,True,True,97.6,3.4400000000000004,2.0,83.0,6.13
@@ -498,15 +498,15 @@
 496,"Muralidharan, Karthik",Economics,True,True,100.0,3.58,1.0,74.0,4.89
 497,"Cullen, Julie",Economics,True,True,100.0,4.0,1.0,10.0,6.5
 498,"Ramey, Valerie A",Economics,True,False,78.5,3.42,2.0,422.0,5.71
-499,"Dean, Dallawrence Edward",Education Studies,False,False,93.04285714285713,3.757142857142857,7.0,579.0,3.3299999999999996
-500,"Simon, Elizabeth A",Education Studies,False,False,99.0,3.8939999999999997,5.0,177.0,4.41
+499,"Dean, Dallawrence Edward",Education Studies,False,True,93.04285714285713,3.757142857142857,7.0,579.0,3.3299999999999996
+500,"Simon, Elizabeth A",Education Studies,False,True,99.0,3.8939999999999997,5.0,177.0,4.41
 501,"Allen, Bobbie M",Education Studies,False,True,97.9,3.98,1.0,55.0,4.96
 502,"Millstone, Rachel Diana",Education Studies,False,True,100.0,3.86,1.0,48.0,6.05
 503,"Holtzman, Caren Lynn",Education Studies,False,True,100.0,3.815,2.0,89.0,5.72
 504,"Wishard Guerra, Alison G.",Education Studies,False,True,94.7,3.81,1.0,43.0,8.61
 505,"Drake, Kristy Nicole",Education Studies,False,True,97.9,3.7350000000000003,2.0,79.0,5.96
-506,"Hofstetter, Carolyn",Education Studies,False,False,98.30000000000001,3.9575,8.0,218.0,2.4587499999999998
-507,"Heinzman, Erica M.",Education Studies,False,False,100.0,3.893333333333333,3.0,84.0,3.6533333333333338
+506,"Hofstetter, Carolyn",Education Studies,False,True,98.30000000000001,3.9575,8.0,218.0,2.4587499999999998
+507,"Heinzman, Erica M.",Education Studies,False,True,100.0,3.893333333333333,3.0,84.0,3.6533333333333338
 508,"Cohen, Shana R",Education Studies,False,True,87.85,3.77,2.0,76.0,4.46
 509,"Lockton, Marie",Education Studies,False,True,100.0,3.94,1.0,47.0,3.32
 510,"Hopkins, Megan Beth",Education Studies,False,True,100.0,3.88,1.0,59.0,4.07
@@ -526,7 +526,7 @@
 524,"Talley, Theresa S.",Environmental Studies,True,True,100.0,3.67,1.0,18.0,4.0
 525,"Ochoa, Edward Henry",Environmental Studies,True,True,94.4,3.23,1.0,63.0,5.94
 526,"Russell, Lynn M.",Environmental Systems,True,True,88.6,3.31,1.0,113.0,4.68
-527,"Espiritu, Yen",Ethnic Studies,False,False,87.55000000000001,3.3899999999999997,2.0,406.0,4.529999999999999
+527,"Espiritu, Yen",Ethnic Studies,False,True,87.55000000000001,3.3899999999999997,2.0,406.0,4.529999999999999
 528,"Kharputly, Nadeen Sh B",Ethnic Studies,False,True,100.0,3.7483333333333335,6.0,130.0,3.883333333333333
 529,"Patel, Shaista",Ethnic Studies,False,True,100.0,3.6,1.0,14.0,4.5
 530,"Daly, Heather Marie",Ethnic Studies,False,True,75.0,3.67,1.0,28.0,3.58
@@ -538,7 +538,7 @@
 536,"De Leon, Justin",Ethnic Studies,False,True,99.05,3.82,4.0,178.0,4.262499999999999
 537,"Alomar, Maisam",Ethnic Studies,False,True,100.0,3.29,1.0,13.0,6.5
 538,"Streeby, Shelley",Ethnic Studies,False,True,63.6,3.89,1.0,35.0,4.0
-539,"Reese, Clarissa Jane",Human Development Program,False,False,86.0,3.225,6.0,299.0,8.33
+539,"Reese, Clarissa Jane",Human Development Program,False,True,86.0,3.225,6.0,299.0,8.33
 540,"Ark, Wendy S",Human Development Program,False,True,61.2,2.82,5.0,147.0,10.038
 541,"Prestholdt, Jeremy",History,False,True,99.26666666666667,3.5966666666666662,3.0,270.0,3.8066666666666666
 542,"Lu, Weijing",History,False,True,75.0,3.18,1.0,63.0,5.67
@@ -549,19 +549,19 @@
 547,"Devereux, Andrew W",History,False,True,95.2,3.43,1.0,31.0,6.68
 548,"Petkas, Alexander J",History,False,True,85.7,3.38,1.0,17.0,5.75
 549,"Morales Fontanilla, Manuel Antonio",History,False,True,98.03333333333335,3.6733333333333333,3.0,123.0,4.136666666666668
-550,"Cowan, Benjamin A",History,False,False,97.625,3.4225,4.0,127.0,5.8725
+550,"Cowan, Benjamin A",History,False,True,97.625,3.4225,4.0,127.0,5.8725
 551,"Schneewind, Sarah",History,False,False,73.8,2.94,1.0,168.0,6.67
 552,"Wishon, Mark T",History,False,False,96.5,3.32,1.0,181.0,3.79
 553,"Kayali, Hasan",History,False,True,96.95,3.42,2.0,133.0,4.630000000000001
 554,"Provence, Michael",History,False,True,100.0,3.5,1.0,58.0,4.4
 555,"Gere, Catherina M.",History,False,True,98.75,3.645,2.0,159.0,4.025
-556,"Hendrickson, Gerald M.",History,False,False,98.33333333333333,3.52,3.0,227.0,4.986666666666666
+556,"Hendrickson, Gerald M.",History,False,True,98.33333333333333,3.52,3.0,227.0,4.986666666666666
 557,"Vandevelde, Kenneth Joseph",History,False,True,100.0,3.75,1.0,41.0,4.75
 558,"Dunai, Suzanne Elizabeth",History,False,True,100.0,3.9,1.0,16.0,4.68
 559,"Silverman, Reuben William",History,False,True,75.0,3.33,1.0,16.0,7.0
-560,"Man, Simeon S",History,False,False,97.3,3.533333333333333,3.0,366.0,5.59
+560,"Man, Simeon S",History,False,True,97.3,3.533333333333333,3.0,366.0,5.59
 561,"Jiao, Yupeng",History,False,True,90.0,3.5,1.0,19.0,6.9
-562,"Merrill O'Keefe, Amy Roxanne",History,False,False,76.2,3.236666666666667,3.0,286.0,7.06
+562,"Merrill O'Keefe, Amy Roxanne",History,False,True,76.2,3.236666666666667,3.0,286.0,7.06
 563,"Hall, Matthew Aaron",History,False,True,100.0,3.33,1.0,22.0,6.5
 564,"Kokinis, Troy Andreas",History,False,True,80.0,3.0,1.0,15.0,8.1
 565,"Mack, Graeme",History,False,False,100.0,3.5,1.0,25.0,4.23
@@ -575,9 +575,9 @@
 573,"Peterson, Johanna Lee",History,False,True,81.3,3.73,1.0,36.0,6.36
 574,"Gheissari, Ali",History,False,True,100.0,3.6,1.0,32.0,3.33
 575,"Westman, Robert S",History,False,True,78.0,3.315,2.0,81.0,4.359999999999999
-576,"Edington, Claire Ellen",History,False,False,92.625,3.6475,4.0,188.0,4.305
+576,"Edington, Claire Ellen",History,False,True,92.625,3.6475,4.0,188.0,4.305
 577,"Hanna, Mark G.",History,False,True,98.7,3.795,2.0,149.0,4.98
-578,"Klein, Rachel",History,False,False,94.86666666666667,3.533333333333333,3.0,251.0,4.64
+578,"Klein, Rachel",History,False,True,94.86666666666667,3.533333333333333,3.0,251.0,4.64
 579,"Alvarez, Luis A",History,False,True,83.3,4.0,1.0,34.0,7.07
 580,"Pickowicz, Paul G.",History,False,True,96.4,3.77,1.0,51.0,5.33
 581,"Kim, Hyung-Wook",History,False,True,92.9,3.44,1.0,72.0,3.67
@@ -605,24 +605,24 @@
 603,"Vera Cossio, Diego Alejandro",International Studies,False,True,100.0,3.5,1.0,19.0,4.75
 604,"Haggard, Stephan M.",International Studies,False,True,95.8,3.35,1.0,233.0,5.99
 605,"Herberg, Mikkal E.",International Studies,False,True,100.0,3.63,1.0,17.0,6.5
-606,"Simpson, Junko Tokuda",Japanese Studies,False,False,97.62857142857142,3.814285714285714,7.0,156.0,5.2457142857142856
+606,"Simpson, Junko Tokuda",Japanese Studies,False,True,97.62857142857142,3.814285714285714,7.0,156.0,5.2457142857142856
 607,"Inada, Minori",Japanese Studies,False,False,99.1125,3.80875,8.0,212.0,5.2475
 608,"Maruyama, Rie",Japanese Studies,False,False,95.5375,3.6275000000000004,8.0,189.0,4.6575
-609,"Takeda, Izumi",Japanese Studies,False,False,97.07499999999999,3.7399999999999993,8.0,170.0,5.366250000000001
+609,"Takeda, Izumi",Japanese Studies,False,True,97.07499999999999,3.7399999999999993,8.0,170.0,5.366250000000001
 610,"Tipton, Yuko",Japanese Studies,False,False,100.0,3.7960000000000003,5.0,144.0,5.203999999999999
 611,"Kamioka, Sachiko",Japanese Studies,False,False,98.225,3.84,4.0,115.0,5.6125
 612,"Ross, Kayoko F",Japanese Studies,False,False,98.1875,3.82375,8.0,213.0,4.9325
 613,"Iwamoto, Naoki",Japanese Studies,False,False,100.0,3.80875,8.0,211.0,5.678750000000001
-614,"Sato, Kyoko",Japanese Studies,False,False,98.6125,3.78,8.0,143.0,4.5687500000000005
-615,"McKee, Mayumi Mochizuki",Japanese Studies,False,False,100.0,3.7024999999999997,8.0,155.0,4.055
-616,"Shuster, Alana",Judaic Studies,False,False,100.0,3.825,4.0,43.0,3.75
+614,"Sato, Kyoko",Japanese Studies,False,True,98.6125,3.78,8.0,143.0,4.5687500000000005
+615,"McKee, Mayumi Mochizuki",Japanese Studies,False,True,100.0,3.7024999999999997,8.0,155.0,4.055
+616,"Shuster, Alana",Judaic Studies,False,True,100.0,3.825,4.0,43.0,3.75
 617,"Janusz, Andrew James",Latin American Studies,False,False,94.0,3.16,1.0,94.0,3.7
 618,"Styler, William Francis",Linguistics,False,True,100.0,3.67,2.0,238.0,4.1
 619,"Garellek, Marc",Linguistics,False,True,99.25,3.4699999999999998,4.0,234.0,4.045
 620,"Lott, Margaret S.",Linguistics,False,True,89.5,3.6,2.0,48.0,2.4
 621,"Bergen, Leon",Linguistics,False,True,91.5,3.495,4.0,428.0,6.8100000000000005
 622,"Kluender, Robert",Linguistics,False,True,95.22500000000001,3.085,8.0,280.0,6.3925
-623,"Biswas, Priyanka",Linguistics,False,False,87.93333333333334,3.476666666666667,6.0,784.0,3.42
+623,"Biswas, Priyanka",Linguistics,False,True,87.93333333333334,3.476666666666667,6.0,784.0,3.42
 624,"Alicio, Atilio",Linguistics,False,True,100.0,3.4683333333333324,12.0,200.0,4.276666666666666
 625,"Hill, Kimloan T.V.",Linguistics,False,True,98.75,3.7874999999999996,16.0,274.0,3.33
 626,"Sadegholvad, Elham",Linguistics,False,True,100.0,3.8400000000000003,18.0,304.0,3.626666666666667
@@ -644,16 +644,16 @@
 642,"Lasheras, Juan C.",Mechanical & Aerospace Eng.,True,True,93.9,3.24,1.0,117.0,7.17
 643,"Saintillan, David",Mechanical & Aerospace Eng.,True,True,93.2,2.88,1.0,215.0,8.33
 644,"McEneaney, William Michael",Mechanical & Aerospace Eng.,True,True,91.1,3.62,1.0,210.0,6.06
-645,"Nomura, Keiko K.",Mechanical & Aerospace Eng.,True,False,85.56666666666666,3.266666666666667,3.0,592.0,8.466666666666667
+645,"Nomura, Keiko K.",Mechanical & Aerospace Eng.,True,True,85.56666666666666,3.266666666666667,3.0,592.0,8.466666666666667
 646,"Pawlak, Geno Ronald",Mechanical & Aerospace Eng.,True,True,77.65,3.415,2.0,114.0,8.52
-647,"Bahadori, Mohammad Yousef",Mechanical & Aerospace Eng.,True,False,87.97500000000001,3.02,8.0,448.0,8.633750000000001
+647,"Bahadori, Mohammad Yousef",Mechanical & Aerospace Eng.,True,True,87.97500000000001,3.02,8.0,448.0,8.633750000000001
 648,"Bewley, Thomas R",Mechanical & Aerospace Eng.,True,True,44.0,2.78,1.0,69.0,10.5
 649,"Talke, Frank E",Mechanical & Aerospace Eng.,True,True,70.2,3.26,1.0,125.0,10.21
 650,"Delson, Nathan Joseph",Mechanical & Aerospace Eng.,True,False,80.75999999999999,3.556,5.0,228.0,10.238
-651,"Anderson, Mark Ronald",Mechanical & Aerospace Eng.,True,False,100.0,3.8019999999999996,5.0,362.0,4.290000000000001
+651,"Anderson, Mark Ronald",Mechanical & Aerospace Eng.,True,True,100.0,3.8019999999999996,5.0,362.0,4.290000000000001
 652,"McKittrick, Joanna M",Mechanical & Aerospace Eng.,True,False,79.6,3.59,1.0,134.0,5.17
 653,"Cai, Shengqiang",Mechanical & Aerospace Eng.,True,False,79.6,3.785,2.0,197.0,3.55
-654,"Tolley, Michael Thomas",Mechanical & Aerospace Eng.,True,False,98.0,3.61,2.0,133.0,11.865
+654,"Tolley, Michael Thomas",Mechanical & Aerospace Eng.,True,True,98.0,3.61,2.0,133.0,11.865
 655,"Gibson, Carl H.",Mechanical & Aerospace Eng.,True,False,84.3,3.8200000000000003,3.0,206.0,4.81
 656,"Pham, Hieu Tan",Mechanical & Aerospace Eng.,True,False,93.53333333333335,3.4333333333333336,3.0,502.0,7.056666666666666
 657,"Coimbra, Carlos F.",Mechanical & Aerospace Eng.,True,False,100.0,4.0,2.0,41.0,6.775
@@ -689,9 +689,9 @@
 687,"Mohammadi, Amir",Mathematics,True,True,77.25,3.2350000000000003,2.0,145.0,9.275
 688,"Sorensen, Claus M",Mathematics,True,True,80.89999999999999,3.066666666666667,3.0,214.0,8.166666666666666
 689,"Swanson, Joshua P",Mathematics,True,True,80.5,3.1,1.0,84.0,8.23
-690,"Knop, Aleksandr",Mathematics,True,False,72.82,3.132,5.0,587.0,6.004
+690,"Knop, Aleksandr",Mathematics,True,True,72.82,3.132,5.0,587.0,6.004
 691,"Anzaldo, Leesa B",Mathematics,True,False,96.45,3.275,2.0,274.0,6.28
-692,"Novak, Jonathan I",Mathematics,True,False,90.53333333333335,3.3666666666666667,3.0,523.0,7.073333333333333
+692,"Novak, Jonathan I",Mathematics,True,True,90.53333333333335,3.3666666666666667,3.0,523.0,7.073333333333333
 693,"Bowers, Adam R.",Mathematics,True,False,91.725,3.12,4.0,817.0,5.855
 694,"Savvas, Michail",Mathematics,True,False,89.7,3.28,1.0,188.0,5.42
 695,"Deotte, Christopher George",Mathematics,True,False,75.15,3.255,2.0,575.0,5.88
@@ -710,7 +710,7 @@
 708,"Sterbenz, Jacob",Mathematics,True,False,81.06666666666666,3.033333333333333,3.0,286.0,8.44
 709,"Rabin, Jeffrey Mark",Mathematics,True,True,98.475,3.29,4.0,179.0,6.49
 710,"Wear, Peter Joseph",Mathematics,True,True,51.2,3.2,1.0,129.0,13.48
-711,"Cloninger, Alexander",Mathematics,True,False,92.75,3.0774999999999997,4.0,624.0,7.7575
+711,"Cloninger, Alexander",Mathematics,True,True,92.75,3.0774999999999997,4.0,624.0,7.7575
 712,"Behzadan, Ali",Mathematics,True,True,98.8,3.7433333333333336,3.0,311.0,7.68
 713,"Saab, Rayan",Mathematics,True,True,92.56666666666666,3.33,3.0,397.0,8.83
 714,"Cheng, Hsiao-Bing",Mathematics,True,False,78.15,2.995,2.0,400.0,7.68
@@ -721,13 +721,13 @@
 719,"Sam, Steven V",Mathematics,True,True,82.4,2.95,1.0,103.0,8.01
 720,"Rhoades, Brendon Patrick",Mathematics,True,True,99.05,3.2800000000000002,2.0,158.0,8.315000000000001
 721,"Xu, Lingling",Mathematics,True,False,40.3,3.08,1.0,147.0,5.34
-722,"Stapleton, David John",Mathematics,True,False,91.35,3.16,2.0,352.0,7.425
+722,"Stapleton, David John",Mathematics,True,True,91.35,3.16,2.0,352.0,7.425
 723,"Ciotti, Benjamin",Mathematics,True,False,79.89999999999999,2.85,3.0,450.0,7.9366666666666665
 724,"Ferrara, Joseph William",Mathematics,True,False,54.9,3.19,1.0,188.0,7.47
 725,"Ben-Ezra, David El-Chai",Mathematics,True,False,90.16666666666667,3.5400000000000005,3.0,688.0,5.5200000000000005
 726,"Tesler, Glenn",Mathematics,True,False,85.06666666666666,3.4433333333333334,3.0,581.0,6.233333333333333
 727,"Strahl, Perry Robert",Mathematics,True,False,76.83333333333334,3.1544444444444446,9.0,1217.0,6.955555555555556
-728,"Dewey, Edward Harold",Mathematics,True,False,67.89999999999999,3.0866666666666664,3.0,367.0,7.579999999999999
+728,"Dewey, Edward Harold",Mathematics,True,True,67.89999999999999,3.0866666666666664,3.0,367.0,7.579999999999999
 729,"Wang, Lujia",Mathematics,True,False,45.8,3.38,2.0,262.0,6.8149999999999995
 730,"Hammock, Frances H",Mathematics,True,False,94.1,3.65,1.0,130.0,6.19
 731,"Kitsela, Roman",Mathematics,True,False,88.4,3.3499999999999996,2.0,258.0,6.785
@@ -737,11 +737,11 @@
 735,"Mirzaei, Mozhgan",Mathematics,True,False,88.2,3.6,2.0,170.0,4.755
 736,"Conder, Jonathan Edward",Mathematics,True,False,17.2,2.42,1.0,125.0,5.95
 737,"Zhang, Yongjia",Mathematics,True,False,62.0,2.98,1.0,157.0,4.59
-738,"Malvenuto, Claudia",Mathematics,True,False,63.0,3.48,2.0,161.0,8.035
-739,"Rotar, Vladimir",Mathematics,True,False,87.175,3.2125,4.0,310.0,8.094999999999999
+738,"Malvenuto, Claudia",Mathematics,True,True,63.0,3.48,2.0,161.0,8.035
+739,"Rotar, Vladimir",Mathematics,True,True,87.175,3.2125,4.0,310.0,8.094999999999999
 740,"Haff, Leonard R.",Mathematics,True,True,100.0,3.33,1.0,36.0,8.17
 741,"Chow, Bennett",Mathematics,True,False,58.416666666666664,3.293333333333333,6.0,658.0,9.021666666666667
-742,"Carter, Anne Toulson",Mathematics,True,False,89.89999999999999,3.53,3.0,572.0,9.756666666666668
+742,"Carter, Anne Toulson",Mathematics,True,True,89.89999999999999,3.53,3.0,572.0,9.756666666666668
 743,"Thilmany, Francois Etienne Ch",Mathematics,True,True,100.0,3.83,1.0,12.0,11.83
 744,"Ceccherini-Silberstein, Tullio",Mathematics,True,False,83.19999999999999,2.5700000000000003,2.0,102.0,7.640000000000001
 745,"Verstraete, Jacques Allan",Mathematics,True,True,97.5,3.56,1.0,150.0,8.74
@@ -752,22 +752,22 @@
 750,"Snellman Jr., Robert Allen",Mathematics,True,False,98.375,3.54,4.0,922.0,5.7975
 751,"Petkov, Vladislav V",Mathematics,True,False,65.75,3.16,4.0,595.0,6.005000000000001
 752,"Licht, Martin W",Mathematics,True,False,56.06666666666666,3.153333333333333,3.0,462.0,6.223333333333334
-753,"Aghajani, Mohammadreza",Mathematics,True,False,88.0,3.4066666666666667,3.0,575.0,6.753333333333334
-754,"Huynh, Thang L",Mathematics,True,False,75.06666666666666,3.2300000000000004,3.0,569.0,5.786666666666666
+753,"Aghajani, Mohammadreza",Mathematics,True,True,88.0,3.4066666666666667,3.0,575.0,6.753333333333334
+754,"Huynh, Thang L",Mathematics,True,True,75.06666666666666,3.2300000000000004,3.0,569.0,5.786666666666666
 755,"Buss, Samuel R",Mathematics,True,True,92.05,3.45,2.0,93.0,10.455
 756,"Li, Bo",Mathematics,True,True,100.0,3.69,1.0,39.0,7.12
 757,"Nie, Jiawang",Mathematics,True,True,79.4,3.325,2.0,187.0,9.27
 758,"Cheng, Li-Tien",Mathematics,True,True,86.25,3.1550000000000002,2.0,219.0,8.350000000000001
-759,"Szypowski, Ryan S.",Mathematics,True,False,97.75000000000001,3.4475000000000002,4.0,757.0,5.719999999999999
+759,"Szypowski, Ryan S.",Mathematics,True,True,97.75000000000001,3.4475000000000002,4.0,757.0,5.719999999999999
 760,"Fitzsimmons, Patrick J",Mathematics,True,True,65.0,3.02,1.0,215.0,9.53
-761,"Zhou, Wenxin",Mathematics,True,False,47.36666666666667,3.3966666666666665,3.0,467.0,6.903333333333333
+761,"Zhou, Wenxin",Mathematics,True,True,47.36666666666667,3.3966666666666665,3.0,467.0,6.903333333333333
 762,"Bradic, Jelena",Mathematics,True,True,75.83333333333333,3.6033333333333335,3.0,326.0,8.873333333333333
 763,"Aamari, Eddie",Mathematics,True,False,68.26666666666667,3.2733333333333334,3.0,413.0,7.476666666666667
 764,"Arias-Castro, Ery",Mathematics,True,True,81.3,3.62,1.0,126.0,7.79
 765,"Bucur, Alina Ioana",Mathematics,True,True,80.44999999999999,3.705,2.0,303.0,5.135
-766,"Charlesworth, Ian L",Mathematics,True,False,42.9,2.7800000000000002,2.0,212.0,8.205
+766,"Charlesworth, Ian L",Mathematics,True,True,42.9,2.7800000000000002,2.0,212.0,8.205
 767,"Allen, Grant Warren",Mathematics,True,False,90.45,3.35,2.0,491.0,5.895
-768,"Dilts, James Paul",Mathematics,True,False,81.6,3.1399999999999997,2.0,470.0,8.17
+768,"Dilts, James Paul",Mathematics,True,True,81.6,3.1399999999999997,2.0,470.0,8.17
 769,"Rogalski, Daniel",Mathematics,True,False,96.9,3.855,2.0,43.0,10.825
 770,"Ioana, Adrian",Mathematics,True,True,100.0,3.62,1.0,34.0,5.58
 771,"Lamel, Bernhard R",Mathematics,True,False,72.8,3.46,1.0,162.0,4.77
@@ -776,7 +776,7 @@
 774,"Kolesnikov, Pavel",Mathematics,True,False,75.95,3.275,2.0,307.0,6.12
 775,"Schweinsberg, Jason",Mathematics,True,True,96.6,3.49,1.0,196.0,9.9
 776,"Politis, Dimitris",Mathematics,True,True,52.2,3.38,1.0,86.0,7.23
-777,"Chang, Edmond Yi-Teh",Making of the Modern World,False,False,93.78571428571429,3.2071428571428577,7.0,1821.0,6.731428571428571
+777,"Chang, Edmond Yi-Teh",Making of the Modern World,False,True,93.78571428571429,3.2071428571428577,7.0,1821.0,6.731428571428571
 778,"Keller-Lapp, Heidi M.",Making of the Modern World,False,True,87.4,3.3,1.0,203.0,6.33
 779,"Palhegyi, Joel David",Making of the Modern World,False,False,85.5,3.35,1.0,167.0,7.95
 780,"Frank, Ross H.",Making of the Modern World,False,False,100.0,3.75,1.0,11.0,6.75
@@ -784,18 +784,18 @@
 782,"Karis, Aleck",Music,False,True,76.15,3.165,2.0,63.0,6.885
 783,"Murphy-Mancini, Justin Joseph",Music,False,True,70.0,3.5,1.0,33.0,7.3
 784,"Rubio, Juan David",Music,False,False,94.60000000000001,3.5833333333333335,3.0,215.0,3.9433333333333334
-785,"Ohnishi, Takae",Music,False,False,100.0,3.9225000000000003,8.0,126.0,2.8200000000000003
-786,"Kenyatta, Kamau",Music,False,False,99.8125,3.95625,8.0,259.0,2.165
+785,"Ohnishi, Takae",Music,False,True,100.0,3.9225000000000003,8.0,126.0,2.8200000000000003
+786,"Kenyatta, Kamau",Music,False,True,99.8125,3.95625,8.0,259.0,2.165
 787,"Nussman, Jonathan Banks",Music,False,False,96.96666666666665,3.6799999999999997,3.0,483.0,4.003333333333334
-788,"Hochman, Joshua David",Music,False,False,81.56666666666666,3.4766666666666666,3.0,559.0,3.2133333333333334
-789,"Burr, Anthony I",Music,False,False,96.625,3.6475,4.0,793.0,3.5175
-790,"Puckette, Miller S.",Music,False,False,72.33333333333333,3.466666666666667,3.0,225.0,4.486666666666667
+788,"Hochman, Joshua David",Music,False,True,81.56666666666666,3.4766666666666666,3.0,559.0,3.2133333333333334
+789,"Burr, Anthony I",Music,False,True,96.625,3.6475,4.0,793.0,3.5175
+790,"Puckette, Miller S.",Music,False,True,72.33333333333333,3.466666666666667,3.0,225.0,4.486666666666667
 791,"Hsu, Jennifer Shanchen",Music,False,True,100.0,3.88,1.0,24.0,4.25
 792,"Clarino, Christopher Richard",Music,False,False,67.9,3.47,1.0,125.0,3.98
 793,"Miller, Caroline Louise",Music,False,False,75.83333333333334,3.7066666666666666,3.0,277.0,2.8166666666666664
 794,"Carlson, Erik Norman",Music,False,False,100.0,3.8850000000000002,6.0,126.0,2.5383333333333336
-795,"Liang, Lei",Music,False,False,94.45,3.9450000000000003,2.0,26.0,7.3
-796,"Digney, Fiona Ruth",Music,False,False,68.2,3.575,2.0,338.0,4.02
+795,"Liang, Lei",Music,False,True,94.45,3.9450000000000003,2.0,26.0,7.3
+796,"Digney, Fiona Ruth",Music,False,True,68.2,3.575,2.0,338.0,4.02
 797,"Diels, Natacha D.",Music,False,False,89.3,3.56,1.0,134.0,2.61
 798,"Larson, Philip Clarion",Music,False,False,99.21111111111111,3.94,9.0,245.0,1.62
 799,"Schick, Steven",Music,False,False,94.9,3.9699999999999998,4.0,167.0,1.5825
@@ -808,10 +808,10 @@
 806,"Abbasi Hafshejani, Anahita",Music,False,False,100.0,3.93,1.0,30.0,4.13
 807,"Garcia-Munoz, Issac",Music,False,False,100.0,4.0,1.0,23.0,1.7
 808,"Charney, Joshua Jamsheed",Music,False,False,97.7,3.895,2.0,288.0,2.715
-809,"Chodos, Asher Tobin",Music,False,False,71.9,3.6,2.0,47.0,4.4350000000000005
-810,"Lytle, Cecil William",Music,False,False,100.0,3.73,2.0,54.0,4.055
-811,"Terrazas Perez, Wilfrido D",Music,False,False,98.95,3.925,2.0,134.0,2.545
-812,"Cimini, Amy Marie",Music,False,False,73.6,3.49,2.0,216.0,4.73
+809,"Chodos, Asher Tobin",Music,False,True,71.9,3.6,2.0,47.0,4.4350000000000005
+810,"Lytle, Cecil William",Music,False,True,100.0,3.73,2.0,54.0,4.055
+811,"Terrazas Perez, Wilfrido D",Music,False,True,98.95,3.925,2.0,134.0,2.545
+812,"Cimini, Amy Marie",Music,False,True,73.6,3.49,2.0,216.0,4.73
 813,"Haywood, Kevin Matthew",Music,False,True,100.0,3.31,1.0,28.0,6.23
 814,"Zyskowski, Colin A",Music,False,True,85.7,3.83,1.0,29.0,5.64
 815,"Smyth, Tamara R.",Music,False,True,80.0,3.25,1.0,23.0,4.1
@@ -840,29 +840,29 @@
 838,"Cubukcu, Ertugrul",Anthropology,False,True,95.0,3.4850000000000003,2.0,85.0,6.9
 839,"Fenning, David",Anthropology,False,True,77.8,3.06,1.0,47.0,6.82
 840,"Meyers, Marc",Anthropology,False,True,62.5,3.13,1.0,15.0,6.5
-841,"Sher, Gila",History,False,False,87.5,3.505,2.0,80.0,2.7
+841,"Sher, Gila",History,False,True,87.5,3.505,2.0,80.0,2.7
 842,"Grush, Rick Scott",History,False,False,96.55000000000001,3.2825,4.0,774.0,4.9975
-843,"Anagnostopoulos, G. H.",History,False,False,91.39999999999999,3.3666666666666667,3.0,132.0,4.096666666666667
-844,"McKenzie, Kerry V.",History,False,False,95.55,3.325,2.0,114.0,4.355
-845,"Lamey, Andy M.",History,False,False,98.15714285714286,3.2457142857142856,7.0,569.0,5.272857142857143
-846,"Carr, Jennifer Rose",History,False,False,93.25,3.36,2.0,208.0,4.96
+843,"Anagnostopoulos, G. H.",History,False,True,91.39999999999999,3.3666666666666667,3.0,132.0,4.096666666666667
+844,"McKenzie, Kerry V.",History,False,True,95.55,3.325,2.0,114.0,4.355
+845,"Lamey, Andy M.",History,False,True,98.15714285714286,3.2457142857142856,7.0,569.0,5.272857142857143
+846,"Carr, Jennifer Rose",History,False,True,93.25,3.36,2.0,208.0,4.96
 847,"Fulkerson, Matthew Todd",History,False,True,90.89999999999999,3.4466666666666668,3.0,111.0,4.3966666666666665
-848,"Nelkin, Dana Kay",History,False,False,94.60000000000001,3.3166666666666664,3.0,90.0,5.543333333333333
+848,"Nelkin, Dana Kay",History,False,True,94.60000000000001,3.3166666666666664,3.0,90.0,5.543333333333333
 849,"Callender, Craig Adam",History,False,True,92.85,3.255,2.0,66.0,5.355
-850,"Arneson, Richard J.",History,False,False,67.93333333333334,2.8966666666666665,3.0,389.0,5.8
+850,"Arneson, Richard J.",History,False,True,67.93333333333334,2.8966666666666665,3.0,389.0,5.8
 851,"Wonderly, Monique L.",History,False,True,100.0,3.6,1.0,37.0,4.37
 852,"Speitel, Sebastian Georg Wern",History,False,False,100.0,3.67,1.0,28.0,7.5
 853,"Joyce, Kathryn Elizabeth",History,False,True,100.0,2.8,1.0,16.0,4.5
 854,"Martin, Noel B",History,False,True,100.0,3.4,1.0,32.0,7.3
-855,"Bazargan-Forward, Saba",History,False,False,96.5,3.215,4.0,431.0,5.1
+855,"Bazargan-Forward, Saba",History,False,True,96.5,3.215,4.0,431.0,5.1
 856,"Winning, Richard Jason",History,False,False,75.0,3.57,1.0,35.0,5.25
 857,"Tracz, Robert Brian",History,False,False,100.0,3.0,1.0,20.0,4.17
 858,"Knutzen, Jonathan",History,False,True,100.0,3.14,1.0,33.0,4.75
 859,"Stringer, Ryan Matthew",History,False,False,100.0,3.24,1.0,96.0,7.38
-860,"Rutherford, Donald Paul",History,False,False,100.0,3.1733333333333333,3.0,103.0,4.033333333333333
-861,"Hardimon, Michael O.",History,False,False,85.10000000000001,3.236666666666667,3.0,89.0,3.65
-862,"Cohen, Jonathan David",History,False,False,77.44999999999999,3.465,2.0,110.0,2.99
-863,"Brandt, Reuven A",History,False,False,96.35,3.295,2.0,172.0,4.085
+860,"Rutherford, Donald Paul",History,False,True,100.0,3.1733333333333333,3.0,103.0,4.033333333333333
+861,"Hardimon, Michael O.",History,False,True,85.10000000000001,3.236666666666667,3.0,89.0,3.65
+862,"Cohen, Jonathan David",History,False,True,77.44999999999999,3.465,2.0,110.0,2.99
+863,"Brandt, Reuven A",History,False,True,96.35,3.295,2.0,172.0,4.085
 864,"Allais, Lucy L.",History,False,True,100.0,3.33,1.0,64.0,3.72
 865,"Greene, Blythe Anastasia",History,False,True,92.3,3.55,1.0,32.0,4.65
 866,"Dougherty II, John Edward",History,False,False,87.1,3.6,1.0,69.0,3.69
@@ -883,14 +883,14 @@
 881,"Wright, Shelley Adams",Physics,True,True,93.65,3.2199999999999998,2.0,43.0,11.995000000000001
 882,"Dudko, Olga",Physics,True,True,87.5,3.33,1.0,26.0,5.83
 883,"Paddock, Mark",Physics,True,False,76.525,3.3074999999999997,4.0,1274.0,6.0600000000000005
-884,"Burgasser, Adam Jonathan",Physics,True,False,86.96666666666665,3.17,3.0,591.0,7.8566666666666665
+884,"Burgasser, Adam Jonathan",Physics,True,True,86.96666666666665,3.17,3.0,591.0,7.8566666666666665
 885,"Tsai, Philbert S",Physics,True,False,97.025,3.2975000000000003,4.0,1345.0,6.404999999999999
 886,"Yagil, Avi",Physics,True,False,64.04444444444444,3.305555555555556,9.0,4087.0,4.274444444444445
-887,"Ni, Kaixuan",Physics,True,False,89.73333333333333,3.186666666666666,3.0,446.0,7.196666666666666
+887,"Ni, Kaixuan",Physics,True,True,89.73333333333333,3.186666666666666,3.0,446.0,7.196666666666666
 888,"Keres, Dusan",Physics,True,False,90.35,3.175,2.0,670.0,6.13
 889,"Groisman, Alexander",Physics,True,False,60.23333333333333,3.0866666666666664,3.0,671.0,5.696666666666666
 890,"Shpyrko, Oleg",Physics,True,False,97.09999999999998,3.19,3.0,1038.0,6.57
-891,"Branson, James G",Physics,True,False,50.199999999999996,3.25,3.0,184.0,8.11
+891,"Branson, James G",Physics,True,True,50.199999999999996,3.25,3.0,184.0,8.11
 892,"Butov, Leonid",Physics,True,False,78.96666666666667,3.6033333333333335,3.0,190.0,5.126666666666667
 893,"Shotwell, Brian",Physics,True,False,92.1,3.01,4.0,566.0,8.2725
 894,"Coil, Alison",Physics,True,False,89.19999999999999,3.42,2.0,366.0,5.135
@@ -935,20 +935,20 @@
 933,"Saiegh, Sebastian",Linguistics,False,True,91.65,3.325,2.0,56.0,3.25
 934,"Feinberg, Richard Edward",Linguistics,False,True,85.7,3.67,1.0,41.0,3.79
 935,"Nellis, Gareth Hb",Linguistics,False,True,85.7,3.25,1.0,21.0,4.25
-936,"Sharpless, Isaac Walling",Linguistics,False,False,94.66666666666667,3.456666666666667,3.0,99.0,5.883333333333333
+936,"Sharpless, Isaac Walling",Linguistics,False,True,94.66666666666667,3.456666666666667,3.0,99.0,5.883333333333333
 937,"Merrell, Brandon",Linguistics,False,True,92.9,3.705,2.0,120.0,5.5
 938,"Vaughn, Abigail Leigh",Linguistics,False,True,92.7,3.436666666666667,3.0,185.0,6.06
-939,"Butler, Daniel",Linguistics,False,False,93.325,3.5524999999999998,4.0,472.0,4.2475
-940,"Wiens, David Abram",Linguistics,False,False,97.8,3.635,2.0,156.0,6.09
+939,"Butler, Daniel",Linguistics,False,True,93.325,3.5524999999999998,4.0,472.0,4.2475
+940,"Wiens, David Abram",Linguistics,False,True,97.8,3.635,2.0,156.0,6.09
 941,"Mackie, Gerald",Linguistics,False,False,67.7,3.44,1.0,262.0,3.09
 942,"Bonett, Derek John",Linguistics,False,True,100.0,4.0,1.0,18.0,6.5
 943,"Roth, Skyler Elijah Maclean",Linguistics,False,True,100.0,3.79,2.0,49.0,5.7
-944,"Liu, Huchen",Linguistics,False,False,70.0,3.185,2.0,47.0,5.8
+944,"Liu, Huchen",Linguistics,False,True,70.0,3.185,2.0,47.0,5.8
 945,"Spangler, Liesel Ingrid",Linguistics,False,True,100.0,3.78,1.0,22.0,5.23
 946,"Strom, Kaare",Linguistics,False,False,100.0,4.0,1.0,19.0,7.83
-947,"Morgan, Sean Thomas",Linguistics,False,False,84.36666666666667,3.42,3.0,84.0,6.326666666666667
+947,"Morgan, Sean Thomas",Linguistics,False,True,84.36666666666667,3.42,3.0,84.0,6.326666666666667
 948,"Bredell, Garrett Bailey",Linguistics,False,True,100.0,3.5,1.0,15.0,8.5
-949,"Gartzke, Erik",Linguistics,False,False,89.26666666666667,3.6966666666666668,3.0,381.0,4.5566666666666675
+949,"Gartzke, Erik",Linguistics,False,True,89.26666666666667,3.6966666666666668,3.0,381.0,4.5566666666666675
 950,"Lee, Lauren Elizabeth",Linguistics,False,True,100.0,3.63,1.0,10.0,5.25
 951,"Carlson, Taylor Nicole",Linguistics,False,True,100.0,3.75,1.0,11.0,3.5
 952,"Zhang, Jiakun Jack",Linguistics,False,True,100.0,3.57,1.0,27.0,7.75
@@ -971,11 +971,11 @@
 969,"Mares, David R",Linguistics,False,True,81.35,3.465,2.0,124.0,5.305
 970,"Slantchev, Branislav",Linguistics,False,True,92.6,3.375,2.0,135.0,4.904999999999999
 971,"Schneider, Christina",Linguistics,False,True,100.0,3.62,1.0,45.0,5.12
-972,"Hanes, Esther",Psychology,True,False,99.75,3.6900000000000004,4.0,904.0,3.4800000000000004
+972,"Hanes, Esther",Psychology,True,True,99.75,3.6900000000000004,4.0,904.0,3.4800000000000004
 973,"Rose, Fred E.",Psychology,True,True,96.2,3.31,3.0,662.0,5.31
 974,"Heyman, Gail D.",Psychology,True,True,96.43333333333334,3.766666666666666,6.0,411.0,7.323333333333334
 975,"Serences, John Thomas",Psychology,True,True,99.3,3.5,1.0,284.0,5.78
-976,"Frederick, David A",Psychology,True,False,97.05999999999999,3.3560000000000003,5.0,425.0,5.67
+976,"Frederick, David A",Psychology,True,True,97.05999999999999,3.3560000000000003,5.0,425.0,5.67
 977,"Geller, Emma Harlan",Psychology,True,False,99.58749999999999,3.4975,8.0,593.0,5.49625
 978,"Winkielman, Piotr",Psychology,True,True,92.85,3.4575,4.0,127.0,3.66
 979,"Lang, Ariel",Psychology,True,True,97.2,3.855,2.0,31.0,4.72
@@ -993,12 +993,12 @@
 991,"Anagnostaras, Stephan",Psychology,True,True,95.22,3.4519999999999995,5.0,653.0,4.398000000000001
 992,"Schurgin, Mark W",Psychology,True,False,98.1,3.66,1.0,303.0,3.32
 993,"Lowe, Angela Beth",Psychology,True,False,96.76,3.1859999999999995,5.0,882.0,5.518
-994,"Rickard, Timothy C.",Psychology,True,False,90.14,3.2700000000000005,5.0,436.0,4.154000000000001
-995,"Miller, Cory T.",Psychology,True,False,94.73333333333333,3.466666666666667,3.0,201.0,3.6733333333333333
-996,"Christenfeld, Nicholas",Psychology,True,False,80.8,3.468,5.0,289.0,3.9739999999999993
+994,"Rickard, Timothy C.",Psychology,True,True,90.14,3.2700000000000005,5.0,436.0,4.154000000000001
+995,"Miller, Cory T.",Psychology,True,True,94.73333333333333,3.466666666666667,3.0,201.0,3.6733333333333333
+996,"Christenfeld, Nicholas",Psychology,True,True,80.8,3.468,5.0,289.0,3.9739999999999993
 997,"Arnold, Andrew Joseph",Psychology,True,True,91.7,3.03,1.0,43.0,4.28
 998,"Albright, Thomas D",Psychology,True,False,100.0,3.53,1.0,77.0,6.62
-999,"Sousa, Margarette Pamela-Burd",Psychology,True,False,89.69999999999999,3.41,2.0,183.0,5.275
+999,"Sousa, Margarette Pamela-Burd",Psychology,True,True,89.69999999999999,3.41,2.0,183.0,5.275
 1000,"Aramovich, Nicholas P",Psychology,True,True,97.1,3.4,1.0,45.0,4.96
 1001,"Moranton, Nirelia Melbina-",Psychology,True,True,85.2,3.5,2.0,127.0,5.14
 1002,"Morgan, Adam Milton",Psychology,True,True,100.0,3.25,1.0,6.0,5.0
@@ -1030,18 +1030,18 @@
 1028,"Ehrich, Kristine R",Rady School of Management,False,True,94.6,3.26,9.0,463.0,4.276666666666667
 1029,"Demill, Burritt",Rady School of Management,False,True,100.0,3.44,1.0,38.0,4.69
 1030,"Bates, Kenneth Walter",Rady School of Management,False,True,92.95,3.3150000000000004,4.0,260.0,5.0200000000000005
-1031,"Campbell, Robert Harold",Rady School of Management,False,False,97.7,3.7390000000000008,10.0,1092.0,3.723
+1031,"Campbell, Robert Harold",Rady School of Management,False,True,97.7,3.7390000000000008,10.0,1092.0,3.723
 1032,"Fuller, Robert L.",Rady School of Management,False,True,82.84,3.716,10.0,799.0,5.1080000000000005
 1033,"Kim, Nancy Sun Kyung",Rady School of Management,False,True,92.3,3.6449999999999996,2.0,80.0,3.905
-1034,"Lindenberger, Wade Douglas",Rady School of Management,False,False,98.13636363636364,3.681818181818181,11.0,902.0,3.9590909090909094
+1034,"Lindenberger, Wade Douglas",Rady School of Management,False,True,98.13636363636364,3.681818181818181,11.0,902.0,3.9590909090909094
 1035,"Klaas, Jeffrey David",Rady School of Management,False,True,96.15,3.76,2.0,142.0,4.5649999999999995
 1036,"Greco, Frank James",Rady School of Management,False,True,100.0,3.56,1.0,13.0,2.5
-1037,"Houskeeper, Robert",Rady School of Management,False,False,86.93636363636364,3.523636363636364,11.0,1092.0,5.095454545454545
+1037,"Houskeeper, Robert",Rady School of Management,False,True,86.93636363636364,3.523636363636364,11.0,1092.0,5.095454545454545
 1038,"Blakley, Bruce",Rady School of Management,False,True,76.73333333333333,3.1633333333333336,3.0,169.0,5.346666666666667
-1039,"Pecore, Joseph P.",Rady School of Management,False,False,97.17777777777778,3.4966666666666666,9.0,1044.0,4.605555555555555
+1039,"Pecore, Joseph P.",Rady School of Management,False,True,97.17777777777778,3.4966666666666666,9.0,1044.0,4.605555555555555
 1040,"Perols, Johan Lars",Rady School of Management,False,True,99.35,3.595,4.0,223.0,5.98
-1041,"Buchanan, Harold G",Rady School of Management,False,False,92.71428571428571,3.34,7.0,730.0,4.964285714285714
-1042,"McKay, Mary A",Rady School of Management,False,False,88.66363636363637,3.266363636363636,11.0,579.0,5.020909090909091
+1041,"Buchanan, Harold G",Rady School of Management,False,True,92.71428571428571,3.34,7.0,730.0,4.964285714285714
+1042,"McKay, Mary A",Rady School of Management,False,True,88.66363636363637,3.266363636363636,11.0,579.0,5.020909090909091
 1043,"Zimmermann, Carsten",Rady School of Management,False,True,91.21666666666668,3.5466666666666664,6.0,401.0,4.073333333333333
 1044,"Moran, Cathleen L.",Rady School of Management,False,True,83.67777777777778,3.261111111111111,9.0,601.0,5.221111111111111
 1045,"Shaffer, Lisa Robock",Rady School of Management,False,True,97.8,3.58,1.0,71.0,5.83
@@ -1123,7 +1123,7 @@
 1121,"Laske, Gabi",SIO,True,False,96.0,3.68,1.0,328.0,3.26
 1122,"Rudnick, Daniel Lars",SIO,True,True,100.0,3.38,1.0,17.0,4.25
 1123,"Merrifield, Mark A",SIO,True,True,100.0,3.57,1.0,11.0,6.21
-1124,"Charles, Christopher D.",SIO,True,False,84.85,3.325,2.0,203.0,3.97
+1124,"Charles, Christopher D.",SIO,True,True,84.85,3.325,2.0,203.0,3.97
 1125,"Holland, Nicholas D.",SIO,True,False,80.7,3.27,1.0,141.0,4.2
 1126,"Send, Uwe",SIO,True,False,78.3,3.27,1.0,137.0,4.2
 1127,"Barbeau, Katherine",SIO,True,False,96.9,3.52,1.0,153.0,3.48
@@ -1168,7 +1168,7 @@
 1166,"Guazzo, Regina Anne",SIO,True,False,100.0,3.67,1.0,43.0,0.5
 1167,"Skrentny, John David",Sociology,False,False,99.6,3.4850000000000003,2.0,370.0,3.74
 1168,"Medvetz, Thomas Matthew",Sociology,False,True,89.4,3.23,1.0,107.0,6.46
-1169,"Ribas Norris, Janet Vanesa",Sociology,False,False,90.98333333333333,3.5500000000000003,6.0,308.0,5.958333333333333
+1169,"Ribas Norris, Janet Vanesa",Sociology,False,True,90.98333333333333,3.5500000000000003,6.0,308.0,5.958333333333333
 1170,"Rogers, Julia Ellen",Sociology,False,True,81.3,3.495,2.0,111.0,4.385
 1171,"Lampland, Martha",Sociology,False,True,87.5,3.29,2.0,47.0,4.585
 1172,"Tirshfield, Jeffrey T",Sociology,False,True,89.3,3.472,5.0,184.0,5.63
@@ -1179,20 +1179,20 @@
 1177,"Summers, Valerie R.",Sociology,False,True,95.80000000000001,3.455,2.0,182.0,4.525
 1178,"Biernacki, Richard",Sociology,False,True,100.0,3.525,2.0,99.0,5.5
 1179,"Rona-Tas, Akos",Sociology,False,True,90.60000000000001,3.7466666666666666,3.0,98.0,3.533333333333333
-1180,"Calderon-Zaks, Michael Aar",Sociology,False,False,63.36,3.432,5.0,135.0,4.35
+1180,"Calderon-Zaks, Michael Aar",Sociology,False,True,63.36,3.432,5.0,135.0,4.35
 1181,"Livingstone, Stacey Bryley",Sociology,False,True,100.0,3.71,2.0,80.0,5.965
-1182,"Kenworthy, Lane A.",Sociology,False,False,85.1,3.3825,4.0,138.0,5.3675
-1183,"Pardo Guerra, Juan Pablo",Sociology,False,False,88.09999999999998,3.64,3.0,102.0,4.013333333333333
+1182,"Kenworthy, Lane A.",Sociology,False,True,85.1,3.3825,4.0,138.0,5.3675
+1183,"Pardo Guerra, Juan Pablo",Sociology,False,True,88.09999999999998,3.64,3.0,102.0,4.013333333333333
 1184,"Thorpe, Charles Robert",Sociology,False,True,85.45,3.46,2.0,59.0,4.015000000000001
 1185,"Jules-Rosette, Bennetta W.",Sociology,False,True,97.63333333333333,3.7066666666666666,3.0,64.0,5.580000000000001
 1186,"Carter, Harrison Blaine",Sociology,False,True,95.45,3.1950000000000003,2.0,45.0,8.89
 1187,"Payne, Christine Anna",Sociology,False,True,100.0,3.71,1.0,42.0,5.07
-1188,"Schneider, Heidi L.",Sociology,False,False,94.75,3.485,4.0,180.0,4.782500000000001
+1188,"Schneider, Heidi L.",Sociology,False,True,94.75,3.485,4.0,180.0,4.782500000000001
 1189,"Navon, Daniel",Sociology,False,True,100.0,3.635,2.0,158.0,4.4350000000000005
 1190,"Troutman, Philip P",Sociology,False,True,55.6,3.38,1.0,27.0,4.72
 1191,"McVey, Cristin M",Sociology,False,True,100.0,3.7249999999999996,2.0,43.0,4.720000000000001
 1192,"Madsen, Richard P.",Sociology,False,True,100.0,4.0,1.0,19.0,2.5
-1193,"Raudenbush, Danielle",Sociology,False,False,94.73333333333333,3.5566666666666666,3.0,309.0,5.226666666666667
+1193,"Raudenbush, Danielle",Sociology,False,True,94.73333333333333,3.5566666666666666,3.0,309.0,5.226666666666667
 1194,"Sutton, April Marie",Sociology,False,False,97.6,3.54,1.0,75.0,3.82
 1195,"Scull, Andrew",Sociology,False,True,77.80000000000001,3.19,2.0,69.0,4.105
 1196,"Haydu, Jeffrey Miles",Sociology,False,True,100.0,3.77,1.0,68.0,3.39
@@ -1208,38 +1208,38 @@
 1206,"Larson, David Philip",Jacobs School of Engineering,True,False,100.0,3.88,1.0,24.0,2.17
 1207,"Williams, Ebonee P.",Jacobs School of Engineering,True,True,100.0,4.0,1.0,15.0,2.5
 1208,"Chilukuri, Lakshmi N",Sixth College,False,False,100.0,4.0,1.0,61.0,0.92
-1209,"Walsh, Kim C.",Theatre & Dance,False,False,96.60400000000001,3.8724000000000003,25.0,492.0,2.9668
-1210,"Harting, Carla Kelso",Theatre & Dance,False,False,96.66499999999999,3.8634999999999997,20.0,368.0,3.8285000000000005
-1211,"Robichaux, Natalie Griffith",Theatre & Dance,False,False,94.60714285714286,3.842142857142857,14.0,250.0,3.6092857142857135
+1209,"Walsh, Kim C.",Theatre & Dance,False,True,96.60400000000001,3.8724000000000003,25.0,492.0,2.9668
+1210,"Harting, Carla Kelso",Theatre & Dance,False,True,96.66499999999999,3.8634999999999997,20.0,368.0,3.8285000000000005
+1211,"Robichaux, Natalie Griffith",Theatre & Dance,False,True,94.60714285714286,3.842142857142857,14.0,250.0,3.6092857142857135
 1212,"Castro, Robert Jess",Theatre & Dance,False,True,100.0,3.823333333333333,3.0,52.0,7.323333333333333
 1213,"Barricelli, Marc Alexander",Theatre & Dance,False,True,100.0,3.67,1.0,15.0,3.83
 1214,"Dolan, Judith A.",Theatre & Dance,False,True,100.0,4.0,1.0,10.0,5.0
-1215,"Smith, Alison D",Theatre & Dance,False,False,98.0,3.9490000000000003,10.0,143.0,1.9969999999999999
+1215,"Smith, Alison D",Theatre & Dance,False,True,98.0,3.9490000000000003,10.0,143.0,1.9969999999999999
 1216,"Porter, Lisa",Theatre & Dance,False,True,100.0,3.29,1.0,30.0,3.88
-1217,"Salovey, Todd",Theatre & Dance,False,False,97.0625,3.8699999999999997,8.0,423.0,3.33875
+1217,"Salovey, Todd",Theatre & Dance,False,True,97.0625,3.8699999999999997,8.0,423.0,3.33875
 1218,"Teshome, Tezeru",Theatre & Dance,False,False,79.0,3.75,1.0,184.0,2.5
-1219,"Rincon, Patricia A.",Theatre & Dance,False,False,92.86363636363636,3.9936363636363637,11.0,243.0,1.6409090909090909
+1219,"Rincon, Patricia A.",Theatre & Dance,False,True,92.86363636363636,3.9936363636363637,11.0,243.0,1.6409090909090909
 1220,"Tregar, Kristen Lauren",Theatre & Dance,False,True,100.0,3.54,1.0,24.0,8.81
 1221,"Woods, Wind Dell",Theatre & Dance,False,True,82.4,3.5,1.0,51.0,4.5
 1222,"White, Bryan Curtiss",Theatre & Dance,False,False,100.0,3.7533333333333334,3.0,286.0,3.3666666666666667
-1223,"Caligagan, Maria T.",Theatre & Dance,False,False,97.82000000000001,3.9239999999999995,5.0,189.0,3.778
-1224,"Wilson, Terry A.",Theatre & Dance,False,False,100.0,3.8200000000000003,4.0,145.0,2.86
-1225,"Geiger, Eric",Theatre & Dance,False,False,100.0,3.9466666666666668,6.0,133.0,0.7933333333333333
+1223,"Caligagan, Maria T.",Theatre & Dance,False,True,97.82000000000001,3.9239999999999995,5.0,189.0,3.778
+1224,"Wilson, Terry A.",Theatre & Dance,False,True,100.0,3.8200000000000003,4.0,145.0,2.86
+1225,"Geiger, Eric",Theatre & Dance,False,True,100.0,3.9466666666666668,6.0,133.0,0.7933333333333333
 1226,"Jun, Grace Shin Hae",Theatre & Dance,False,True,94.45,3.835,4.0,132.0,1.9275
 1227,"Caligagan, Tony",Theatre & Dance,False,True,95.82857142857142,3.911428571428572,7.0,243.0,3.6000000000000005
 1228,"Valero, Oscar",Theatre & Dance,False,True,89.2,3.8,2.0,78.0,2.25
 1229,"Foster-King, Sandra",Theatre & Dance,False,True,82.5,3.99,3.0,141.0,3.3066666666666666
-1230,"Sammartano, Tonnie",Theatre & Dance,False,False,98.81666666666666,3.9416666666666664,6.0,158.0,1.55
-1231,"Snaith, Yolande",Theatre & Dance,False,False,85.35000000000001,3.98,6.0,103.0,2.5366666666666666
-1232,"Rincon, Alicia",Theatre & Dance,False,False,95.95714285714287,3.962857142857143,7.0,199.0,1.8842857142857141
+1230,"Sammartano, Tonnie",Theatre & Dance,False,True,98.81666666666666,3.9416666666666664,6.0,158.0,1.55
+1231,"Snaith, Yolande",Theatre & Dance,False,True,85.35000000000001,3.98,6.0,103.0,2.5366666666666666
+1232,"Rincon, Alicia",Theatre & Dance,False,True,95.95714285714287,3.962857142857143,7.0,199.0,1.8842857142857141
 1233,"Arcidiacono, Kristin",Theatre & Dance,False,False,96.25714285714285,3.9285714285714284,7.0,204.0,1.8842857142857146
 1234,"Padilla, Liliana Camille",Theatre & Dance,False,False,94.16,3.872,5.0,71.0,4.4159999999999995
 1235,"Stokes, Cynthia Sue",Theatre & Dance,False,False,100.0,3.8475,4.0,67.0,4.2375
 1236,"Schwartz, Michael",Theatre & Dance,False,False,100.0,4.0,1.0,15.0,2.5
 1237,"Reimer, Jonathan Charles",Theatre & Dance,False,False,99.13333333333333,3.8000000000000003,3.0,354.0,3.06
 1238,"Dallas, Deleon Demetrius",Theatre & Dance,False,False,100.0,4.0,1.0,50.0,1.8
-1239,"Fulton, Julia",Theatre & Dance,False,False,93.76666666666667,3.893333333333333,3.0,161.0,2.356666666666667
-1240,"Weinberg, Sadie",Theatre & Dance,False,False,100.0,3.902,5.0,128.0,1.9880000000000002
+1239,"Fulton, Julia",Theatre & Dance,False,True,93.76666666666667,3.893333333333333,3.0,161.0,2.356666666666667
+1240,"Weinberg, Sadie",Theatre & Dance,False,True,100.0,3.902,5.0,128.0,1.9880000000000002
 1241,"Hale, Debra",Theatre & Dance,False,False,100.0,4.0,1.0,18.0,2.94
 1242,"Vickerman, Linda Joanne",Theatre & Dance,False,True,100.0,4.0,1.0,15.0,4.9
 1243,"Osmanski, Joy K",Theatre & Dance,False,True,100.0,3.67,1.0,19.0,3.17
@@ -1250,7 +1250,7 @@
 1248,"Brill, Robert L.",Theatre & Dance,False,True,100.0,4.0,1.0,15.0,5.83
 1249,"Oates, Charles Bruce",Theatre & Dance,False,False,100.0,4.0,1.0,11.0,1.17
 1250,"George, Nadine",Theatre & Dance,False,True,100.0,4.0,2.0,51.0,4.1
-1251,"Glabe, Heather G.",Theatre & Dance,False,False,100.0,3.795,2.0,47.0,1.77
+1251,"Glabe, Heather G.",Theatre & Dance,False,True,100.0,3.795,2.0,47.0,1.77
 1252,"Devaguptapu, Divya",Theatre & Dance,False,True,94.1,4.0,1.0,46.0,2.15
 1253,"Iizuka, Naomi Hisako",Theatre & Dance,False,False,95.83333333333333,3.9450000000000003,6.0,86.0,4.0249999999999995
 1254,"Stein, Deborah Isobel",Theatre & Dance,False,True,100.0,3.88,1.0,19.0,5.61
@@ -1263,16 +1263,16 @@
 1261,"Carmody, James",Theatre & Dance,False,True,100.0,3.825,2.0,43.0,4.35
 1262,"Clancy, Liam",Theatre & Dance,False,False,94.1,3.94,1.0,31.0,1.17
 1263,"Sinay, Patricia",Thurgood Marshall College,False,False,31.25,3.75,2.0,19.0,4.585
-1264,"Bussell, Mirle Rabinowitz",Urban Studies and Planning,False,False,98.225,3.725,4.0,153.0,3.3325
+1264,"Bussell, Mirle Rabinowitz",Urban Studies and Planning,False,True,98.225,3.725,4.0,153.0,3.3325
 1265,"Lewis, Leslie R",Urban Studies and Planning,False,True,98.78,3.4599999999999995,5.0,490.0,4.75
 1266,"Edwards, Gregory S",Urban Studies and Planning,False,True,98.55,3.665,2.0,61.0,3.685
 1267,"Garcia, Kathleen",Urban Studies and Planning,False,True,100.0,3.54,1.0,30.0,3.12
 1268,"Peerson, Susan",Urban Studies and Planning,False,True,97.33333333333333,3.741666666666667,6.0,161.0,5.346666666666667
 1269,"Wartell, Julie Dara",Urban Studies and Planning,False,True,92.25,3.8449999999999998,4.0,98.0,4.3825
 1270,"Hajrasouliha, Amir Hossein",Urban Studies and Planning,False,True,100.0,3.38,1.0,19.0,5.25
-1271,"Hinds, Juli Beth",Urban Studies and Planning,False,False,100.0,3.365,2.0,81.0,3.375
+1271,"Hinds, Juli Beth",Urban Studies and Planning,False,True,100.0,3.365,2.0,81.0,3.375
 1272,"Norr, Alex Vaughn",Urban Studies and Planning,False,False,94.7,3.39,1.0,46.0,3.55
-1273,"Moeder, Nathan L",Urban Studies and Planning,False,False,100.0,3.51,2.0,84.0,4.6
+1273,"Moeder, Nathan L",Urban Studies and Planning,False,True,100.0,3.51,2.0,84.0,4.6
 1274,"Chavez, Richard Gerard",Urban Studies and Planning,False,True,100.0,3.8,1.0,20.0,4.1
 1275,"McGrory, Jack",Urban Studies and Planning,False,True,100.0,4.0,1.0,23.0,2.83
 1276,"Calavita, Nico",Urban Studies and Planning,False,True,71.4,2.57,1.0,18.0,5.36
@@ -1285,28 +1285,28 @@
 1283,"Walsh, Zoe C",Visual Arts,False,True,90.9,3.9,1.0,16.0,5.77
 1284,"Lajarin-Encina, Aitor",Visual Arts,False,True,96.96666666666665,3.8699999999999997,3.0,49.0,8.616666666666667
 1285,"Herc-Balaszek, Malgorzata",Visual Arts,False,True,100.0,4.0,1.0,8.0,9.5
-1286,"Tonies, Joshua Vanjaymes",Visual Arts,False,False,98.12857142857142,3.7585714285714285,7.0,242.0,8.172857142857143
+1286,"Tonies, Joshua Vanjaymes",Visual Arts,False,True,98.12857142857142,3.7585714285714285,7.0,242.0,8.172857142857143
 1287,"Gallaccio, Anya",Visual Arts,False,True,86.6,3.815,2.0,30.0,8.355
 1288,"Nodelman, Sheldon A.",Visual Arts,False,True,56.2,2.8200000000000003,2.0,92.0,5.4
-1289,"Rose, Jordan M",Visual Arts,False,False,96.66666666666667,3.3633333333333333,3.0,92.0,7.18
-1290,"Bryson, William N",Visual Arts,False,False,95.875,3.635,4.0,334.0,5.04
+1289,"Rose, Jordan M",Visual Arts,False,True,96.66666666666667,3.3633333333333333,3.0,92.0,7.18
+1290,"Bryson, William N",Visual Arts,False,True,95.875,3.635,4.0,334.0,5.04
 1291,"Shen, Kuiyi",Visual Arts,False,True,90.0,3.75,3.0,228.0,4.423333333333333
 1292,"Stalbaum, Brett",Visual Arts,False,True,98.67999999999999,3.8019999999999996,5.0,154.0,6.432
-1293,"Dominguez, Ricardo",Visual Arts,False,False,79.85,3.795,2.0,89.0,3.29
+1293,"Dominguez, Ricardo",Visual Arts,False,True,79.85,3.795,2.0,89.0,3.29
 1294,"Bratton, Benjamin H.",Visual Arts,False,True,67.06666666666668,3.436666666666667,3.0,164.0,5.669999999999999
-1295,"Cartwright, Lisa",Visual Arts,False,False,87.97500000000001,3.8825,4.0,447.0,4.1775
-1296,"Kester, Grant",Visual Arts,False,False,98.36666666666667,3.643333333333333,3.0,317.0,4.836666666666667
+1295,"Cartwright, Lisa",Visual Arts,False,True,87.97500000000001,3.8825,4.0,447.0,4.1775
+1296,"Kester, Grant",Visual Arts,False,True,98.36666666666667,3.643333333333333,3.0,317.0,4.836666666666667
 1297,"Wallen, Ruth",Visual Arts,False,True,87.5,3.86,1.0,25.0,8.0
-1298,"Porter, Ava Hermine",Visual Arts,False,False,94.6,3.73,2.0,193.0,6.65
+1298,"Porter, Ava Hermine",Visual Arts,False,True,94.6,3.73,2.0,193.0,6.65
 1299,"Mangolte, Babette",Visual Arts,False,True,40.7,3.34,3.0,69.0,11.079999999999998
 1300,"Miller, Nicole L",Visual Arts,False,True,84.4,3.2125000000000004,4.0,77.0,7.779999999999999
 1301,"Wetzler, Graydon K.",Visual Arts,False,True,95.0,3.7,1.0,20.0,5.2
-1302,"Woods, Ann",Visual Arts,False,False,99.35,3.59,2.0,373.0,4.245
+1302,"Woods, Ann",Visual Arts,False,True,99.35,3.59,2.0,373.0,4.245
 1303,"Jessica, D'Elena-Tweed Eri",Visual Arts,False,False,80.8,3.45,1.0,137.0,6.27
-1304,"Cross, Brian R",Visual Arts,False,False,91.76,3.5420000000000003,5.0,316.0,7.241999999999999
+1304,"Cross, Brian R",Visual Arts,False,True,91.76,3.5420000000000003,5.0,316.0,7.241999999999999
 1305,"Li, Huai",Visual Arts,False,True,100.0,3.9166666666666665,3.0,62.0,4.47
 1306,"Paden, Jonathon Dean",Visual Arts,False,True,75.0,3.75,1.0,22.0,13.0
-1307,"Anderson, Shane Nicholas",Visual Arts,False,False,100.0,3.6550000000000002,2.0,76.0,7.35
+1307,"Anderson, Shane Nicholas",Visual Arts,False,True,100.0,3.6550000000000002,2.0,76.0,7.35
 1308,"Bateman, Vanessa Mae",Visual Arts,False,False,100.0,3.65,1.0,35.0,4.41
 1309,"Park, Kyong Dong",Visual Arts,False,True,78.39999999999999,3.8000000000000003,3.0,117.0,5.083333333333333
 1310,"Rigg, Brianna D",Visual Arts,False,True,100.0,3.9050000000000002,2.0,53.0,5.605
@@ -1320,7 +1320,7 @@
 1318,"Byrd, Stefani Michele",Visual Arts,False,True,100.0,3.71,1.0,15.0,5.36
 1319,"Grenader, Emily Ruth",Visual Arts,False,True,100.0,4.0,1.0,16.0,5.5
 1320,"Williams, Alena J",Visual Arts,False,True,100.0,3.61,1.0,26.0,4.92
-1321,"Gomez Mostajo, Maria Loren",Visual Arts,False,False,81.7,3.74,4.0,311.0,5.819999999999999
+1321,"Gomez Mostajo, Maria Loren",Visual Arts,False,True,81.7,3.74,4.0,311.0,5.819999999999999
 1322,"O'Callaghan, Deirdre M",Visual Arts,False,True,62.5,3.4,2.0,41.0,7.875
 1323,"Jacobs, Bryan C",Visual Arts,False,True,100.0,3.57,1.0,22.0,12.5
 1324,"Sowell, Teri Lynne",Visual Arts,False,False,100.0,3.56,1.0,107.0,4.36
@@ -1336,32 +1336,32 @@
 1334,"Almeida, Jane",Visual Arts,False,False,46.3,3.6,1.0,130.0,5.44
 1335,"Roxworthy, Emily",Warren College,False,False,100.0,4.0,1.0,31.0,1.21
 1336,"Debnath, Anjan",Warren College,False,False,88.9,4.0,1.0,12.0,1.39
-1337,"Blomstedt, Elizabeth Ann",Warren College Writing Program,False,False,100.0,3.59,4.0,76.0,6.6325
+1337,"Blomstedt, Elizabeth Ann",Warren College Writing Program,False,True,100.0,3.59,4.0,76.0,6.6325
 1338,"Young, Mark T",Warren College Writing Program,False,True,96.825,3.3237500000000004,8.0,146.0,6.305
 1339,"Pedler, John Christopher",Warren College Writing Program,False,True,100.0,2.75,1.0,15.0,7.5
 1340,"Veal, Adam",Warren College Writing Program,False,True,92.3,3.69,1.0,15.0,7.12
 1341,"Griffin, Stephen Edward",Warren College Writing Program,False,True,100.0,3.17,1.0,14.0,8.83
 1342,"Zhang, Yingjin",Literature,False,True,83.7,3.71,1.0,322.0,4.32
 1343,"Miyao, Daisuke",Literature,False,True,98.16666666666667,3.85,3.0,817.0,3.3699999999999997
-1344,"Vitkus, Daniel J.",Literature,False,False,88.575,3.3175,4.0,116.0,6.865
+1344,"Vitkus, Daniel J.",Literature,False,True,88.575,3.3175,4.0,116.0,6.865
 1345,"Tonkovich, Nicole",Literature,False,True,91.65,3.75,2.0,29.0,4.9350000000000005
-1346,"Walkiewicz, Kathryn A",Literature,False,False,100.0,3.7659999999999996,5.0,143.0,6.1659999999999995
-1347,"Ploye, Catherine",Literature,False,False,97.14285714285714,3.3685714285714283,7.0,115.0,5.704285714285715
+1346,"Walkiewicz, Kathryn A",Literature,False,True,100.0,3.7659999999999996,5.0,143.0,6.1659999999999995
+1347,"Ploye, Catherine",Literature,False,True,97.14285714285714,3.3685714285714283,7.0,115.0,5.704285714285715
 1348,"Kontje, Todd Curtis",Literature,False,True,100.0,3.5,1.0,11.0,3.7
 1349,"Fischer-Grunski, Eva K",Literature,False,False,100.0,3.795,2.0,42.0,3.925
-1350,"De Marchi Gherini, Adriana",Literature,False,False,98.89999999999999,3.9071428571428575,7.0,144.0,3.502857142857143
-1351,"Lee, Jeyseon",Literature,False,False,81.525,3.3075,8.0,133.0,5.8825
-1352,"Wirshbo, Eliot",Literature,False,False,94.43333333333334,3.231666666666667,6.0,135.0,6.213333333333334
+1350,"De Marchi Gherini, Adriana",Literature,False,True,98.89999999999999,3.9071428571428575,7.0,144.0,3.502857142857143
+1351,"Lee, Jeyseon",Literature,False,True,81.525,3.3075,8.0,133.0,5.8825
+1352,"Wirshbo, Eliot",Literature,False,True,94.43333333333334,3.231666666666667,6.0,135.0,6.213333333333334
 1353,"Murray, Kourtney Kristine",Literature,False,False,94.4,3.25,1.0,34.0,5.61
-1354,"Wells, Patricia Rebecca",Literature,False,False,99.1625,3.81375,8.0,173.0,4.9037500000000005
+1354,"Wells, Patricia Rebecca",Literature,False,True,99.1625,3.81375,8.0,173.0,4.9037500000000005
 1355,"Chacon, Gloria Elizabeth",Literature,False,True,100.0,3.5366666666666666,3.0,44.0,6.076666666666667
 1356,"Pita, Beatrice M",Literature,False,False,92.64000000000001,3.436,5.0,117.0,4.266
 1357,"Lerer, Seth",Literature,False,True,95.25,3.8183333333333334,6.0,359.0,5.086666666666667
 1358,"Jed, Stephanie H",Literature,False,True,95.8,3.92,1.0,61.0,2.75
-1359,"Forbes, Camille",Literature,False,False,92.2,3.4433333333333334,3.0,108.0,3.98
+1359,"Forbes, Camille",Literature,False,True,92.2,3.4433333333333334,3.0,108.0,3.98
 1360,"Banales, Melissa",Literature,False,True,94.92,3.91,5.0,109.0,4.017999999999999
-1361,"Springer, Anna Joy",Literature,False,False,79.67999999999999,3.5780000000000003,5.0,176.0,5.2459999999999996
-1362,"Hoang, Lily Kim",Literature,False,False,92.53999999999999,3.752,5.0,174.0,5.59
+1361,"Springer, Anna Joy",Literature,False,True,79.67999999999999,3.5780000000000003,5.0,176.0,5.2459999999999996
+1362,"Hoang, Lily Kim",Literature,False,True,92.53999999999999,3.752,5.0,174.0,5.59
 1363,"Som, Brandon D",Literature,False,False,100.0,3.85,1.0,83.0,3.5
 1364,"Cancel, Robert",Literature,False,True,87.5,3.435,2.0,28.0,5.605
 1365,"Giordano, Kailey Nicole",Literature,False,True,100.0,3.64,1.0,15.0,10.65
@@ -1370,17 +1370,17 @@
 1368,"Vippermancohen, Melissa Rache",Literature,False,True,100.0,3.75,1.0,12.0,8.1
 1369,"Bottcher, Carolin",Literature,False,True,100.0,3.45,1.0,14.0,5.95
 1370,"Zavodny, Tatiana Sophia",Literature,False,True,91.7,3.83,1.0,23.0,3.59
-1371,"Liao, Ping H",Literature,False,False,89.3,3.8499999999999996,4.0,250.0,4.2700000000000005
+1371,"Liao, Ping H",Literature,False,True,89.3,3.8499999999999996,4.0,250.0,4.2700000000000005
 1372,"Davidson, R. Michael",Literature,False,True,100.0,3.75,1.0,12.0,5.7
 1373,"Woodhull, Winifred Johanna",Literature,False,False,100.0,4.0,1.0,4.0,3.5
 1374,"Heinrich, Larissa",Literature,False,True,89.25,3.82,2.0,377.0,5.3100000000000005
 1375,"Berthelier, Benoit P",Literature,False,True,98.45,3.715,2.0,172.0,4.46
 1376,"Loose, Margaret",Literature,False,True,100.0,3.723333333333333,3.0,58.0,3.776666666666667
 1377,"Odom, Mychal Matsemelaali",Literature,False,False,74.3,3.77,1.0,79.0,3.44
-1378,"Mebane, Julia",Literature,False,False,97.78,3.564,5.0,114.0,5.458
-1379,"Sanchez, Rosaura",Literature,False,False,85.65,3.5700000000000003,2.0,102.0,4.890000000000001
+1378,"Mebane, Julia",Literature,False,True,97.78,3.564,5.0,114.0,5.458
+1379,"Sanchez, Rosaura",Literature,False,True,85.65,3.5700000000000003,2.0,102.0,4.890000000000001
 1380,"Cohen, Alain J. J.",Literature,False,True,100.0,3.615,2.0,41.0,3.415
-1381,"Pafunda, Danielle",Literature,False,False,98.075,3.8075,4.0,139.0,4.8525
+1381,"Pafunda, Danielle",Literature,False,True,98.075,3.8075,4.0,139.0,4.8525
 1382,"Johnson, Sara E.",Literature,False,False,97.2,3.69,1.0,45.0,4.07
 1383,"Morse, Ainsley",Literature,False,True,100.0,3.7,2.0,30.0,7.234999999999999
 1384,"Kokotovic, Milos",Literature,False,True,100.0,3.755,2.0,43.0,6.5
